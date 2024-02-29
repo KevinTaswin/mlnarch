@@ -1,0 +1,902 @@
+[11:33:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:33:54] [ServerMain/INFO]: Loaded 1174 recipes
+[11:33:54] [ServerMain/INFO]: Loaded 1271 advancements
+[11:33:55] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[11:33:55] [Server thread/WARN]: ****************************
+[11:33:55] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[11:33:55] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[11:33:55] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[11:33:55] [Server thread/WARN]: ****************************
+[11:33:55] [Server thread/INFO]: Loading properties
+[11:33:55] [Server thread/INFO]: This server is running Paper version git-Paper-364 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 0ae58c0)
+[11:33:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:33:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:33:58] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[11:33:58] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[11:33:59] [Server thread/INFO]: Default game type: SURVIVAL
+[11:33:59] [Server thread/INFO]: Generating keypair
+[11:33:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:33:59] [Server thread/INFO]: Using epoll channel type
+[11:33:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[11:33:59] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[11:34:00] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b88-94eabd7)
+[11:34:01] [Server thread/INFO]: [floodgate] Took 1,563ms to boot Floodgate
+[11:34:01] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.1-SNAPSHOT
+[11:34:02] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[11:34:02] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[11:34:02] [Server thread/INFO]: [GeyserSkinManager] Loading server plugin GeyserSkinManager v1.7
+[11:34:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:34:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:34:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:34:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:34:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:34:02] [Server thread/INFO]: Preparing level "world"
+[11:34:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:34:04] [Server thread/INFO]: Time elapsed: 259 ms
+[11:34:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:34:04] [Server thread/INFO]: Time elapsed: 53 ms
+[11:34:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:34:04] [Server thread/INFO]: Time elapsed: 61 ms
+[11:34:04] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b88-94eabd7)
+[11:34:06] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.1-SNAPSHOT
+[11:34:06] [Server thread/INFO]: [GeyserSkinManager] Enabling GeyserSkinManager v1.7
+[11:34:07] [Server thread/WARN]: [GeyserSkinManager] ForceShowSkins active through config; Floodgate check is bypassed!
+[11:34:07] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[11:34:07] [Server thread/INFO]: [Geyser-Spigot] 
+[11:34:07] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.1-SNAPSHOT (git-master-61b3ffd)
+[11:34:07] [Server thread/INFO]: [Geyser-Spigot] 
+[11:34:07] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[11:34:18] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:25565
+[11:34:18] [Server thread/INFO]: [Geyser-Spigot] Done (11.323s)! Run /geyser help for help!
+[11:34:19] [Server thread/INFO]: Running delayed init tasks
+[11:34:19] [Server thread/INFO]: Done (23.805s)! For help, type "help"
+[11:34:19] [Server thread/INFO]: Timings Reset
+[11:34:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[11:34:55] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.4.79.208:32031 tried to connect!
+[11:34:56] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.4.79.208:32031 tried to connect!
+[11:34:57] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.4.79.208:32031 tried to connect!
+[11:34:57] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.4.79.208:32031 tried to connect!
+[11:34:58] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.4.79.208:32031 tried to connect!
+[11:34:58] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.4.79.208:32031 tried to connect!
+[11:34:59] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.4.79.208:32031 tried to connect!
+[11:35:00] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.4.79.208:32031 tried to connect!
+[11:50:04] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:50:06] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:50:06] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:50:07] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[11:50:07] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[11:50:08] [Server thread/INFO]: .KevinTaswin joined the game
+[11:50:08] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 583 at ([world]876.30001, 67.62336950176135, 1042.1012)
+[11:50:30] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:50:30] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[11:50:30] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[11:50:30] [Server thread/INFO]: .KevinTaswin left the game
+[11:50:42] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:50:43] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:50:43] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:50:44] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[11:50:44] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[11:50:44] [Server thread/INFO]: .KevinTaswin joined the game
+[11:50:44] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 842 at ([world]876.30001, 67.62336950176135, 1042.1012)
+[11:50:56] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[11:50:56] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:50:56] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[11:50:56] [Server thread/INFO]: .KevinTaswin left the game
+[11:51:08] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:51:09] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:51:09] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:51:09] [Geyser Spigot connection thread-5-1/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[11:51:09] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[11:51:10] [Server thread/INFO]: .KevinTaswin joined the game
+[11:51:10] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 1103 at ([world]876.30001, 67.55250210301658, 1042.1012)
+[11:51:31] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[11:51:31] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:51:31] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[11:51:31] [Server thread/INFO]: .KevinTaswin left the game
+[11:51:44] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:51:45] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:51:45] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:51:46] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[11:51:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[11:51:47] [Server thread/INFO]: .KevinTaswin joined the game
+[11:51:47] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 1364 at ([world]876.30001, 67.55250210301658, 1042.1012)
+[11:52:03] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:52:03] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[11:52:03] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[11:52:03] [Server thread/INFO]: .KevinTaswin left the game
+[11:52:15] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:52:15] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:52:15] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:52:16] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[11:52:16] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[11:52:16] [Server thread/INFO]: .KevinTaswin joined the game
+[11:52:16] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 1626 at ([world]876.30001, 67.03427627577663, 1042.1012)
+[11:52:29] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[11:52:29] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:52:29] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[11:52:29] [Server thread/INFO]: .KevinTaswin left the game
+[11:52:47] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:52:48] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:52:48] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:52:49] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[11:52:50] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[11:52:50] [Server thread/INFO]: .KevinTaswin joined the game
+[11:52:50] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 1888 at ([world]876.30001, 67.03427627577663, 1042.1012)
+[11:53:25] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:53:25] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[11:53:25] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[11:53:25] [Server thread/INFO]: .KevinTaswin left the game
+[11:53:50] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:53:51] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:53:51] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:53:52] [Geyser Spigot connection thread-5-1/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[11:53:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[11:53:52] [Server thread/INFO]: .KevinTaswin joined the game
+[11:53:52] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 2169 at ([world]876.5, 67.0, 1042.5)
+[11:54:15] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:54:15] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[11:54:15] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[11:54:16] [Server thread/INFO]: .KevinTaswin left the game
+[11:54:57] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:54:58] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:54:58] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:54:59] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[11:54:59] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[11:54:59] [Server thread/INFO]: .KevinTaswin joined the game
+[11:54:59] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 2449 at ([world]876.5, 67.0, 1042.5)
+[11:55:32] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:55:32] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[11:55:32] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[11:55:32] [Server thread/INFO]: .KevinTaswin left the game
+[11:55:51] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:55:52] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:55:52] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:55:53] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[11:55:53] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[11:55:54] [Server thread/INFO]: .KevinTaswin joined the game
+[11:55:54] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 2732 at ([world]876.5, 67.0, 1042.5)
+[11:56:31] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[11:56:31] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:56:31] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[11:56:31] [Server thread/INFO]: .KevinTaswin left the game
+[11:58:05] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:58:06] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:58:06] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:58:07] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[11:58:07] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[11:58:07] [Server thread/INFO]: .KevinTaswin joined the game
+[11:58:07] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 3019 at ([world]876.5, 67.0, 1042.5)
+[11:58:39] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[11:58:39] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:58:39] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[11:58:39] [Server thread/INFO]: .KevinTaswin left the game
+[11:58:52] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:58:52] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:58:52] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:58:52] [User Authenticator #0/INFO]: UUID of player KevinTaswin is 5990d5ec-2c2c-355c-b46c-b65a2472c7c5
+[11:58:52] [Server thread/INFO]: KevinTaswin joined the game
+[11:58:52] [Server thread/INFO]: KevinTaswin[/114.10.27.46:0] logged in with entity id 3302 at ([world]877.1691, 67.0, 1043.9348)
+[11:59:10] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:59:10] [Server thread/INFO]: KevinTaswin lost connection: Disconnected
+[11:59:10] [Server thread/INFO]: KevinTaswin left the game
+[11:59:22] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[11:59:23] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[11:59:23] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[11:59:24] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[11:59:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[11:59:24] [Server thread/INFO]: .KevinTaswin joined the game
+[11:59:24] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 3586 at ([world]876.5, 67.0, 1042.5)
+[11:59:38] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[11:59:38] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[11:59:38] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[11:59:38] [Server thread/INFO]: .KevinTaswin left the game
+[12:00:01] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[12:00:02] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:00:02] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:00:03] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:00:03] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:00:03] [Server thread/INFO]: .KevinTaswin joined the game
+[12:00:03] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 3872 at ([world]876.5, 67.0, 1042.5)
+[12:00:20] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:00:20] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:00:20] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:00:20] [Server thread/INFO]: .KevinTaswin left the game
+[12:00:34] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[12:00:35] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:00:35] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:00:36] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:00:36] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:00:36] [Server thread/INFO]: .KevinTaswin joined the game
+[12:00:36] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 4160 at ([world]876.5, 67.0, 1042.5)
+[12:00:59] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:00:59] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:00:59] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:00:59] [Server thread/INFO]: .KevinTaswin left the game
+[12:01:11] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[12:01:12] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:01:12] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:01:13] [Geyser Spigot connection thread-5-1/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:01:13] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:01:13] [Server thread/INFO]: .KevinTaswin joined the game
+[12:01:13] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 4448 at ([world]876.5, 67.0, 1042.5)
+[12:01:41] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:01:41] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:01:41] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:01:41] [Server thread/INFO]: .KevinTaswin left the game
+[12:01:53] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[12:01:54] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:01:54] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:01:55] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:01:55] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:01:55] [Server thread/INFO]: .KevinTaswin joined the game
+[12:01:55] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 4737 at ([world]876.9208, 67.0, 1043.2538)
+[12:02:10] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:02:10] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:02:10] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:02:10] [Server thread/INFO]: .KevinTaswin left the game
+[12:02:24] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[12:02:25] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:02:25] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:02:25] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:02:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:02:26] [Server thread/INFO]: .KevinTaswin joined the game
+[12:02:26] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 5025 at ([world]876.9208, 67.0, 1043.2538)
+[12:02:37] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:02:37] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:02:37] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:02:37] [Server thread/INFO]: .KevinTaswin left the game
+[12:02:51] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[12:02:52] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:02:52] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:02:52] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:02:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:02:52] [Server thread/INFO]: .KevinTaswin joined the game
+[12:02:52] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 5314 at ([world]876.9208, 67.0, 1043.2538)
+[12:04:41] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:04:41] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:04:41] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:04:41] [Server thread/INFO]: .KevinTaswin left the game
+[12:05:00] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[12:05:01] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:05:01] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:05:02] [Geyser Spigot connection thread-5-1/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:05:02] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:05:02] [Server thread/INFO]: .KevinTaswin joined the game
+[12:05:02] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 5678 at ([world]876.9208, 67.0, 1043.2538)
+[12:05:30] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:05:30] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:05:30] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:05:30] [Server thread/INFO]: .KevinTaswin left the game
+[12:05:53] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[12:05:54] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:05:54] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:05:56] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:05:56] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:05:56] [Server thread/INFO]: .KevinTaswin joined the game
+[12:05:56] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 5971 at ([world]876.9208, 67.0, 1043.2538)
+[12:06:41] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:06:42] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:06:42] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:06:42] [Server thread/INFO]: .KevinTaswin left the game
+[12:06:56] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[12:06:56] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:06:56] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:06:57] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:06:57] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:06:57] [Server thread/INFO]: .KevinTaswin joined the game
+[12:06:57] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 6287 at ([world]876.9208, 67.0, 1043.2538)
+[12:07:15] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:07:15] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:07:15] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:07:15] [Server thread/INFO]: .KevinTaswin left the game
+[12:07:32] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:19256 tried to connect!
+[12:07:32] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:07:32] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:07:34] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:07:34] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:07:34] [Server thread/INFO]: .KevinTaswin joined the game
+[12:07:34] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 6581 at ([world]876.9208, 67.0, 1043.2538)
+[12:07:54] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:07:54] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:07:54] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:07:54] [Server thread/INFO]: .KevinTaswin left the game
+[12:19:41] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20729 tried to connect!
+[12:19:53] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:19:53] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:19:54] [Geyser Spigot connection thread-5-1/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:19:54] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:19:54] [Server thread/INFO]: .KevinTaswin joined the game
+[12:19:54] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 6876 at ([world]876.9208, 67.0, 1043.2538)
+[12:21:41] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:21:41] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:21:41] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:21:41] [Server thread/INFO]: .KevinTaswin left the game
+[12:21:56] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20729 tried to connect!
+[12:21:57] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20729 tried to connect!
+[12:21:57] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20729 tried to connect!
+[12:21:58] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20729 tried to connect!
+[12:21:58] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20729 tried to connect!
+[12:22:51] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20729 tried to connect!
+[12:22:52] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20729 tried to connect!
+[12:22:52] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20729 tried to connect!
+[12:22:52] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20729 tried to connect!
+[12:22:53] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20729 tried to connect!
+[12:23:07] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:23:07] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:23:08] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:23:08] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:23:08] [Server thread/INFO]: .KevinTaswin joined the game
+[12:23:08] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 7253 at ([world]876.9208, 67.0, 1043.2538)
+[12:34:24] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:34:24] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:34:24] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:34:24] [Server thread/INFO]: .KevinTaswin left the game
+[12:47:48] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20746 tried to connect!
+[12:47:50] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:47:50] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:47:51] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:47:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:47:51] [Server thread/INFO]: .KevinTaswin joined the game
+[12:47:51] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 8149 at ([world]876.30001, 67.0, 1041.30001)
+[12:48:09] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:48:09] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:48:09] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:48:10] [Server thread/INFO]: .KevinTaswin left the game
+[12:48:29] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20746 tried to connect!
+[12:48:30] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20746 tried to connect!
+[12:48:30] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20746 tried to connect!
+[12:48:32] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[12:48:32] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[12:48:33] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[12:48:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[12:48:33] [Server thread/INFO]: .KevinTaswin joined the game
+[12:48:33] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 8472 at ([world]876.30001, 67.0, 1041.30001)
+[12:49:53] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[12:49:53] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[12:49:53] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[12:49:53] [Server thread/INFO]: .KevinTaswin left the game
+[13:01:50] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20765 tried to connect!
+[13:02:05] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[13:02:05] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[13:02:05] [User Authenticator #1/INFO]: UUID of player KevinTaswin is 5990d5ec-2c2c-355c-b46c-b65a2472c7c5
+[13:02:06] [Server thread/INFO]: KevinTaswin joined the game
+[13:02:06] [Server thread/INFO]: KevinTaswin[/114.10.27.46:0] logged in with entity id 8855 at ([world]877.1691, 67.0, 1043.9348)
+[13:03:08] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[13:03:08] [Server thread/INFO]: KevinTaswin lost connection: Disconnected
+[13:03:08] [Server thread/INFO]: KevinTaswin left the game
+[13:03:20] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20765 tried to connect!
+[13:03:20] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20765 tried to connect!
+[13:03:21] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20765 tried to connect!
+[13:05:35] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:20768 tried to connect!
+[13:05:36] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[13:05:36] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[13:05:37] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[13:05:37] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[13:05:37] [Server thread/INFO]: .KevinTaswin joined the game
+[13:05:37] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 9226 at ([world]877.21155, 67.0, 1042.3469)
+[13:14:45] [Server thread/INFO]: Incorrect argument for command
+...Maintance Dalam 5 Menit<--[HERE]
+[13:15:04] [Server thread/INFO]: Incorrect argument for command
+title @a Maintance Dalam 5 Menit<--[HERE]
+[13:15:14] [Server thread/INFO]: Incorrect argument for command
+title @a yyyyy<--[HERE]
+[13:15:33] [Server thread/INFO]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+...@a title wjwjw<--[HERE]
+[13:15:51] [Server thread/INFO]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+...@a title Qiajqh<--[HERE]
+[13:16:00] [Server thread/INFO]: Invalid chat component: Not a JSON object: 1
+...@a title 1<--[HERE]
+[13:16:04] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[13:16:04] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[13:16:04] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[13:16:04] [Server thread/INFO]: .KevinTaswin left the game
+[13:17:19] [Server thread/INFO]: No player was found
+[13:17:35] [Server thread/INFO]: No player was found
+[13:18:12] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /114.10.27.46:22202 tried to connect!
+[13:18:14] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[13:18:14] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[13:18:15] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[13:18:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[13:18:17] [Server thread/INFO]: .KevinTaswin joined the game
+[13:18:17] [Server thread/INFO]: .KevinTaswin[/114.10.27.46:0] logged in with entity id 10481 at ([world]876.43713, 67.0, 1042.6003)
+[13:18:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7602ms or 152 ticks behind
+[13:18:32] [Server thread/INFO]: Showing new title for .KevinTaswin
+[13:18:56] [Server thread/INFO]: Showing new title for .KevinTaswin
+[13:19:47] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[13:19:47] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[13:19:47] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[13:19:47] [Server thread/INFO]: .KevinTaswin left the game
+[13:22:00] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /180.243.4.91:48181 tried to connect!
+[13:22:02] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username pashaaa4241
+[13:22:02] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] pashaaa4241 (logged in as: pashaaa4241) has connected to the Java server
+[13:22:04] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .pashaaa4241 is 00000000-0000-0000-0009-01f95b7a25e8
+[13:22:04] [Server thread/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 joined (UUID: 00000000-0000-0000-0009-01f95b7a25e8)
+[13:22:04] [Server thread/INFO]: .pashaaa4241 joined the game
+[13:22:05] [Server thread/INFO]: .pashaaa4241[/180.243.4.91:0] logged in with entity id 10872 at ([world]98.86675, 70.0, -146.10681)
+[13:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
+[13:46:03] [Server thread/INFO]: .pashaaa4241 drowned
+[13:46:41] [Server thread/WARN]: Horse (vehicle of .pashaaa4241) moved wrongly! 0.3669166564941406
+[13:46:41] [Server thread/WARN]: Horse (vehicle of .pashaaa4241) moved wrongly! 0.7499923706054688
+[13:46:41] [Server thread/WARN]: Horse (vehicle of .pashaaa4241) moved wrongly! 0.7499923706054688
+[13:46:41] [Server thread/WARN]: Horse (vehicle of .pashaaa4241) moved wrongly! 0.3013496398925781
+[13:46:41] [Server thread/WARN]: Horse (vehicle of .pashaaa4241) moved wrongly! 0.3049659729003906
+[13:46:41] [Server thread/WARN]: Horse (vehicle of .pashaaa4241) moved wrongly! 0.3166961669921875
+[13:48:11] [Server thread/WARN]: .pashaaa4241 moved wrongly!
+[14:07:46] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[14:07:46] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[14:07:46] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[14:07:46] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[14:07:46] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[14:07:46] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[14:07:46] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[14:07:46] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[14:07:46] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[14:07:46] [Server thread/INFO]: .pashaaa4241 lost connection: Disconnected
+[14:07:46] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] pashaaa4241 has disconnected from the Java server because of disconnect.lost
+[14:07:46] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 disconnected
+[14:07:46] [Server thread/INFO]: .pashaaa4241 left the game
+[14:50:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3872ms or 77 ticks behind
+[14:59:24] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /180.243.4.91:42888 tried to connect!
+[14:59:26] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username pashaaa4241
+[14:59:26] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] pashaaa4241 (logged in as: pashaaa4241) has connected to the Java server
+[14:59:29] [Geyser Spigot connection thread-5-1/INFO]: UUID of player .pashaaa4241 is 00000000-0000-0000-0009-01f95b7a25e8
+[14:59:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 joined (UUID: 00000000-0000-0000-0009-01f95b7a25e8)
+[14:59:31] [Server thread/INFO]: .pashaaa4241 joined the game
+[14:59:32] [Server thread/INFO]: .pashaaa4241[/180.243.4.91:0] logged in with entity id 16568 at ([world]169.57825, 62.0, -253.98274)
+[14:59:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3238ms or 64 ticks behind
+[15:16:23] [epollEventLoopGroup-3-3/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[15:16:23] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] pashaaa4241 has disconnected from the Java server because of disconnect.lost
+[15:16:23] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 disconnected
+[15:16:23] [Server thread/INFO]: .pashaaa4241 lost connection: Disconnected
+[15:16:23] [Server thread/INFO]: .pashaaa4241 left the game
+[15:17:54] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /180.243.4.91:46877 tried to connect!
+[15:17:55] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username pashaaa4241
+[15:17:55] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] pashaaa4241 (logged in as: pashaaa4241) has connected to the Java server
+[15:17:56] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .pashaaa4241 is 00000000-0000-0000-0009-01f95b7a25e8
+[15:17:56] [Server thread/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 joined (UUID: 00000000-0000-0000-0009-01f95b7a25e8)
+[15:17:56] [Server thread/INFO]: .pashaaa4241 joined the game
+[15:17:56] [Server thread/INFO]: .pashaaa4241[/180.243.4.91:0] logged in with entity id 18199 at ([world]143.29318, 63.0, -111.08301)
+[15:17:59] [epollEventLoopGroup-3-4/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[15:17:59] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] pashaaa4241 has disconnected from the Java server because of disconnect.lost
+[15:17:59] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 disconnected
+[15:17:59] [Server thread/INFO]: .pashaaa4241 lost connection: Disconnected
+[15:18:00] [Server thread/INFO]: .pashaaa4241 left the game
+[15:18:44] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /223.255.230.57:40147 tried to connect!
+[15:18:47] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username pashaaa4241
+[15:18:47] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] pashaaa4241 (logged in as: pashaaa4241) has connected to the Java server
+[15:18:48] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .pashaaa4241 is 00000000-0000-0000-0009-01f95b7a25e8
+[15:18:48] [Server thread/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 joined (UUID: 00000000-0000-0000-0009-01f95b7a25e8)
+[15:18:48] [Server thread/INFO]: .pashaaa4241 joined the game
+[15:18:48] [Server thread/INFO]: .pashaaa4241[/223.255.230.57:0] logged in with entity id 18202 at ([world]143.29318, 63.0, -111.08301)
+[15:23:18] [epollEventLoopGroup-3-1/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[15:23:18] [Server thread/INFO]: .pashaaa4241 lost connection: Disconnected
+[15:23:18] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 disconnected
+[15:23:18] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] pashaaa4241 has disconnected from the Java server because of disconnect.lost
+[15:23:19] [Server thread/INFO]: .pashaaa4241 left the game
+[15:24:09] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /223.255.230.57:40147 tried to connect!
+[15:24:11] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username pashaaa4241
+[15:24:11] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] pashaaa4241 (logged in as: pashaaa4241) has connected to the Java server
+[15:24:13] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .pashaaa4241 is 00000000-0000-0000-0009-01f95b7a25e8
+[15:24:13] [Server thread/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 joined (UUID: 00000000-0000-0000-0009-01f95b7a25e8)
+[15:24:13] [Server thread/INFO]: .pashaaa4241 joined the game
+[15:24:14] [Server thread/INFO]: .pashaaa4241[/223.255.230.57:0] logged in with entity id 18697 at ([world]139.15239, 65.0, -109.23522)
+[15:40:01] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /140.213.15.155:41212 tried to connect!
+[15:40:03] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username KrispiyChic
+[15:40:03] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KrispiyChic (logged in as: KrispiyChic) has connected to the Java server
+[15:40:04] [Geyser Spigot connection thread-5-1/INFO]: UUID of player .KrispiyChic is 00000000-0000-0000-0009-01f13a63e9a4
+[15:40:04] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic joined (UUID: 00000000-0000-0000-0009-01f13a63e9a4)
+[15:40:05] [Server thread/INFO]: .KrispiyChic joined the game
+[15:40:06] [Server thread/INFO]: .KrispiyChic[/140.213.15.155:0] logged in with entity id 20404 at ([world]160.70248, 71.0, -220.45148)
+[15:40:30] [Async Chat Thread - #1/INFO]: [Not Secure] <.KrispiyChic> lu ngapain sha? 
+[15:40:53] [Async Chat Thread - #0/INFO]: [Not Secure] <.pashaaa4241> ngelanjutin base gw
+[15:41:11] [Server thread/WARN]: .KrispiyChic moved wrongly!
+[15:41:24] [epollEventLoopGroup-3-1/ERROR]: [org.cloudburstmc.netty.handler.codec.raknet.common.RakSessionCodec] [/140.213.15.155:41212] Error while ticking RakSessionCodec state=CONNECTED channelActive=true
+java.lang.NullPointerException: Cannot invoke "org.cloudburstmc.netty.channel.raknet.packet.RakDatagramPacket.getNextSend()" because "datagram" is null
+	at org.cloudburstmc.netty.handler.codec.raknet.common.RakSessionCodec.sendStaleDatagrams(RakSessionCodec.java:522) ~[Geyser-Spigot.jar:?]
+	at org.cloudburstmc.netty.handler.codec.raknet.common.RakSessionCodec.internalFlush(RakSessionCodec.java:457) ~[Geyser-Spigot.jar:?]
+	at org.cloudburstmc.netty.handler.codec.raknet.common.RakSessionCodec.onTick(RakSessionCodec.java:420) ~[Geyser-Spigot.jar:?]
+	at org.cloudburstmc.netty.handler.codec.raknet.common.RakSessionCodec.tryTick(RakSessionCodec.java:392) ~[Geyser-Spigot.jar:?]
+	at io.netty.util.concurrent.PromiseTask.runTask(PromiseTask.java:98) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.ScheduledFutureTask.run(ScheduledFutureTask.java:159) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:416) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.lang.Thread.run(Unknown Source) ~[?:?]
+[15:41:24] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KrispiyChic has disconnected from the Java server because of disconnect.lost
+[15:41:24] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic disconnected
+[15:41:24] [Server thread/INFO]: .KrispiyChic lost connection: Disconnected
+[15:41:24] [Server thread/INFO]: .KrispiyChic left the game
+[15:41:49] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /140.213.15.155:41212 tried to connect!
+[15:41:50] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /140.213.15.155:41212 tried to connect!
+[15:41:51] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KrispiyChic
+[15:41:51] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KrispiyChic (logged in as: KrispiyChic) has connected to the Java server
+[15:41:53] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .KrispiyChic is 00000000-0000-0000-0009-01f13a63e9a4
+[15:41:53] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic joined (UUID: 00000000-0000-0000-0009-01f13a63e9a4)
+[15:41:53] [Server thread/INFO]: .KrispiyChic joined the game
+[15:41:53] [Server thread/INFO]: .KrispiyChic[/140.213.15.155:0] logged in with entity id 20741 at ([world]151.23364, 71.64916205089503, -223.40561)
+[15:42:26] [Async Chat Thread - #2/INFO]: [Not Secure] <.pashaaa4241> lu dimana lek
+[15:42:39] [Async Chat Thread - #3/INFO]: [Not Secure] <.KrispiyChic> base npa
+[15:42:43] [Async Chat Thread - #2/INFO]: [Not Secure] <.KrispiyChic> lu lgi ngapain? 
+[15:42:54] [Async Chat Thread - #3/INFO]: [Not Secure] <.pashaaa4241> lagi ngelanjutin base gw
+[15:42:59] [Async Chat Thread - #2/INFO]: [Not Secure] <.KrispiyChic> oala
+[15:43:02] [Async Chat Thread - #2/INFO]: [Not Secure] <.pashaaa4241> gw minjem ini lu tdi
+[15:43:07] [Async Chat Thread - #3/INFO]: [Not Secure] <.pashaaa4241> ni gw balikin
+[15:43:11] [Async Chat Thread - #2/INFO]: [Not Secure] <.KrispiyChic> :) 
+[15:43:15] [Async Chat Thread - #3/INFO]: [Not Secure] <.KrispiyChic> g ancur kan? 
+[15:43:19] [Async Chat Thread - #2/INFO]: [Not Secure] <.KrispiyChic> jangan ancur cuk
+[15:43:26] [Async Chat Thread - #3/INFO]: [Not Secure] <.KrispiyChic> itu ad silk touch
+[15:43:34] [Async Chat Thread - #2/INFO]: [Not Secure] <.pashaaa4241> gajadi gw pake
+[15:44:06] [Async Chat Thread - #3/INFO]: [Not Secure] <.KrispiyChic> kapak ny mn? 
+[15:44:07] [Async Chat Thread - #4/INFO]: [Not Secure] <.KrispiyChic> axe
+[15:44:14] [Async Chat Thread - #2/INFO]: [Not Secure] <.pashaaa4241> ga make
+[15:44:24] [Async Chat Thread - #4/INFO]: [Not Secure] <.pashaaa4241> gw aja ga nebang phon
+[15:44:45] [Async Chat Thread - #4/INFO]: [Not Secure] <.pashaaa4241> tidur lek
+[15:45:16] [Async Chat Thread - #4/INFO]: [Not Secure] <.pashaaa4241> weh bikin stik gimana
+[15:45:22] [Async Chat Thread - #2/INFO]: [Not Secure] <.KrispiyChic> stick? 
+[15:45:26] [Async Chat Thread - #4/INFO]: [Not Secure] <.pashaaa4241> iyya
+[15:45:27] [Async Chat Thread - #4/INFO]: [Not Secure] <.KrispiyChic> kayu 2
+[15:45:53] [Async Chat Thread - #4/INFO]: [Not Secure] <.pashaaa4241> minjem kapak
+[15:46:03] [Async Chat Thread - #2/INFO]: [Not Secure] <.KrispiyChic> wait
+[15:46:14] [Async Chat Thread - #4/INFO]: [Not Secure] <.KrispiyChic> ke bwah tanah sni
+[15:46:17] [Async Chat Thread - #2/INFO]: [Not Secure] <.KrispiyChic> di base gw
+[15:46:30] [Async Chat Thread - #4/INFO]: [Not Secure] <.pashaaa4241> mau dm ga
+[15:46:33] [Async Chat Thread - #2/INFO]: [Not Secure] <.KrispiyChic> tu buat lu
+[15:46:49] [Async Chat Thread - #2/INFO]: [Not Secure] <.KrispiyChic> T_T
+[15:46:56] [Async Chat Thread - #2/INFO]: [Not Secure] <.pashaaa4241> woi kok di bom gw
+[15:46:57] [Async Chat Thread - #4/INFO]: [Not Secure] <.KrispiyChic> lain kali tutup pintu ny
+[15:47:16] [Async Chat Thread - #2/INFO]: [Not Secure] <.pashaaa4241> walah creeper asu
+[15:47:38] [Async Chat Thread - #4/INFO]: [Not Secure] <.pashaaa4241> nih dm
+[15:48:45] [Async Chat Thread - #5/INFO]: [Not Secure] <.pashaaa4241> butuh ga
+[15:48:49] [Async Chat Thread - #6/INFO]: [Not Secure] <.KrispiyChic> mn
+[15:48:52] [Async Chat Thread - #5/INFO]: [Not Secure] <.KrispiyChic> kasih aj
+[15:48:53] [Async Chat Thread - #6/INFO]: [Not Secure] <.pashaaa4241> ada 59 nganggur 
+[15:49:04] [Async Chat Thread - #6/INFO]: [Not Secure] <.KrispiyChic> gjd bkin rmah diamond? 
+[15:49:20] [Async Chat Thread - #5/INFO]: [Not Secure] <.pashaaa4241> mining aja sampe mau mati gw
+[15:49:25] [Async Chat Thread - #5/INFO]: [Not Secure] <.KrispiyChic> wkekekeke
+[15:49:31] [Async Chat Thread - #6/INFO]: [Not Secure] <.KrispiyChic> ty
+[15:49:35] [Async Chat Thread - #5/INFO]: [Not Secure] <.pashaaa4241> 10 aja 
+[15:49:41] [Async Chat Thread - #7/INFO]: [Not Secure] <.pashaaa4241> klo kurang cari sendiri
+[15:49:47] [Async Chat Thread - #7/INFO]: [Not Secure] <.KrispiyChic> hooh
+[15:50:08] [Async Chat Thread - #7/INFO]: [Not Secure] <.pashaaa4241> lah kapaknya ilang
+[15:50:22] [Async Chat Thread - #7/INFO]: [Not Secure] <.KrispiyChic> coba cri dlu di inventory
+[15:50:31] [Async Chat Thread - #5/INFO]: [Not Secure] <.pashaaa4241> ga ada
+[15:50:46] [Async Chat Thread - #7/INFO]: [Not Secure] <.KrispiyChic> ywdh sni
+[15:50:55] [Async Chat Thread - #5/INFO]: [Not Secure] <.pashaaa4241> bagi kayu dong
+[15:51:06] [Async Chat Thread - #7/INFO]: [Not Secure] <.pashaaa4241> males nebang
+[15:51:11] [Async Chat Thread - #5/INFO]: [Not Secure] <.KrispiyChic> ad di dket base claudio
+[15:51:19] [Async Chat Thread - #7/INFO]: [Not Secure] <.KrispiyChic> ntu kan ad chest bnyk ambil aj distu
+[15:51:19] [Async Chat Thread - #5/INFO]: [Not Secure] <.pashaaa4241> jauh
+[15:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
+[15:51:33] [Async Chat Thread - #7/INFO]: [Not Secure] <.KrispiyChic> tu ad kpak ny yeh
+[15:51:43] [Async Chat Thread - #5/INFO]: [Not Secure] <.pashaaa4241> baru buat
+[15:52:07] [Async Chat Thread - #7/INFO]: [Not Secure] <.pashaaa4241> arigato
+[15:53:45] [Async Chat Thread - #8/INFO]: [Not Secure] <.pashaaa4241> GABISA BUAT STICKK
+[15:54:02] [Async Chat Thread - #9/INFO]: [Not Secure] <.KrispiyChic> tuker dlu jdi kayu biasa
+[15:54:11] [Async Chat Thread - #8/INFO]: [Not Secure] <.pashaaa4241> ga ngerti
+[15:54:15] [Async Chat Thread - #8/INFO]: [Not Secure] <.pashaaa4241> buatin dong
+[15:54:18] [Async Chat Thread - #9/INFO]: [Not Secure] <.KrispiyChic> hah
+[15:54:41] [Async Chat Thread - #8/INFO]: [Not Secure] <.pashaaa4241> lu buatin
+[15:55:23] [Async Chat Thread - #8/INFO]: [Not Secure] <.KrispiyChic> mn sni kayu ny
+[15:55:56] [Async Chat Thread - #10/INFO]: [Not Secure] <.pashaaa4241> ty
+[15:56:00] [Async Chat Thread - #10/INFO]: [Not Secure] <.KrispiyChic> hooh
+[15:56:14] [Async Chat Thread - #10/INFO]: [Not Secure] <.pashaaa4241> tidur dong
+[15:57:53] [Async Chat Thread - #11/INFO]: [Not Secure] <.pashaaa4241> gun powder buat apa
+[15:57:59] [Async Chat Thread - #12/INFO]: [Not Secure] <.KrispiyChic> bikin tnt
+[15:58:02] [Async Chat Thread - #11/INFO]: [Not Secure] <.KrispiyChic> sma petasan
+[15:58:22] [Async Chat Thread - #12/INFO]: [Not Secure] <.pashaaa4241> oke
+[15:59:50] [Async Chat Thread - #14/INFO]: [Not Secure] <.KrispiyChic> gw slh bkin
+[15:59:53] [Async Chat Thread - #14/INFO]: [Not Secure] <.KrispiyChic> buat lu aje dh
+[15:59:59] [Async Chat Thread - #14/INFO]: [Not Secure] <.pashaaa4241> baik terimakasih 
+[16:00:07] [Async Chat Thread - #13/INFO]: [Not Secure] <.pashaaa4241> mo makanan ga
+[16:00:13] [Async Chat Thread - #13/INFO]: [Not Secure] <.KrispiyChic> kgk ad bnyk
+[16:00:20] [Async Chat Thread - #14/INFO]: [Not Secure] <.pashaaa4241> oke
+[16:00:27] [Async Chat Thread - #13/INFO]: [Not Secure] <.pashaaa4241> daging gw ga kepake
+[16:00:46] [Async Chat Thread - #14/INFO]: [Not Secure] <.pashaaa4241> mo jadi vegan dlu, makan wortel
+[16:01:03] [Server thread/WARN]: .KrispiyChic moved wrongly!
+[16:02:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6158ms or 123 ticks behind
+[16:03:33] [Async Chat Thread - #16/INFO]: [Not Secure] <.pashaaa4241> cara pake buku gimana
+[16:04:11] [Async Chat Thread - #16/INFO]: [Not Secure] <.KrispiyChic> buku ap
+[16:04:21] [Async Chat Thread - #15/INFO]: [Not Secure] <.pashaaa4241> buku warna warni
+[16:04:29] [Async Chat Thread - #15/INFO]: [Not Secure] <.KrispiyChic> pke anvil
+[16:04:37] [Async Chat Thread - #16/INFO]: [Not Secure] <.pashaaa4241> gimana
+[16:12:53] [Async Chat Thread - #17/INFO]: [Not Secure] <.pashaaa4241> lu dimana
+[16:13:00] [Async Chat Thread - #18/INFO]: [Not Secure] <.KrispiyChic> nysar
+[16:13:15] [Async Chat Thread - #18/INFO]: [Not Secure] <.pashaaa4241> kordinat?
+[16:13:28] [Async Chat Thread - #17/INFO]: [Not Secure] <.KrispiyChic> gjd
+[16:15:28] [Async Chat Thread - #19/INFO]: [Not Secure] <.pashaaa4241> ada pic axe ga
+[16:15:49] [Async Chat Thread - #20/INFO]: [Not Secure] <.KrispiyChic> ad
+[16:16:10] [Async Chat Thread - #19/INFO]: [Not Secure] <.pashaaa4241> pinjem
+[16:16:24] [Async Chat Thread - #20/INFO]: [Not Secure] <.KrispiyChic> sni
+[16:17:36] [Async Chat Thread - #21/INFO]: [Not Secure] <.KrispiyChic> itu yg di tngan lu ap
+[16:17:44] [Async Chat Thread - #22/INFO]: [Not Secure] <.pashaaa4241> udah mo abis
+[16:17:47] [Async Chat Thread - #21/INFO]: [Not Secure] <.pashaaa4241> sayang
+[16:17:55] [Server thread/INFO]: .pashaaa4241 has made the advancement [Isn't It Iron Pick]
+[16:18:32] [Async Chat Thread - #22/INFO]: [Not Secure] <.KrispiyChic> pintu ny tutup lgi pasha
+[16:18:38] [Async Chat Thread - #21/INFO]: [Not Secure] <.KrispiyChic> nnti mledak lgi ini base :") 
+[16:18:46] [Async Chat Thread - #21/INFO]: [Not Secure] <.pashaaa4241> lupa
+[16:23:20] [Async Chat Thread - #24/INFO]: [Not Secure] <.pashaaa4241> nih buat lu
+[16:23:30] [Async Chat Thread - #24/INFO]: [Not Secure] <.KrispiyChic> ty
+[16:23:47] [Async Chat Thread - #23/INFO]: [Not Secure] <.pashaaa4241> ga level iron 
+[16:23:53] [Async Chat Thread - #24/INFO]: [Not Secure] <.KrispiyChic> oho siyap
+[16:23:56] [Async Chat Thread - #24/INFO]: [Not Secure] <.KrispiyChic> yg diamond smua
+[16:24:03] [Async Chat Thread - #23/INFO]: [Not Secure] <.pashaaa4241> awoakwoak
+[16:24:29] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] pashaaa4241 has disconnected from the Java server because of Bedrock client disconnected
+[16:24:29] [Server thread/INFO]: .pashaaa4241 lost connection: Disconnected
+[16:24:29] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 disconnected
+[16:24:29] [Server thread/INFO]: .pashaaa4241 left the game
+[16:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2982ms or 59 ticks behind
+[16:26:47] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /223.255.230.57:40152 tried to connect!
+[16:26:49] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username pashaaa4241
+[16:26:49] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] pashaaa4241 (logged in as: pashaaa4241) has connected to the Java server
+[16:26:51] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .pashaaa4241 is 00000000-0000-0000-0009-01f95b7a25e8
+[16:26:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 joined (UUID: 00000000-0000-0000-0009-01f95b7a25e8)
+[16:26:53] [Server thread/INFO]: .pashaaa4241 joined the game
+[16:26:53] [Server thread/INFO]: .pashaaa4241[/223.255.230.57:0] logged in with entity id 28563 at ([world]126.87659, 64.0, -122.88849)
+[16:32:55] [Async Chat Thread - #26/INFO]: [Not Secure] <.pashaaa4241> need ender pearl ga
+[16:33:05] [Async Chat Thread - #26/INFO]: [Not Secure] <.KrispiyChic> kta ny dhan
+[16:33:09] [Async Chat Thread - #25/INFO]: [Not Secure] <.KrispiyChic> engga btw
+[16:33:22] [Async Chat Thread - #26/INFO]: [Not Secure] <.pashaaa4241> nanggung atap doang trus dhan
+[16:36:23] [epollEventLoopGroup-3-1/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:36:23] [epollEventLoopGroup-3-1/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[16:36:23] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] pashaaa4241 has disconnected from the Java server because of disconnect.lost
+[16:36:23] [epollEventLoopGroup-3-4/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[16:36:23] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KrispiyChic has disconnected from the Java server because of disconnect.lost
+[16:36:23] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 disconnected
+[16:36:23] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic disconnected
+[16:36:23] [Server thread/INFO]: .KrispiyChic lost connection: Disconnected
+[16:36:23] [Server thread/INFO]: .KrispiyChic left the game
+[16:36:23] [Server thread/INFO]: .pashaaa4241 lost connection: Disconnected
+[16:36:23] [Server thread/INFO]: .pashaaa4241 left the game
+[16:36:52] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /140.213.15.155:41212 tried to connect!
+[16:36:54] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username KrispiyChic
+[16:36:54] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KrispiyChic (logged in as: KrispiyChic) has connected to the Java server
+[16:36:55] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .KrispiyChic is 00000000-0000-0000-0009-01f13a63e9a4
+[16:36:55] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic joined (UUID: 00000000-0000-0000-0009-01f13a63e9a4)
+[16:36:55] [Server thread/INFO]: .KrispiyChic joined the game
+[16:36:55] [Server thread/INFO]: .KrispiyChic[/140.213.15.155:0] logged in with entity id 30460 at ([world]150.58624, 76.26947263108704, -200.42671)
+[16:36:55] [WebSocketConnectReadThread-688/INFO]: [floodgate] Got disconnected from the skin uploader: failed to find the given code in combination with the verify code
+[16:37:13] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /223.255.230.57:40152 tried to connect!
+[16:37:15] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username pashaaa4241
+[16:37:15] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] pashaaa4241 (logged in as: pashaaa4241) has connected to the Java server
+[16:37:15] [Geyser Spigot connection thread-5-1/INFO]: UUID of player .pashaaa4241 is 00000000-0000-0000-0009-01f95b7a25e8
+[16:37:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 joined (UUID: 00000000-0000-0000-0009-01f95b7a25e8)
+[16:37:15] [Server thread/INFO]: .pashaaa4241 joined the game
+[16:37:15] [Server thread/INFO]: .pashaaa4241[/223.255.230.57:0] logged in with entity id 30587 at ([world]143.33609, 63.0, -119.65637)
+[16:37:36] [epollEventLoopGroup-3-3/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[16:37:36] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] pashaaa4241 has disconnected from the Java server because of disconnect.lost
+[16:37:36] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 disconnected
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:37:36] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[16:37:36] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic disconnected
+[16:37:36] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KrispiyChic has disconnected from the Java server because of disconnect.lost
+[16:37:36] [Server thread/INFO]: .KrispiyChic lost connection: Disconnected
+[16:37:36] [Server thread/INFO]: .KrispiyChic left the game
+[16:37:36] [Server thread/INFO]: .pashaaa4241 lost connection: Disconnected
+[16:37:36] [Server thread/INFO]: .pashaaa4241 left the game
+[16:38:02] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /140.213.15.155:41212 tried to connect!
+[16:38:03] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KrispiyChic
+[16:38:03] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KrispiyChic (logged in as: KrispiyChic) has connected to the Java server
+[16:38:04] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .KrispiyChic is 00000000-0000-0000-0009-01f13a63e9a4
+[16:38:04] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic joined (UUID: 00000000-0000-0000-0009-01f13a63e9a4)
+[16:38:04] [Server thread/INFO]: .KrispiyChic joined the game
+[16:38:04] [Server thread/INFO]: .KrispiyChic[/140.213.15.155:0] logged in with entity id 30631 at ([world]160.10094, 64.5, -202.5305)
+[16:38:23] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /223.255.230.57:40152 tried to connect!
+[16:38:25] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username pashaaa4241
+[16:38:25] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] pashaaa4241 (logged in as: pashaaa4241) has connected to the Java server
+[16:38:25] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .pashaaa4241 is 00000000-0000-0000-0009-01f95b7a25e8
+[16:38:25] [Server thread/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 joined (UUID: 00000000-0000-0000-0009-01f95b7a25e8)
+[16:38:25] [Server thread/INFO]: .pashaaa4241 joined the game
+[16:38:25] [Server thread/INFO]: .pashaaa4241[/223.255.230.57:0] logged in with entity id 30742 at ([world]143.33609, 63.0, -119.65637)
+[16:39:46] [Server thread/WARN]: .KrispiyChic moved wrongly!
+[16:39:48] [Server thread/WARN]: .KrispiyChic moved wrongly!
+[16:40:22] [epollEventLoopGroup-3-1/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[16:40:22] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] pashaaa4241 has disconnected from the Java server because of disconnect.lost
+[16:40:22] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 disconnected
+[16:40:22] [epollEventLoopGroup-3-4/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[16:40:22] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KrispiyChic has disconnected from the Java server because of disconnect.lost
+[16:40:22] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic disconnected
+[16:40:22] [Server thread/INFO]: .KrispiyChic lost connection: Disconnected
+[16:40:22] [Server thread/INFO]: .KrispiyChic left the game
+[16:40:22] [Server thread/INFO]: .pashaaa4241 lost connection: Disconnected
+[16:40:22] [Server thread/INFO]: .pashaaa4241 left the game
+[16:40:44] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /140.213.15.155:41212 tried to connect!
+[16:40:45] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username KrispiyChic
+[16:40:45] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KrispiyChic (logged in as: KrispiyChic) has connected to the Java server
+[16:40:46] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .KrispiyChic is 00000000-0000-0000-0009-01f13a63e9a4
+[16:40:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic joined (UUID: 00000000-0000-0000-0009-01f13a63e9a4)
+[16:40:46] [Server thread/INFO]: .KrispiyChic joined the game
+[16:40:46] [Server thread/INFO]: .KrispiyChic[/140.213.15.155:0] logged in with entity id 31141 at ([world]118.82892, 68.0, -238.0107)
+[16:40:59] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /180.243.4.91:46877 tried to connect!
+[16:41:00] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] pashaaa4241 (logged in as: pashaaa4241) has connected to the Java server
+[16:41:00] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username pashaaa4241
+[16:41:00] [User Authenticator #2/INFO]: UUID of player pashaaa4241 is 99d4c953-0a57-3e08-8b98-6d5449805aa9
+[16:41:00] [Server thread/INFO]: pashaaa4241 joined the game
+[16:41:00] [Server thread/INFO]: pashaaa4241[/180.243.4.91:0] logged in with entity id 31282 at ([world]-13.7825165, 63.0, -13.631126)
+[16:41:31] [epollEventLoopGroup-3-3/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:41:31] [epollEventLoopGroup-3-3/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:41:31] [epollEventLoopGroup-3-3/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[16:41:31] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] pashaaa4241 has disconnected from the Java server because of disconnect.lost
+[16:41:31] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendmmsg(..) failed: Network is unreachable
+[16:41:31] [epollEventLoopGroup-3-2/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[16:41:31] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KrispiyChic has disconnected from the Java server because of disconnect.lost
+[16:41:31] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic disconnected
+[16:41:31] [Server thread/INFO]: .KrispiyChic lost connection: Disconnected
+[16:41:31] [Server thread/INFO]: .KrispiyChic left the game
+[16:41:31] [Server thread/INFO]: pashaaa4241 lost connection: Disconnected
+[16:41:31] [Server thread/INFO]: pashaaa4241 left the game
+[16:42:01] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /140.213.15.155:41212 tried to connect!
+[16:42:02] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KrispiyChic
+[16:42:02] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KrispiyChic (logged in as: KrispiyChic) has connected to the Java server
+[16:42:03] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .KrispiyChic is 00000000-0000-0000-0009-01f13a63e9a4
+[16:42:03] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic joined (UUID: 00000000-0000-0000-0009-01f13a63e9a4)
+[16:42:03] [Server thread/INFO]: .KrispiyChic joined the game
+[16:42:03] [Server thread/INFO]: .KrispiyChic[/140.213.15.155:0] logged in with entity id 31407 at ([world]147.24745, 71.0, -191.80292)
+[16:42:04] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /180.243.4.91:46877 tried to connect!
+[16:42:05] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username pashaaa4241
+[16:42:05] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] pashaaa4241 (logged in as: pashaaa4241) has connected to the Java server
+[16:42:06] [Geyser Spigot connection thread-5-3/INFO]: UUID of player .pashaaa4241 is 00000000-0000-0000-0009-01f95b7a25e8
+[16:42:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 joined (UUID: 00000000-0000-0000-0009-01f95b7a25e8)
+[16:42:06] [Server thread/INFO]: .pashaaa4241 joined the game
+[16:42:06] [Server thread/INFO]: .pashaaa4241[/180.243.4.91:0] logged in with entity id 31467 at ([world]163.86635, 63.0, -113.23695)
+[16:42:39] [Async Chat Thread - #28/INFO]: [Not Secure] <.pashaaa4241> bajingan disconect mulu
+[16:42:43] [Async Chat Thread - #27/INFO]: [Not Secure] <.KrispiyChic> sma cuk
+[16:44:23] [Async Chat Thread - #29/INFO]: [Not Secure] <.pashaaa4241> lek ada coblestone ga
+[16:44:30] [Async Chat Thread - #30/INFO]: [Not Secure] <.KrispiyChic> ad
+[16:44:36] [Async Chat Thread - #29/INFO]: [Not Secure] <.pashaaa4241> minta
+[16:44:48] [Async Chat Thread - #30/INFO]: [Not Secure] <.KrispiyChic> sbntr
+[16:45:07] [Async Chat Thread - #30/INFO]: [Not Secure] <.pashaaa4241> lu dimana 
+[16:45:50] [Async Chat Thread - #29/INFO]: [Not Secure] <.pashaaa4241> gw ambil 128 yh
+[16:45:57] [Async Chat Thread - #29/INFO]: [Not Secure] <.KrispiyChic> anjg jangan smua sial
+[16:46:09] [Async Chat Thread - #30/INFO]: [Not Secure] <.pashaaa4241> nanti klo ada sisa gw balikin
+[16:46:28] [Async Chat Thread - #29/INFO]: [Not Secure] <.KrispiyChic> yeh ywdh lh
+[16:47:00] [Async Chat Thread - #30/INFO]: [Not Secure] <.pashaaa4241> gw bayar pake netherite sword
+[16:47:42] [Server thread/INFO]: .KrispiyChic was shot by Pillager
+[16:47:58] [Server thread/INFO]: There are 2 of a max of 50000 players online: .pashaaa4241, .KrispiyChic
+[16:48:06] [Async Chat Thread - #31/INFO]: [Not Secure] <.pashaaa4241> lol mati sama pillager
+[16:48:14] [Async Chat Thread - #32/INFO]: [Not Secure] <.KrispiyChic> PULAU GW DISERANG
+[16:48:33] [Async Chat Thread - #32/INFO]: [Not Secure] <.pashaaa4241> kok bisa
+[16:48:49] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic disconnected
+[16:48:49] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KrispiyChic has disconnected from the Java server because of Bedrock client timed out
+[16:48:49] [Server thread/INFO]: .KrispiyChic lost connection: Disconnected
+[16:48:49] [Server thread/INFO]: .KrispiyChic left the game
+[16:49:04] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /112.215.224.78:24560 tried to connect!
+[16:49:05] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username KrispiyChic
+[16:49:05] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KrispiyChic (logged in as: KrispiyChic) has connected to the Java server
+[16:49:06] [Geyser Spigot connection thread-5-4/INFO]: UUID of player .KrispiyChic is 00000000-0000-0000-0009-01f13a63e9a4
+[16:49:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic joined (UUID: 00000000-0000-0000-0009-01f13a63e9a4)
+[16:49:06] [Server thread/INFO]: .KrispiyChic joined the game
+[16:49:06] [Server thread/INFO]: .KrispiyChic[/112.215.224.78:0] logged in with entity id 33117 at ([world]185.23163, 62.0, -244.10786)
+[16:51:25] [Async Chat Thread - #33/INFO]: [Not Secure] <.KrispiyChic> ilang anj mereka the fuck
+[16:51:36] [Async Chat Thread - #34/INFO]: [Not Secure] <.pashaaa4241> wayulu wayulu wayulu 
+[16:52:26] [Async Chat Thread - #33/INFO]: [Not Secure] <.pashaaa4241> lek bantuin gw bikin atap kek
+[16:52:32] [Async Chat Thread - #34/INFO]: [Not Secure] <.pashaaa4241> pller cape gw
+[16:53:42] [Server thread/WARN]: .KrispiyChic moved wrongly!
+[16:55:36] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .pashaaa4241 disconnected
+[16:55:36] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] pashaaa4241 has disconnected from the Java server because of Bedrock client timed out
+[16:55:36] [Server thread/INFO]: .pashaaa4241 lost connection: Disconnected
+[16:55:36] [Server thread/INFO]: .pashaaa4241 left the game
+[17:06:32] [epollEventLoopGroup-3-1/ERROR]: [org.cloudburstmc.netty.handler.codec.raknet.common.RakSessionCodec] [/112.215.224.78:24560] Error while ticking RakSessionCodec state=CONNECTED channelActive=true
+java.lang.NullPointerException: null
+[17:06:32] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] KrispiyChic has disconnected from the Java server because of disconnect.lost
+[17:06:32] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic disconnected
+[17:06:32] [Server thread/INFO]: .KrispiyChic lost connection: Disconnected
+[17:06:32] [Server thread/INFO]: .KrispiyChic left the game
+[17:06:58] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /112.215.224.78:24560 tried to connect!
+[17:06:59] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username KrispiyChic
+[17:06:59] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KrispiyChic (logged in as: KrispiyChic) has connected to the Java server
+[17:07:00] [Geyser Spigot connection thread-5-1/INFO]: UUID of player .KrispiyChic is 00000000-0000-0000-0009-01f13a63e9a4
+[17:07:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic joined (UUID: 00000000-0000-0000-0009-01f13a63e9a4)
+[17:07:00] [Server thread/INFO]: .KrispiyChic joined the game
+[17:07:00] [Server thread/INFO]: .KrispiyChic[/112.215.224.78:0] logged in with entity id 35559 at ([world_nether]-5.6192427, 35.0, 125.478264)
+[17:08:49] [Server thread/INFO]: .KrispiyChic was doomed to fall
+[17:11:43] [Server thread/INFO]: .KrispiyChic tried to swim in lava to escape Blaze
+[17:19:03] [Server thread/INFO]: .KrispiyChic was shot by Skeleton
+[17:20:08] [epollEventLoopGroup-3-3/WARN]: [io.netty.channel.DefaultChannelPipeline] An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed: Network is unreachable
+[17:20:08] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] KrispiyChic has disconnected from the Java server because of disconnect.lost
+[17:20:08] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic disconnected
+[17:20:08] [Server thread/INFO]: .KrispiyChic lost connection: Disconnected
+[17:20:08] [Server thread/INFO]: .KrispiyChic left the game
+[17:20:29] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /112.215.224.78:24560 tried to connect!
+[17:20:30] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username KrispiyChic
+[17:20:30] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KrispiyChic (logged in as: KrispiyChic) has connected to the Java server
+[17:20:31] [Geyser Spigot connection thread-5-2/INFO]: UUID of player .KrispiyChic is 00000000-0000-0000-0009-01f13a63e9a4
+[17:20:31] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic joined (UUID: 00000000-0000-0000-0009-01f13a63e9a4)
+[17:20:31] [Server thread/INFO]: .KrispiyChic joined the game
+[17:20:31] [Server thread/INFO]: .KrispiyChic[/112.215.224.78:0] logged in with entity id 36536 at ([world]26.566189, 59.79586784962631, -26.197699)
+[17:24:53] [Server thread/INFO]: There are 1 of a max of 50000 players online: .KrispiyChic
+[17:26:30] [Server thread/INFO]: .KrispiyChic was slain by Piglin
+[17:30:10] [Server thread/INFO]: .KrispiyChic drowned
+[17:33:15] [Server thread/INFO]: .KrispiyChic tried to swim in lava
+[17:39:02] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] KrispiyChic has disconnected from the Java server because of Bedrock client disconnected
+[17:39:02] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic disconnected
+[17:39:02] [Server thread/INFO]: .KrispiyChic lost connection: Disconnected
+[17:39:02] [Server thread/INFO]: .KrispiyChic left the game
+[17:57:15] [Server thread/INFO]: There are 0 of a max of 50000 players online: 
+[18:00:07] [Server thread/INFO]: Stopping the server
+[18:00:07] [Server thread/INFO]: Stopping server
+[18:00:07] [Server thread/INFO]: [GeyserSkinManager] Disabling GeyserSkinManager v1.7
+[18:00:07] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.1-SNAPSHOT
+[18:00:07] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[18:00:08] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[18:00:08] [WebSocketConnectReadThread-685/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[18:00:08] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b88-94eabd7)
+[18:00:08] [Server thread/INFO]: Saving players
+[18:00:08] [Server thread/INFO]: Saving worlds
+[18:00:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:00:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 331 entity chunks, 0 poi chunks in world 'world' in 0.25s
+[18:00:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:00:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:00:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:00:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:00:09] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 204 entity chunks, 0 poi chunks in world 'world_nether' in 0.11s
+[18:00:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:00:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:00:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:00:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:00:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[18:00:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:00:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:00:09] [Server thread/INFO]: Flushing Chunk IO
+[18:00:09] [Server thread/INFO]: Closing Thread Pool
+[18:00:09] [Server thread/INFO]: Closing Server
