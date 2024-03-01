@@ -1,0 +1,84 @@
+[01:46:07] [Server thread/INFO]: molenaise04 lost connection: Timed out
+[01:46:07] [Server thread/INFO]: molenaise04 left the game
+[03:26:27] [Craft Scheduler Thread - 4350 - Vault/INFO]: [Vault] Checking for Updates ... 
+[03:26:27] [Craft Scheduler Thread - 4350 - Vault/INFO]: [Vault] No new version available
+[04:20:11] [WebSocketConnectReadThread-17331/ERROR]: [org.java_websocket.WebSocketImpl] Closing due to invalid data in frame
+org.java_websocket.exceptions.InvalidFrameException: bad rsv RSV1: true RSV2: false RSV3: false
+	at org.java_websocket.extensions.DefaultExtension.isFrameValid(DefaultExtension.java:64) ~[Geyser-Spigot.jar:?]
+	at org.java_websocket.drafts.Draft_6455.translateSingleFrame(Draft_6455.java:513) ~[Geyser-Spigot.jar:?]
+	at org.java_websocket.drafts.Draft_6455.translateFrame(Draft_6455.java:675) ~[Geyser-Spigot.jar:?]
+	at org.java_websocket.WebSocketImpl.decodeFrames(WebSocketImpl.java:376) ~[Geyser-Spigot.jar:?]
+	at org.java_websocket.WebSocketImpl.decode(WebSocketImpl.java:216) ~[Geyser-Spigot.jar:?]
+	at org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:506) ~[Geyser-Spigot.jar:?]
+	at java.lang.Thread.run(Unknown Source) ~[?:?]
+[04:20:11] [WebSocketConnectReadThread-17331/WARN]: [Geyser-Spigot] Got an error
+org.java_websocket.exceptions.InvalidFrameException: bad rsv RSV1: true RSV2: false RSV3: false
+	at org.java_websocket.extensions.DefaultExtension.isFrameValid(DefaultExtension.java:64) ~[Geyser-Spigot.jar:?]
+	at org.java_websocket.drafts.Draft_6455.translateSingleFrame(Draft_6455.java:513) ~[Geyser-Spigot.jar:?]
+	at org.java_websocket.drafts.Draft_6455.translateFrame(Draft_6455.java:675) ~[Geyser-Spigot.jar:?]
+	at org.java_websocket.WebSocketImpl.decodeFrames(WebSocketImpl.java:376) ~[Geyser-Spigot.jar:?]
+	at org.java_websocket.WebSocketImpl.decode(WebSocketImpl.java:216) ~[Geyser-Spigot.jar:?]
+	at org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:506) ~[Geyser-Spigot.jar:?]
+	at java.lang.Thread.run(Unknown Source) ~[?:?]
+[05:00:21] [Server thread/INFO]: ========================
+[05:00:21] [Server thread/INFO]: Players online 0/50000
+[05:00:21] [Server thread/INFO]: ========================
+[05:00:23] [Server thread/INFO]: Stopping the server
+[05:00:23] [Server thread/INFO]: Stopping server
+[05:00:23] [Server thread/INFO]: [CMIEInjector] Disabling CMIEInjector v1.0.2.3
+[05:00:23] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[05:00:23] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[05:00:23] [Server thread/INFO]: [nLogin] Disabling nLogin v10.2.51
+[05:00:23] [Server thread/INFO]: [nLogin] Could not update: update was not confirmed by the user.
+[05:00:23] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.01s)
+[05:00:23] [Server thread/INFO]: [Pl-Hide-Pro] Disabling Pl-Hide-Pro v2.8.2
+[05:00:23] [Server thread/INFO]: [GeyserSkinManager] Disabling GeyserSkinManager v1.7
+[05:00:23] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.1.1
+[05:00:23] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[05:00:23] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.0.0
+[05:00:23] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v7.3
+[05:00:23] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[05:00:23] [Server thread/INFO]: [CMI] Disabling CMI v9.6.10.4
+[05:00:23] [Server thread/INFO]: [CMI] Closed db connections
+[05:00:23] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.2-SNAPSHOT
+[05:00:23] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[05:00:23] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[05:00:23] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[05:00:23] [Server thread/INFO]: [CMILib] Disabling CMILib v1.4.5.1
+[05:00:23] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[05:00:23] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[05:00:23] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[05:00:23] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b90-2886a71)
+[05:00:24] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.5
+[05:00:24] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.19+6642-415ef95
+[05:00:24] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[05:00:24] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[05:00:24] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.118
+[05:00:24] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:00:24] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:00:24] [WebSocketConnectReadThread-17387/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[05:00:24] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:00:24] [Server thread/INFO]: Saving players
+[05:00:24] [Server thread/INFO]: Saving worlds
+[05:00:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:00:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:00:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:00:24] [Server thread/INFO]: [ChunkHolderManager] Saved 21 block chunks, 246 entity chunks, 0 poi chunks in world 'world' in 0.19s
+[05:00:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:00:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:00:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:00:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:00:26] [Server thread/INFO]: [ChunkHolderManager] Saved 24 block chunks, 376 entity chunks, 0 poi chunks in world 'world_nether' in 0.14s
+[05:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:00:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:00:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:00:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:00:27] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 2 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[05:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:00:27] [Server thread/INFO]: Flushing Chunk IO
+[05:00:27] [Server thread/INFO]: Closing Thread Pool
+[05:00:27] [Server thread/INFO]: Closing Server
