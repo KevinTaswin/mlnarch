@@ -1,0 +1,1122 @@
+[21:39:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:39:28] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[21:39:29] [ServerMain/INFO]: No existing world data, creating new world
+[21:39:31] [ServerMain/INFO]: Loaded 1174 recipes
+[21:39:31] [ServerMain/INFO]: Loaded 1271 advancements
+[21:39:32] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[21:39:32] [Server thread/INFO]: Loading properties
+[21:39:32] [Server thread/INFO]: This server is running Paper version git-Paper-408 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: c5d168c)
+[21:39:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:39:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:39:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[21:39:35] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[21:39:35] [Server thread/INFO]: Default game type: SURVIVAL
+[21:39:35] [Server thread/INFO]: Generating keypair
+[21:39:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:39:36] [Server thread/INFO]: Using epoll channel type
+[21:39:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:39:36] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[21:39:38] [Server thread/INFO]: [STDOUT] [3EDrwpXqeIFbCio9TqKoL2s]  Downloaded from https://directleaks.net 
+[21:39:39] [Server thread/INFO]: [SpigotLibraryLoader] [AntiPopup] Loading 1 libraries... please wait
+[21:39:40] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/dev/dejvokep/boosted-yaml-spigot/1.3/boosted-yaml-spigot-1.3.pom
+[21:39:40] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/dev/dejvokep/boosted-yaml-spigot/1.3/boosted-yaml-spigot-1.3.jar
+[21:39:40] [Server thread/INFO]: [SpigotLibraryLoader] [AntiPopup] Loaded library /home/kevintaswin/papermc/libraries/dev/dejvokep/boosted-yaml-spigot/1.3/boosted-yaml-spigot-1.3.jar
+[21:39:40] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:39:46] [Server thread/WARN]: Legacy plugin CMIEInjector v1.0.2.3 does not specify an api-version.
+[21:39:46] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.117
+[21:39:51] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[21:39:51] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.19+6642-415ef95
+[21:39:53] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@64d9d7e6]
+[21:39:53] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[21:39:53] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.5
+[21:39:53] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b90-2886a71)
+[21:39:54] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[21:39:54] [Server thread/INFO]: [floodgate] Took 1,631ms to boot Floodgate
+[21:39:54] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.0-SNAPSHOT-679
+[21:39:57] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[21:39:57] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.4.5.0
+[21:39:57] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.2-SNAPSHOT
+[21:39:58] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[21:39:58] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[21:39:58] [Server thread/INFO]: [CMI] Loading server plugin CMI v9.6.9.8
+[21:39:58] [Server thread/INFO]: [OpeNLogin] Loading server plugin OpeNLogin v1.6.5
+[21:39:58] [Server thread/INFO]: [AntiPopup] Loading server plugin AntiPopup v7.3
+[21:39:59] [Server thread/INFO]: [AntiPopup] Loaded PacketEvents.
+[21:39:59] [Server thread/INFO]: [CMIEInjector] Loading server plugin CMIEInjector v1.0.2.3
+[21:39:59] [Server thread/INFO]: [CrisTreeCapitator] Loading server plugin CrisTreeCapitator v6.4.4
+[21:39:59] [Server thread/INFO]: [GeyserSkinManager] Loading server plugin GeyserSkinManager v1.7
+[21:39:59] [Server thread/INFO]: [Pl-Hide-Pro] Loading server plugin Pl-Hide-Pro v2.8.2
+[21:39:59] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.1.1
+[21:39:59] [Server thread/INFO]: [VeinMiner] Found WorldGuard. Registering custom region flag.
+[21:39:59] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.0.0
+[21:39:59] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.117
+[21:40:00] [Server thread/INFO]:         __    
+[21:40:00] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.117
+[21:40:00] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[21:40:00] [Server thread/INFO]: 
+[21:40:00] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[21:40:01] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[21:40:02] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[21:40:03] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[21:40:03] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3926ms)
+[21:40:03] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[21:40:03] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[21:40:03] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[21:40:03] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[21:40:03] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.19+6642-415ef95
+[21:40:03] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:40:04] [Server thread/INFO]: WEPIF: Updated config file
+[21:40:04] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[21:40:05] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[21:40:07] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[21:40:08] [Server thread/INFO]: [CMIEInjector] Enabling CMIEInjector v1.0.2.3*
+[21:40:08] [Server thread/INFO]: [CMIEInjector] Cant find CMI config file
+[21:40:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:40:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:40:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:40:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:40:08] [Server thread/INFO]: Preparing level "world"
+[21:40:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:40:41] [Server thread/INFO]: Time elapsed: 80 ms
+[21:40:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:40:41] [Server thread/INFO]: Time elapsed: 32 ms
+[21:40:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:40:41] [Server thread/INFO]: Time elapsed: 21 ms
+[21:40:41] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.5
+[21:40:41] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:40:41] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b90-2886a71)
+[21:40:42] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[21:40:42] [Server thread/INFO]: [WorldGuard] Default configuration file written: config.yml
+[21:40:42] [Server thread/INFO]: [WorldGuard] Default configuration file written: config_world.yml
+[21:40:42] [Server thread/INFO]: [WorldGuard] Default configuration file written: blacklist.txt
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[21:40:42] [Server thread/INFO]: [WorldGuard] Default configuration file written: config_world.yml
+[21:40:42] [Server thread/INFO]: [WorldGuard] Default configuration file written: blacklist.txt
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[21:40:42] [Server thread/INFO]: [WorldGuard] Default configuration file written: config_world.yml
+[21:40:42] [Server thread/INFO]: [WorldGuard] Default configuration file written: blacklist.txt
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[21:40:42] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[21:40:42] [Server thread/INFO]: [WorldGuard] Loading region data...
+[21:40:42] [Server thread/INFO]: [WorldGuard] Unloading and saving region data that is currently loaded...
+[21:40:42] [Server thread/INFO]: [WorldGuard] Loading region data for loaded worlds...
+[21:40:42] [Server thread/INFO]: [WorldGuard] Loading region data...
+[21:40:42] [Server thread/INFO]: [WorldGuard] Regions saved after UUID migration! This won't happen again unless you change the relevant configuration option in WorldGuard's config.
+[21:40:43] [Server thread/INFO]: [CMILib] Enabling CMILib v1.4.5.0
+[21:40:46] [Server thread/INFO]: Server version: v1_20_R3 - 1.20.4 - paper  git-Paper-408 (MC: 1.20.4)
+[21:40:47] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:40:47] [Server thread/INFO]: CMI hooked.
+[21:40:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmil [1.4.5.0]
+[21:40:47] [Server thread/INFO]: PlaceholderAPI hooked.
+[21:40:48] [Server thread/INFO]: Updated (EN) language file. Took 107ms
+[21:40:48] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.2-SNAPSHOT
+[21:40:48] [Server thread/INFO]: [CMI] Enabling CMI v9.6.9.8
+[21:40:48] [Server thread/INFO]: ┏━━━┓ ┏━┓┏━┓ ┏━━┓
+[21:40:48] [Server thread/INFO]: ┃┏━┓┃ ┃ ┗┛ ┃ ┗┫┣┛
+[21:40:48] [Server thread/INFO]: ┃┃ ┗┛ ┃┏┓┏┓┃  ┃┃ 
+[21:40:48] [Server thread/INFO]: ┃┃ ┏┓ ┃┃┃┃┃┃  ┃┃ 
+[21:40:48] [Server thread/INFO]: ┃┗━┛┃ ┃┃┃┃┃┃ ┏┫┣┓
+[21:40:48] [Server thread/INFO]: ┗━━━┛ ┗┛┗┛┗┛ ┗━━┛
+[21:40:48] [Server thread/INFO]: _______________________________________________________
+[21:40:48] [Server thread/INFO]:   Integrating PaperSpigot async methods
+[21:40:48] [Server thread/INFO]:   Vault found. (Loaded: true)
+[21:40:48] [Server thread/INFO]:   59 Enabled and 0 Disabled modules
+[21:40:48] [Server thread/INFO]:   ProtocolLib found. (Loaded: true)
+[21:40:48] [Server thread/INFO]:   Permission plugin: LuckPerms5.4.117
+[21:40:49] [Server thread/INFO]:   Initialized Cipher256 AES
+[21:40:50] [Server thread/INFO]:   Loaded (61) regular alias into memory. Took 131ms
+[21:40:50] [Server thread/INFO]:   Loaded (1) custom text's into memory. Took 12ms
+[21:40:50] [Server thread/INFO]:   3.42.0 data base type detected
+[21:40:50] [Server thread/INFO]:   UserTable creating CREATE TABLE `users` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `player_uuid` text, `username` text, `nickname` text, `LogOutLocation` text, `DeathLocation` text, `TeleportLocation` text, `Homes` text, `LastLoginTime` bigint, `LastLogoffTime` bigint, `TotalPlayTime` bigint, `tFly` bigint, `tGod` bigint, `Glow` text, `Ips` text, `Cuffed` boolean, `AlertUntil` bigint, `AlertReason` text, `JoinedCounter` boolean, `LockedIps` text, `pTime` bigint, `Kits` text, `Charges` text, `Cooldowns` mediumtext, `Balance` double, `Notes` text, `Rank` text, `BannedUntil` bigint, `BannedAt` bigint, `BannedBy` text, `BanReason` text, `Ignores` text, `Vanish` text, `Economy` text, `Mail` mediumtext, `FlightCharge` double, `UserMeta` text, `Flying` boolean, `Votifier` int, `Jail` text, `JailedUntil` bigint, `FakeAccount` boolean, `PlaytimeOptimized` bigint, `flightChargeEnabled` boolean, `JailReason` text, `Skin` text, `Collision` boolean, `NamePrefix` text, `NameSuffix` text, `Warnings` text, `NameColor` text, `Muted` text, `AFRecharge` text, `DisplayName` text, `Options` text, `ChatColor` text);
+[21:40:50] [Server thread/INFO]:   InvTable creating CREATE TABLE `inventories` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `player_id` int, `inventories` longtext);
+[21:40:50] [Server thread/INFO]:   PlayTime creating CREATE TABLE `playtime` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `player_id` int, `date` int, `h0` bigint, `h1` bigint, `h2` bigint, `h3` bigint, `h4` bigint, `h5` bigint, `h6` bigint, `h7` bigint, `h8` bigint, `h9` bigint, `h10` bigint, `h11` bigint, `h12` bigint, `h13` bigint, `h14` bigint, `h15` bigint, `h16` bigint, `h17` bigint, `h18` bigint, `h19` bigint, `h20` bigint, `h21` bigint, `h22` bigint, `h23` bigint);
+[21:40:50] [Server thread/INFO]:   PlayTimeReward creating CREATE TABLE `playtimereward` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `player_id` int, `repeatable` text, `onetime` longtext);
+[21:40:50] [Server thread/INFO]:   Started SqLite data base. Took 625ms
+[21:40:50] [Server thread/INFO]: [CMI] Vault was found but economy engine is missing. Use one from list provided in https://dev.bukkit.org/bukkit-plugins/vault/
+[21:40:50] [Server thread/INFO]: [CMI] Alternatively you can enable CMI economy in config.yml file
+[21:40:50] [Server thread/INFO]:   Vault was found but not economy plugin, you will have limited economy support
+[21:40:51] [Server thread/INFO]:   Loaded (5) warning categories into memory. Took 1ms
+[21:40:51] [Server thread/INFO]:   Loaded (3) warning commands into memory. Took 0ms
+[21:40:51] [Server thread/INFO]:   Loaded (144) custom mob heads into memory. Took 52ms
+[21:40:51] [Server thread/INFO]:   Loaded (0) cooldowns into memory. Took 80ms
+[21:40:51] [Server thread/INFO]:   Initializing BungeeCord
+[21:40:51] [Server thread/INFO]:   Loaded (5) kits into memory. Took 82ms
+[21:40:51] [Server thread/INFO]:   Loaded (7) ranks into memory. Took 41ms
+[21:40:51] [Server thread/INFO]:   Loaded (8) playtime rewards into memory. Took 11ms
+[21:40:51] [Server thread/INFO]:   Loaded (0) player data into memory. Took 5ms
+[21:40:51] [Server thread/INFO]:   Loaded (0) playtime records into memory. Took 1ms
+[21:40:51] [Server thread/INFO]:   Loaded (0) playtime reward records into memory. Took 0ms
+[21:40:52] [Server thread/INFO]:   Registered events. Took 403ms
+[21:40:52] [Server thread/INFO]:   Loaded (0) event action commands into memory. Took 12ms
+[21:40:52] [Server thread/INFO]:   Loaded (EN) language file into memory. Took 497ms
+[21:40:53] [Server thread/INFO]:   Loaded (245) worth values into memory. Took 220ms
+[21:40:53] [Server thread/INFO]:   VaultPermissions found. (Loaded: true)
+[21:40:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmi [9.6.9.8]
+[21:40:53] [Server thread/INFO]:   PlaceholderAPI hooked.
+[21:40:53] [Server thread/INFO]:   PlaceholderAPI found. (Loaded: true)
+[21:40:53] [Server thread/INFO]:   Starting world timer.
+[21:40:53] [Server thread/INFO]:   Initializing world manager.
+[21:40:53] [Server thread/INFO]:   Loaded (4) schedules into memory. Took 28ms
+[21:40:53] [Server thread/INFO]:   Loaded GeoIP
+[21:40:53] [Server thread/INFO]:   Loaded (0) ArmorStand templates into memory. Took 1ms
+[21:40:53] [Server thread/INFO]:   Version 9.6.9.8 has been enabled
+[21:40:53] [Server thread/INFO]: ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[21:40:53] [Server thread/INFO]: [OpeNLogin] Enabling OpeNLogin v1.6.5
+[21:40:53] [Server thread/INFO]: [OpeNLogin]    ___                __  __             _ 
+[21:40:53] [Server thread/INFO]: [OpeNLogin]   /___\_ __   ___  /\ \ \/ /  ___   __ _(_)_ __
+[21:40:53] [Server thread/INFO]: [OpeNLogin]  //  // '_ \ / _ \/  \/ / /  / _ \ / _` | | '_ \
+[21:40:53] [Server thread/INFO]: [OpeNLogin] / \_//| |_) |  __/ /\  / /__| (_) | (_| | | | | |
+[21:40:53] [Server thread/INFO]: [OpeNLogin] \___/ | .__/ \___\_\ \/\____/\___/ \__, |_|_| |_|
+[21:40:53] [Server thread/INFO]: [OpeNLogin]       |_|                          |___/         
+[21:40:53] [Server thread/INFO]: [OpeNLogin] By: www.nickuc.com / github.com/nickuc/OpeNLogin - V 1.6.5
+[21:40:53] [Server thread/INFO]: [OpeNLogin] 
+[21:40:53] [Server thread/INFO]: [AntiPopup] Enabling AntiPopup v7.3
+[21:40:53] [Server thread/INFO]: [AntiPopup] Config enabled.
+[21:40:53] [Server thread/INFO]: [AntiPopup] Initiated PacketEvents.
+[21:40:53] [Server thread/INFO]: [AntiPopup] Hooked on 1.20.4
+[21:40:53] [Server thread/INFO]: [AntiPopup] Commands registered.
+[21:40:53] [Server thread/INFO]: [AntiPopup] Logger filter enabled.
+[21:40:53] [Server thread/INFO]: [CrisTreeCapitator] Enabling CrisTreeCapitator v6.4.4
+[21:40:53] [Server thread/INFO]: [CrisTreeCapitator] WorldGuard found, extra protection enabled.
+[21:40:54] [Server thread/ERROR]: [CrisTreeCapitator] [STDERR] Configuration file not created yet. Skipping load.
+[21:40:54] [Server thread/WARN]: Nag author(s): '[]' of 'CrisTreeCapitator v6.4.4' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:40:54] [Server thread/INFO]: [CrisTreeCapitator] Enabled
+[21:40:54] [Server thread/INFO]: [GeyserSkinManager] Enabling GeyserSkinManager v1.7
+[21:40:56] [Server thread/WARN]: [GeyserSkinManager] Floodgate found on the server! Disabling skin services and only running mod interactions.
+[21:40:56] [Server thread/INFO]: [Pl-Hide-Pro] Enabling Pl-Hide-Pro v2.8.2
+[21:40:56] [Server thread/INFO]: [Pl-Hide-Pro] [STDOUT] [Spigotunlocked.com] - ZER.
+[21:40:56] [Server thread/WARN]: Nag author(s): '[Nononitas]' of 'Pl-Hide-Pro v2.8.2' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:40:57] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.1.1
+[21:40:57] [Server thread/INFO]: [VeinMiner] Using SQLITE for persistent storage.
+[21:40:57] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[21:40:57] [Server thread/INFO]: [VeinMiner] Unknown or invalid block state string for input: "minecraft:grass". Is it an item?
+[21:40:57] [Server thread/INFO]: [VeinMiner] Added 13 aliases.
+[21:40:57] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 26 unique blocks.
+[21:40:57] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 10 unique blocks.
+[21:40:57] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 23 unique blocks.
+[21:40:57] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 27 unique blocks.
+[21:40:57] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
+[21:40:57] [Server thread/INFO]: [VeinMiner] Registering commands
+[21:40:57] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[21:40:57] [Server thread/INFO]: [VeinMiner] Registering events
+[21:40:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: veinminer [2.1.1]
+[21:40:57] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[21:40:57] [Server thread/INFO]: [VeinMiner] Cancelled. No economy plugin found.
+[21:40:57] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[21:40:57] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[21:40:57] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.0.0
+[21:40:57] [Server thread/INFO]: [ChestSort] Hooked into WorldGuard 7.0.9+5934e49
+[21:40:57] [Server thread/INFO]: [ChestSort] Use permissions: true
+[21:40:57] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
+[21:40:57] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
+[21:40:57] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
+[21:40:57] [Server thread/INFO]: [ChestSort]   |- Sort time: close
+[21:40:57] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
+[21:40:57] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
+[21:40:57] [Server thread/INFO]: [ChestSort] Auto generate category files: true
+[21:40:57] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
+[21:40:57] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
+[21:40:57] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
+[21:40:57] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
+[21:40:57] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
+[21:40:57] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
+[21:40:57] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
+[21:40:57] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
+[21:40:57] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
+[21:40:57] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
+[21:40:57] [Server thread/INFO]: [ChestSort] Check for updates: true
+[21:40:57] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
+[21:40:57] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
+[21:40:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chestsort [14.0.0]
+[21:40:58] [Thread-14/INFO]: [VeinMiner] You are on the latest version of VeinMiner.
+[21:40:58] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:40:58] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[21:40:58] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:40:58] [Server thread/INFO]: [Geyser-Spigot] 
+[21:40:58] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.2-SNAPSHOT (git-master-226a4bb)
+[21:40:58] [Server thread/INFO]: [Geyser-Spigot] 
+[21:40:58] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:41:09] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[21:41:09] [Server thread/INFO]: [Geyser-Spigot] Done (11.054s)! Run /geyser help for help!
+[21:41:09] [Server thread/INFO]: Running delayed init tasks
+[21:41:09] [Server thread/INFO]: Done (97.641s)! For help, type "help"
+[21:41:09] [Server thread/INFO]: Timings Reset
+[21:41:09] [Craft Scheduler Thread - 46 - Vault/INFO]: [Vault] Checking for Updates ... 
+[21:41:10] [Craft Scheduler Thread - 46 - Vault/INFO]: [Vault] No new version available
+[21:41:10] [Thread-16/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
+[21:41:10] [Thread-21/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
+[21:41:12] [Server thread/INFO]: Downloaded Locale_DE.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_LT.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_PL.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_ES.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_SL.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_CZ.yml file
+[21:41:12] [Server thread/INFO]: Updated (EN) language file. Took 120ms
+[21:41:12] [Server thread/INFO]: [CMI] Downloaded Locale_IT.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_TR.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_CN.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_NO.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_IT.yml file
+[21:41:12] [Server thread/INFO]: [CMI] Downloaded Locale_CN.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_ZH.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_SK.yml file
+[21:41:12] [Server thread/INFO]: Downloaded items_ES.yml file
+[21:41:12] [Server thread/INFO]: Updated (EN) language file. Took 139ms
+[21:41:12] [Server thread/INFO]: Downloaded Locale_RU.yml file
+[21:41:12] [Server thread/INFO]: [CMI] Downloaded Locale_ES.yml file
+[21:41:12] [Server thread/INFO]: [CMI] Downloaded Death Messages Locale_ES.yml file
+[21:41:12] [Server thread/INFO]: Downloaded Locale_FR.yml file
+[21:41:12] [Server thread/INFO]: [CMI] Downloaded Death Messages Locale_EN.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Loaded (EN) language file into memory. Took 802ms
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_CZ.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_DE.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_FR.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_SK.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_SL.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_NO.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_PL.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_ZH.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_TR.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_RU.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_UA.yml file
+[21:41:13] [Server thread/INFO]: [CMI] Downloaded Locale_KO.yml file
+[21:41:14] [Server thread/INFO]: [CMI] Loaded (EN) language file into memory. Took 793ms
+[21:41:14] [Server thread/INFO]: [CMI] Downloaded Locale_LT.yml file
+[21:41:14] [Server thread/WARN]: [AntiPopup] ----------------------[ READ ME ]----------------------
+[21:41:14] [Server thread/WARN]: [AntiPopup] This is your first startup with AntiPopup.
+[21:41:14] [Server thread/WARN]: [AntiPopup] Run command 'antipopup setup' to disable
+[21:41:14] [Server thread/WARN]: [AntiPopup] enforce-secure-profile for better experience.
+[21:41:14] [Server thread/WARN]: [AntiPopup] This will not force players to sign their messages.
+[21:41:14] [Server thread/WARN]: [AntiPopup] Thanks for using AntiPopup!
+[21:41:14] [Server thread/WARN]: [AntiPopup] -------------------------------------------------------
+[21:41:14] [Server thread/WARN]: [AntiPopup] ------------------------[ READ ME ]------------------------
+[21:41:14] [Server thread/WARN]: [AntiPopup] This is your first startup with AntiPopup.
+[21:41:14] [Server thread/WARN]: [AntiPopup] I would like to kindly ask you to enable bstats
+[21:41:14] [Server thread/WARN]: [AntiPopup] configuration value to help me improve AntiPopup.
+[21:41:14] [Server thread/WARN]: [AntiPopup] Because I respect your freedom it's disabled by default.
+[21:41:14] [Server thread/WARN]: [AntiPopup] Thanks for using AntiPopup! (you will not see this again)
+[21:41:14] [Server thread/WARN]: [AntiPopup] -----------------------------------------------------------
+[21:41:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4928ms or 98 ticks behind
+[21:41:15] [Thread-21/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
+[21:41:20] [Server thread/INFO]: --------- Help: Index ---------------------------
+[21:41:20] [Server thread/INFO]: Use /help [n] to get page n of help.
+[21:41:20] [Server thread/INFO]: Aliases: Lists command aliases
+[21:41:20] [Server thread/INFO]: AntiPopup: All commands for AntiPopup
+[21:41:20] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[21:41:20] [Server thread/INFO]: ChestSort: All commands for ChestSort
+[21:41:20] [Server thread/INFO]: CMI: All commands for CMI
+[21:41:20] [Server thread/INFO]: CMILib: All commands for CMILib
+[21:41:20] [Server thread/INFO]: CrisTreeCapitator: All commands for CrisTreeCapitator
+[21:41:20] [Server thread/INFO]: floodgate: All commands for floodgate
+[21:41:20] [Server thread/INFO]: Geyser-Spigot: All commands for Geyser-Spigot
+[21:41:20] [Server thread/INFO]: LuckPerms: All commands for LuckPerms
+[21:41:20] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[21:41:20] [Server thread/INFO]: OpeNLogin: All commands for OpeNLogin
+[21:41:20] [Server thread/INFO]: Pl-Hide-Pro: All commands for Pl-Hide-Pro
+[21:41:20] [Server thread/INFO]: PlaceholderAPI: All commands for PlaceholderAPI
+[21:41:20] [Server thread/INFO]: ProtocolLib: All commands for ProtocolLib
+[21:41:20] [Server thread/INFO]: Vault: All commands for Vault
+[21:41:20] [Server thread/INFO]: VeinMiner: All commands for VeinMiner
+[21:41:20] [Server thread/INFO]: WorldEdit: All commands for WorldEdit
+[21:41:20] [Server thread/INFO]: WorldGuard: All commands for WorldGuard
+[21:41:20] [Server thread/INFO]: /.s: Execute last CraftScript
+[21:41:20] [Server thread/INFO]: //: Toggle the super pickaxe function
+[21:41:20] [Server thread/INFO]: //calculate: Evaluate a mathematical expression
+[21:41:20] [Server thread/INFO]: //center: Set the center block(s)
+[21:41:20] [Server thread/INFO]: //chunk: Set the selection to your current chunk.
+[21:41:20] [Server thread/INFO]: //contract: Contract the selection area
+[21:41:20] [Server thread/INFO]: //copy: Copy the selection to the clipboard
+[21:41:20] [Server thread/INFO]: //count: Counts the number of blocks matching a mask
+[21:41:20] [Server thread/INFO]: //curve: Draws a spline through selected points
+[21:41:20] [Server thread/INFO]: //cut: Cut the selection to the clipboard
+[21:41:20] [Server thread/INFO]: //cyl: Generates a cylinder.
+[21:41:20] [Server thread/INFO]: //deform: Deforms a selected region with an expression
+[21:41:20] [Server thread/INFO]: //distr: Get the distribution of blocks in the selection
+[21:41:20] [Server thread/INFO]: //drain: Drain a pool
+[21:41:20] [Server thread/INFO]: //drawsel: Toggle drawing the current selection
+[21:41:20] [Server thread/INFO]: //expand: Expand the selection area
+[21:41:20] [Server thread/INFO]: //faces: Build the walls, ceiling, and floor of a selection
+[21:41:20] [Server thread/INFO]: //fast: Toggle fast mode
+[21:41:20] [Server thread/INFO]: //fill: Fill a hole
+[21:41:20] [Server thread/INFO]: //fillr: Fill a hole recursively
+[21:41:20] [Server thread/INFO]: //flip: Flip the contents of the clipboard across the origin
+[21:41:20] [Server thread/INFO]: //flora: Make flora within the region
+[21:41:20] [Server thread/INFO]: //forest: Make a forest within the region
+[21:41:20] [Server thread/INFO]: //generate: Generates a shape according to a formula.
+[21:41:20] [Server thread/INFO]: //generatebiome: Sets biome according to a formula.
+[21:41:20] [Server thread/INFO]: //hcyl: Generates a hollow cylinder.
+[21:41:20] [Server thread/INFO]: //help: Displays help for WorldEdit commands
+[21:41:20] [Server thread/INFO]: //hollow: Hollows out the object contained in this selection
+[21:41:20] [Server thread/INFO]: //hpos1: Set position 1 to targeted block
+[21:41:20] [Server thread/INFO]: //hpos2: Set position 2 to targeted block
+[21:41:20] [Server thread/INFO]: //hpyramid: Generate a hollow pyramid
+[21:41:20] [Server thread/INFO]: //hsphere: Generates a hollow sphere.
+[21:41:20] [Server thread/INFO]: //inset: Inset the selection area
+[21:41:20] [Server thread/INFO]: //limit: Modify block change limit
+[21:41:20] [Server thread/INFO]: //line: Draws line segments between cuboid selection corners or convex polyhedral selection vertices
+[21:41:20] [Server thread/INFO]: //move: Move the contents of the selection
+[21:41:20] [Server thread/INFO]: //naturalize: 3 layers of dirt on top then rock below
+[21:41:20] [Server thread/INFO]: //outset: Outset the selection area
+[21:41:20] [Server thread/INFO]: //overlay: Set a block on top of blocks in the region
+[21:41:20] [Server thread/INFO]: //paste: Paste the clipboard's contents
+[21:41:20] [Server thread/INFO]: //perf: Toggle side effects for performance
+[21:41:20] [Server thread/INFO]: //pos1: Set position 1
+[21:41:20] [Server thread/INFO]: //pos2: Set position 2
+[21:41:20] [Server thread/INFO]: //pyramid: Generate a filled pyramid
+[21:41:20] [Server thread/INFO]: //regen: Regenerates the contents of the selection
+[21:41:20] [Server thread/INFO]: //reorder: Sets the reorder mode of WorldEdit
+[21:41:20] [Server thread/INFO]: //replace: Replace all blocks in the selection with another
+[21:41:20] [Server thread/INFO]: //rotate: Rotate the contents of the clipboard
+[21:41:20] [Server thread/INFO]: //sel: Choose a region selector
+[21:41:20] [Server thread/INFO]: //set: Sets all the blocks in the region
+[21:41:20] [Server thread/INFO]: //setbiome: Sets the biome of your current block or region.
+[21:41:20] [Server thread/INFO]: //shift: Shift the selection area
+[21:41:20] [Server thread/INFO]: //size: Get information about the selection
+[21:41:20] [Server thread/INFO]: //smooth: Smooth the elevation in the selection
+[21:41:20] [Server thread/INFO]: //sphere: Generates a filled sphere.
+[21:41:20] [Server thread/INFO]: //stack: Repeat the contents of the selection
+[21:41:20] [Server thread/INFO]: //timeout: Modify evaluation timeout time.
+[21:41:20] [Server thread/INFO]: //walls: Build the four sides of the selection
+[21:41:20] [Server thread/INFO]: //wand: Get the wand item
+[21:41:20] [Server thread/INFO]: //watchdog: Changes watchdog hook state.
+[21:41:20] [Server thread/INFO]: //world: Sets the world override
+[21:41:20] [Server thread/INFO]: /actionbarmsg: 
+[21:41:20] [Server thread/INFO]: /advancement: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /afk: 
+[21:41:20] [Server thread/INFO]: /afkcheck: 
+[21:41:20] [Server thread/INFO]: /air: 
+[21:41:20] [Server thread/INFO]: /alert: 
+[21:41:20] [Server thread/INFO]: /aliaseditor: 
+[21:41:20] [Server thread/INFO]: /allowfire: [<world>] - Allows all fire spread temporarily
+[21:41:20] [Server thread/INFO]: /antipopup: Main antipopup command.
+[21:41:20] [Server thread/INFO]: /anvil: 
+[21:41:20] [Server thread/INFO]: /anvilrepaircost: 
+[21:41:20] [Server thread/INFO]: /armoreffect: 
+[21:41:20] [Server thread/INFO]: /armorstand: 
+[21:41:20] [Server thread/INFO]: /ascend: Go up a floor
+[21:41:20] [Server thread/INFO]: /attachcommand: 
+[21:41:20] [Server thread/INFO]: /attribute: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /autorecharge: 
+[21:41:20] [Server thread/INFO]: /back: 
+[21:41:20] [Server thread/INFO]: /balance: 
+[21:41:20] [Server thread/INFO]: /baltop: 
+[21:41:20] [Server thread/INFO]: /ban: 
+[21:41:20] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /banlist: 
+[21:41:20] [Server thread/INFO]: /bbroadcast: 
+[21:41:20] [Server thread/INFO]: /biomeinfo: Get the biome of the targeted block.
+[21:41:20] [Server thread/INFO]: /biomelist: Gets all biomes available.
+[21:41:20] [Server thread/INFO]: /blockcycling: 
+[21:41:20] [Server thread/INFO]: /blockinfo: 
+[21:41:20] [Server thread/INFO]: /blocklist: Edit the block lists of vein mining categories
+[21:41:20] [Server thread/INFO]: /blocknbt: 
+[21:41:20] [Server thread/INFO]: /book: 
+[21:41:20] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /bossbarmsg: 
+[21:41:20] [Server thread/INFO]: /broadcast: 
+[21:41:20] [Server thread/INFO]: /brush: Brushing commands
+[21:41:20] [Server thread/INFO]: /burn: 
+[21:41:20] [Server thread/INFO]: /butcher: Kill all or nearby mobs
+[21:41:20] [Server thread/INFO]: /callback: ClickEvent callback
+[21:41:20] [Server thread/INFO]: /cartographytable: 
+[21:41:20] [Server thread/INFO]: /ceil: Go to the ceiling
+[21:41:20] [Server thread/INFO]: /changepassword: Changes your password
+[21:41:20] [Server thread/INFO]: /charges: 
+[21:41:20] [Server thread/INFO]: /chat: 
+[21:41:20] [Server thread/INFO]: /chatcolor: 
+[21:41:20] [Server thread/INFO]: /checkaccount: 
+[21:41:20] [Server thread/INFO]: /checkban: 
+[21:41:20] [Server thread/INFO]: /checkcommand: 
+[21:41:20] [Server thread/INFO]: /checkexp: 
+[21:41:20] [Server thread/INFO]: /checkperm: 
+[21:41:20] [Server thread/INFO]: /cheque: 
+[21:41:20] [Server thread/INFO]: /chunkinfo: Get information about the chunk you're inside
+[21:41:20] [Server thread/INFO]: /clear: 
+[21:41:20] [Server thread/INFO]: /clearchat: 
+[21:41:20] [Server thread/INFO]: /clearclipboard: Clear your clipboard
+[21:41:20] [Server thread/INFO]: /clearender: 
+[21:41:20] [Server thread/INFO]: /clearhistory: Clear your history
+[21:41:20] [Server thread/INFO]: /clone: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /cmi: basic command
+[21:41:20] [Server thread/INFO]: /cmi:ext: 
+[21:41:20] [Server thread/INFO]: /cmi:god: 
+[21:41:20] [Server thread/INFO]: /cmi:heal: 
+[21:41:20] [Server thread/INFO]: /cmi:info: 
+[21:41:20] [Server thread/INFO]: /cmi:tps: 
+[21:41:20] [Server thread/INFO]: /cmi:tree: 
+[21:41:20] [Server thread/INFO]: /cmil: basic command
+[21:41:20] [Server thread/INFO]: /colorlimits: 
+[21:41:20] [Server thread/INFO]: /colorpicker: 
+[21:41:20] [Server thread/INFO]: /colors: 
+[21:41:20] [Server thread/INFO]: /compass: 
+[21:41:20] [Server thread/INFO]: /condense: 
+[21:41:20] [Server thread/INFO]: /counter: 
+[21:41:20] [Server thread/INFO]: /cplaytime: 
+[21:41:20] [Server thread/INFO]: /cs: Execute a CraftScript
+[21:41:20] [Server thread/INFO]: /ctellraw: 
+[21:41:20] [Server thread/INFO]: /ctext: 
+[21:41:20] [Server thread/INFO]: /cuff: 
+[21:41:20] [Server thread/INFO]: /customrecipe: 
+[21:41:20] [Server thread/INFO]: /cycler: Block data cycler tool
+[21:41:20] [Server thread/INFO]: /damage: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /data: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /datapack: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /day: 
+[21:41:20] [Server thread/INFO]: /dback: 
+[21:41:20] [Server thread/INFO]: /debug: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /delchunks: Delete chunks that your selection includes
+[21:41:20] [Server thread/INFO]: /deltree: Floating tree remover tool
+[21:41:20] [Server thread/INFO]: /deop: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /descend: Go down a floor
+[21:41:20] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /disableenchant: 
+[21:41:20] [Server thread/INFO]: /dispose: 
+[21:41:20] [Server thread/INFO]: /distance: 
+[21:41:20] [Server thread/INFO]: /donate: 
+[21:41:20] [Server thread/INFO]: /down: 
+[21:41:20] [Server thread/INFO]: /dsign: 
+[21:41:20] [Server thread/INFO]: /dusk: 
+[21:41:20] [Server thread/INFO]: /dye: 
+[21:41:20] [Server thread/INFO]: /editctext: 
+[21:41:20] [Server thread/INFO]: /editlocale: 
+[21:41:20] [Server thread/INFO]: /editplaytime: 
+[21:41:20] [Server thread/INFO]: /editwarnings: 
+[21:41:20] [Server thread/INFO]: /editwarp: 
+[21:41:20] [Server thread/INFO]: /effect: 
+[21:41:20] [Server thread/INFO]: /enchant: 
+[21:41:20] [Server thread/INFO]: /ender: 
+[21:41:20] [Server thread/INFO]: /endgateway: 
+[21:41:20] [Server thread/INFO]: /entityinfo: 
+[21:41:20] [Server thread/INFO]: /entitynbt: 
+[21:41:20] [Server thread/INFO]: /execute: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /exp: 
+[21:41:20] [Server thread/INFO]: /experience: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /extinguish: Extinguish nearby fire
+[21:41:20] [Server thread/INFO]: /falldistance: 
+[21:41:20] [Server thread/INFO]: /farwand: Wand at a distance tool
+[21:41:20] [Server thread/INFO]: /fcharge: 
+[21:41:20] [Server thread/INFO]: /feed: 
+[21:41:20] [Server thread/INFO]: /fill: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /fillbiome: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /filter: Add or remove programmable filters to the packet listeners.
+[21:41:20] [Server thread/INFO]: /findbiome: 
+[21:41:20] [Server thread/INFO]: /fixchunk: 
+[21:41:20] [Server thread/INFO]: /fixlava: Fix lava to be stationary
+[21:41:20] [Server thread/INFO]: /fixwater: Fix water to be stationary
+[21:41:20] [Server thread/INFO]: /flightcharge: 
+[21:41:20] [Server thread/INFO]: /floodfill: Flood fill tool
+[21:41:20] [Server thread/INFO]: /floodgate: 
+[21:41:20] [Server thread/INFO]: /fly: 
+[21:41:20] [Server thread/INFO]: /flyc: 
+[21:41:20] [Server thread/INFO]: /flyspeed: 
+[21:41:20] [Server thread/INFO]: /forceload: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /forestgen: Generate a forest
+[21:41:20] [Server thread/INFO]: /function: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /fwhitelist: 
+[21:41:20] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /gamerule: 
+[21:41:20] [Server thread/INFO]: /generateworth: 
+[21:41:20] [Server thread/INFO]: /getbook: 
+[21:41:20] [Server thread/INFO]: /geyser: The main command for Geyser.
+[21:41:20] [Server thread/INFO]: /give: 
+[21:41:20] [Server thread/INFO]: /giveall: 
+[21:41:20] [Server thread/INFO]: /glow: 
+[21:41:20] [Server thread/INFO]: /gm: 
+[21:41:20] [Server thread/INFO]: /gmask: Set the global mask
+[21:41:20] [Server thread/INFO]: /god: [player] - Enable godmode on a player
+[21:41:20] [Server thread/INFO]: /green: Converts dirt to grass blocks in the area
+[21:41:20] [Server thread/INFO]: /grindstone: 
+[21:41:20] [Server thread/INFO]: /groundclean: 
+[21:41:20] [Server thread/INFO]: /halt-activity: [confirm] - Attempts to cease as much activity in order to stop lag
+[21:41:20] [Server thread/INFO]: /haspermission: 
+[21:41:20] [Server thread/INFO]: /hat: 
+[21:41:20] [Server thread/INFO]: /head: 
+[21:41:20] [Server thread/INFO]: /heal: [player] - Heal a player
+[21:41:20] [Server thread/INFO]: /help: Shows the help menu
+[21:41:20] [Server thread/INFO]: /helpop: 
+[21:41:20] [Server thread/INFO]: /hideflags: 
+[21:41:20] [Server thread/INFO]: /hologram: 
+[21:41:20] [Server thread/INFO]: /hologrampages: 
+[21:41:20] [Server thread/INFO]: /home: 
+[21:41:20] [Server thread/INFO]: /homes: 
+[21:41:20] [Server thread/INFO]: /hunger: 
+[21:41:20] [Server thread/INFO]: /ic: 
+[21:41:20] [Server thread/INFO]: /ifoffline: 
+[21:41:20] [Server thread/INFO]: /ifonline: 
+[21:41:20] [Server thread/INFO]: /ignore: 
+[21:41:20] [Server thread/INFO]: /ignorelist: 
+[21:41:20] [Server thread/INFO]: /ilore: 
+[21:41:20] [Server thread/INFO]: /importfrom: 
+[21:41:20] [Server thread/INFO]: /importoldusers: 
+[21:41:20] [Server thread/INFO]: /iname: 
+[21:41:20] [Server thread/INFO]: /info: Block information tool
+[21:41:20] [Server thread/INFO]: /inv: 
+[21:41:20] [Server thread/INFO]: /invcheck: 
+[21:41:20] [Server thread/INFO]: /invlist: 
+[21:41:20] [Server thread/INFO]: /invload: 
+[21:41:20] [Server thread/INFO]: /invremove: 
+[21:41:20] [Server thread/INFO]: /invremoveall: 
+[21:41:20] [Server thread/INFO]: /invsave: 
+[21:41:20] [Server thread/INFO]: /ipban: 
+[21:41:20] [Server thread/INFO]: /ipbanlist: 
+[21:41:20] [Server thread/INFO]: /isort: Toggle automatic inventory sorting or sorts the player's inventory.
+[21:41:20] [Server thread/INFO]: /item: 
+[21:41:20] [Server thread/INFO]: /itemcmdata: 
+[21:41:20] [Server thread/INFO]: /itemframe: 
+[21:41:20] [Server thread/INFO]: /iteminfo: 
+[21:41:20] [Server thread/INFO]: /itemlore: 
+[21:41:20] [Server thread/INFO]: /itemname: 
+[21:41:20] [Server thread/INFO]: /itemnbt: 
+[21:41:20] [Server thread/INFO]: /jail: 
+[21:41:20] [Server thread/INFO]: /jailedit: 
+[21:41:20] [Server thread/INFO]: /jaillist: 
+[21:41:20] [Server thread/INFO]: /jfr: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /jump: 
+[21:41:20] [Server thread/INFO]: /jumpto: Teleport to a location
+[21:41:20] [Server thread/INFO]: /kick: 
+[21:41:20] [Server thread/INFO]: /kill: 
+[21:41:20] [Server thread/INFO]: /killall: 
+[21:41:20] [Server thread/INFO]: /kit: 
+[21:41:20] [Server thread/INFO]: /kitcdreset: 
+[21:41:20] [Server thread/INFO]: /kiteditor: 
+[21:41:20] [Server thread/INFO]: /kitopen: 
+[21:41:20] [Server thread/INFO]: /kitpreview: 
+[21:41:20] [Server thread/INFO]: /kitusagereset: 
+[21:41:20] [Server thread/INFO]: /lag: 
+[21:41:20] [Server thread/INFO]: /lastonline: 
+[21:41:20] [Server thread/INFO]: /launch: 
+[21:41:20] [Server thread/INFO]: /lfix: 
+[21:41:20] [Server thread/INFO]: /linkaccount: 
+[21:41:20] [Server thread/INFO]: /list: 
+[21:41:20] [Server thread/INFO]: /listchunks: List chunks that your selection includes
+[21:41:20] [Server thread/INFO]: /locate: [player] - Locate a player
+[21:41:20] [Server thread/INFO]: /lockip: 
+[21:41:20] [Server thread/INFO]: /login: Log in to your account
+[21:41:20] [Server thread/INFO]: /loom: 
+[21:41:20] [Server thread/INFO]: /loot: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /lrbuild: Long-range building tool
+[21:41:20] [Server thread/INFO]: /luckperms: Manage permissions
+[21:41:20] [Server thread/INFO]: /mail: 
+[21:41:20] [Server thread/INFO]: /mailall: 
+[21:41:20] [Server thread/INFO]: /maintenance: 
+[21:41:20] [Server thread/INFO]: /mask: Set the brush mask
+[21:41:20] [Server thread/INFO]: /material: Set the brush material
+[21:41:20] [Server thread/INFO]: /maxhp: 
+[21:41:20] [Server thread/INFO]: /maxplayers: 
+[21:41:20] [Server thread/INFO]: /me: 
+[21:41:20] [Server thread/INFO]: /merchant: 
+[21:41:20] [Server thread/INFO]: /migratedatabase: 
+[21:41:20] [Server thread/INFO]: /minecraft:ban: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:banlist: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:clear: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:effect: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:enchant: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:gamerule: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:give: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:item: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:kick: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:kill: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:list: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:locate: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:me: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:msg: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:recipe: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:ride: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:schedule: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:time: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:tp: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /minecraft:weather: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /mirror: 
+[21:41:20] [Server thread/INFO]: /mobhead: 
+[21:41:20] [Server thread/INFO]: /money: 
+[21:41:20] [Server thread/INFO]: /more: 
+[21:41:20] [Server thread/INFO]: /morning: 
+[21:41:20] [Server thread/INFO]: /msg: 
+[21:41:20] [Server thread/INFO]: /mspt: View server tick times
+[21:41:20] [Server thread/INFO]: /mute: 
+[21:41:20] [Server thread/INFO]: /mutechat: 
+[21:41:20] [Server thread/INFO]: /nameplate: 
+[21:41:20] [Server thread/INFO]: /navwand: Navigation wand tool
+[21:41:20] [Server thread/INFO]: /near: 
+[21:41:20] [Server thread/INFO]: /nick: 
+[21:41:20] [Server thread/INFO]: /night: 
+[21:41:20] [Server thread/INFO]: /none: Unbind a bound tool from your current item
+[21:41:20] [Server thread/INFO]: /notarget: 
+[21:41:20] [Server thread/INFO]: /note: 
+[21:41:20] [Server thread/INFO]: /op: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /openbook: 
+[21:41:20] [Server thread/INFO]: /openlogin: OpenLogin management command
+[21:41:20] [Server thread/INFO]: /oplist: 
+[21:41:20] [Server thread/INFO]: /options: 
+[21:41:20] [Server thread/INFO]: /packet: Add or remove a simple packet listener.
+[21:41:20] [Server thread/INFO]: /packetlog: Logs hex representations of packets to a file or console
+[21:41:20] [Server thread/INFO]: /panimation: 
+[21:41:20] [Server thread/INFO]: /paper: Paper related commands
+[21:41:20] [Server thread/INFO]: /pardon: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /particle: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /patrol: 
+[21:41:20] [Server thread/INFO]: /pay: 
+[21:41:20] [Server thread/INFO]: /perf: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /ping: 
+[21:41:20] [Server thread/INFO]: /place: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /placeholderapi: PlaceholderAPI Command
+[21:41:20] [Server thread/INFO]: /placeholders: 
+[21:41:20] [Server thread/INFO]: /playercollision: 
+[21:41:20] [Server thread/INFO]: /playsound: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /playtime: 
+[21:41:20] [Server thread/INFO]: /playtimetop: 
+[21:41:20] [Server thread/INFO]: /plhide: Reloads the Pl-Hide Plugin
+[21:41:20] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[21:41:20] [Server thread/INFO]: /point: 
+[21:41:20] [Server thread/INFO]: /portals: 
+[21:41:20] [Server thread/INFO]: /pos: 
+[21:41:20] [Server thread/INFO]: /powertool: 
+[21:41:20] [Server thread/INFO]: /preview: 
+[21:41:20] [Server thread/INFO]: /prewards: 
+[21:41:20] [Server thread/INFO]: /protocol: Performs administrative tasks regarding ProtocolLib.
+[21:41:20] [Server thread/INFO]: /ptime: 
+[21:41:20] [Server thread/INFO]: /pumpkins: Generate pumpkin patches
+[21:41:20] [Server thread/INFO]: /purge: 
+[21:41:20] [Server thread/INFO]: /pweather: 
+[21:41:20] [Server thread/INFO]: /rain: 
+[21:41:20] [Server thread/INFO]: /random: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /range: Set the brush range
+[21:41:20] [Server thread/INFO]: /rankdown: 
+[21:41:20] [Server thread/INFO]: /rankinfo: 
+[21:41:20] [Server thread/INFO]: /ranklist: 
+[21:41:20] [Server thread/INFO]: /rankset: 
+[21:41:20] [Server thread/INFO]: /rankup: 
+[21:41:20] [Server thread/INFO]: /realname: 
+[21:41:20] [Server thread/INFO]: /recharge: 
+[21:41:20] [Server thread/INFO]: /recipe: 
+[21:41:20] [Server thread/INFO]: /redo: Redoes the last action (from history)
+[21:41:20] [Server thread/INFO]: /region: Region management commands
+[21:41:20] [Server thread/INFO]: /register: Register your account
+[21:41:20] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[21:41:20] [Server thread/INFO]: /remove: Remove all entities of a type
+[21:41:20] [Server thread/INFO]: /removeabove: Remove blocks above your head.
+[21:41:20] [Server thread/INFO]: /removebelow: Remove blocks below you.
+[21:41:20] [Server thread/INFO]: /removehome: 
+[21:41:20] [Server thread/INFO]: /removenear: Remove blocks near you.
+[21:41:20] [Server thread/INFO]: /removeuser: 
+[21:41:20] [Server thread/INFO]: /removewarp: 
+[21:41:20] [Server thread/INFO]: /repair: 
+[21:41:20] [Server thread/INFO]: /repaircost: 
+[21:41:20] [Server thread/INFO]: /repl: Block replacer tool
+[21:41:20] [Server thread/INFO]: /replaceblock: 
+[21:41:20] [Server thread/INFO]: /replacenear: Replace nearby blocks
+[21:41:20] [Server thread/INFO]: /reply: 
+[21:41:20] [Server thread/INFO]: /resetback: 
+[21:41:20] [Server thread/INFO]: /resetdbfields: 
+[21:41:20] [Server thread/INFO]: /restart: Restarts the server
+[21:41:20] [Server thread/INFO]: /restore: Restore the selection from a snapshot
+[21:41:20] [Server thread/INFO]: /return: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /ride: 
+[21:41:20] [Server thread/INFO]: /rt: 
+[21:41:20] [Server thread/INFO]: /sameip: 
+[21:41:20] [Server thread/INFO]: /saturation: 
+[21:41:20] [Server thread/INFO]: /save-all: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /save-off: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /save-on: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /saveall: 
+[21:41:20] [Server thread/INFO]: /saveditems: 
+[21:41:20] [Server thread/INFO]: /say: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /sc: 
+[21:41:20] [Server thread/INFO]: /scan: 
+[21:41:20] [Server thread/INFO]: /scavenge: 
+[21:41:20] [Server thread/INFO]: /schedule: 
+[21:41:20] [Server thread/INFO]: /schematic: Schematic commands for saving/loading areas
+[21:41:20] [Server thread/INFO]: /scopy: 
+[21:41:20] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /se: 
+[21:41:20] [Server thread/INFO]: /search: 
+[21:41:20] [Server thread/INFO]: /searchitem: Search for an item
+[21:41:20] [Server thread/INFO]: /seed: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /seen: 
+[21:41:20] [Server thread/INFO]: /select: 
+[21:41:20] [Server thread/INFO]: /sell: 
+[21:41:20] [Server thread/INFO]: /selwand: Selection wand tool
+[21:41:20] [Server thread/INFO]: /sendall: 
+[21:41:20] [Server thread/INFO]: /server: 
+[21:41:20] [Server thread/INFO]: /serverlist: 
+[21:41:20] [Server thread/INFO]: /servertime: 
+[21:41:20] [Server thread/INFO]: /setblock: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /setenchantworth: 
+[21:41:20] [Server thread/INFO]: /setfirstspawn: 
+[21:41:20] [Server thread/INFO]: /sethome: 
+[21:41:20] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /setmotd: 
+[21:41:20] [Server thread/INFO]: /setrt: 
+[21:41:20] [Server thread/INFO]: /setspawn: 
+[21:41:20] [Server thread/INFO]: /setwarp: 
+[21:41:20] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /setworth: 
+[21:41:20] [Server thread/INFO]: /shadowmute: 
+[21:41:20] [Server thread/INFO]: /shakeitoff: 
+[21:41:20] [Server thread/INFO]: /shoot: 
+[21:41:20] [Server thread/INFO]: /silence: 
+[21:41:20] [Server thread/INFO]: /silentchest: 
+[21:41:20] [Server thread/INFO]: /sit: 
+[21:41:20] [Server thread/INFO]: /size: Set the brush size
+[21:41:20] [Server thread/INFO]: /skin: 
+[21:41:20] [Server thread/INFO]: /slay: [player] - Slay a player
+[21:41:20] [Server thread/INFO]: /smite: 
+[21:41:20] [Server thread/INFO]: /smithingtable: 
+[21:41:20] [Server thread/INFO]: /snapshot: Snapshot commands for restoring backups
+[21:41:20] [Server thread/INFO]: /snow: Simulates snow
+[21:41:20] [Server thread/INFO]: /solve: 
+[21:41:20] [Server thread/INFO]: /sort: Toggle automatic chest sorting or change your hotkey settings
+[21:41:20] [Server thread/INFO]: /sound: 
+[21:41:20] [Server thread/INFO]: /spawn: 
+[21:41:20] [Server thread/INFO]: /spawner: 
+[21:41:20] [Server thread/INFO]: /spawnereditor: 
+[21:41:20] [Server thread/INFO]: /spawnmob: 
+[21:41:20] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /spectate: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /speed: 
+[21:41:20] [Server thread/INFO]: /spigot: Spigot related commands
+[21:41:20] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /stack: Stack items
+[21:41:20] [Server thread/INFO]: /staffmsg: 
+[21:41:20] [Server thread/INFO]: /stats: 
+[21:41:20] [Server thread/INFO]: /statsedit: 
+[21:41:20] [Server thread/INFO]: /status: 
+[21:41:20] [Server thread/INFO]: /stonecutter: 
+[21:41:20] [Server thread/INFO]: /stop: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /stopfire: [<world>] - Disables all fire spread temporarily
+[21:41:20] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /storm: 
+[21:41:20] [Server thread/INFO]: /sudo: 
+[21:41:20] [Server thread/INFO]: /suicide: 
+[21:41:20] [Server thread/INFO]: /summon: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /sun: 
+[21:41:20] [Server thread/INFO]: /superpickaxe: Super-pickaxe commands
+[21:41:20] [Server thread/INFO]: /switchplayerdata: 
+[21:41:20] [Server thread/INFO]: /tablistupdate: 
+[21:41:20] [Server thread/INFO]: /tag: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /tc: Controls CrisTreeCapitator and gives information.
+[21:41:20] [Server thread/INFO]: /team: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /teleport: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /tell: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /tempban: 
+[21:41:20] [Server thread/INFO]: /tempipban: 
+[21:41:20] [Server thread/INFO]: /tfly: 
+[21:41:20] [Server thread/INFO]: /tgod: 
+[21:41:20] [Server thread/INFO]: /thaw: Thaws the area
+[21:41:20] [Server thread/INFO]: /thru: Pass through walls
+[21:41:20] [Server thread/INFO]: /tick: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /time: 
+[21:41:20] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[21:41:20] [Server thread/INFO]: /title: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /titlemsg: 
+[21:41:20] [Server thread/INFO]: /tm: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /toast: 
+[21:41:20] [Server thread/INFO]: /toggleeditwand: Remind the user that the wand is now a tool and can be unbound with /tool none.
+[21:41:20] [Server thread/INFO]: /toggleplace: Switch between your position and pos1 for placement
+[21:41:20] [Server thread/INFO]: /tool: Binds a tool to the item in your hand
+[21:41:20] [Server thread/INFO]: /toollist: Edit the tool lists of vein mining categories
+[21:41:20] [Server thread/INFO]: /top: 
+[21:41:20] [Server thread/INFO]: /tp: 
+[21:41:20] [Server thread/INFO]: /tpa: 
+[21:41:20] [Server thread/INFO]: /tpaall: 
+[21:41:20] [Server thread/INFO]: /tpaccept: 
+[21:41:20] [Server thread/INFO]: /tpahere: 
+[21:41:20] [Server thread/INFO]: /tpall: 
+[21:41:20] [Server thread/INFO]: /tpallworld: 
+[21:41:20] [Server thread/INFO]: /tpbypass: 
+[21:41:20] [Server thread/INFO]: /tpdeny: 
+[21:41:20] [Server thread/INFO]: /tphere: 
+[21:41:20] [Server thread/INFO]: /tpo: 
+[21:41:20] [Server thread/INFO]: /tpohere: 
+[21:41:20] [Server thread/INFO]: /tpopos: 
+[21:41:20] [Server thread/INFO]: /tppos: 
+[21:41:20] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[21:41:20] [Server thread/INFO]: /tracemask: Set the mask used to stop tool traces
+[21:41:20] [Server thread/INFO]: /tree: Tree generator tool
+[21:41:20] [Server thread/INFO]: /trigger: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /unban: 
+[21:41:20] [Server thread/INFO]: /unbreakable: 
+[21:41:20] [Server thread/INFO]: /uncondense: 
+[21:41:20] [Server thread/INFO]: /uncuff: 
+[21:41:20] [Server thread/INFO]: /undo: Undoes the last action (from history)
+[21:41:20] [Server thread/INFO]: /ungod: [player] - Disable godmode on a player
+[21:41:20] [Server thread/INFO]: /unjail: 
+[21:41:20] [Server thread/INFO]: /unlinkaccount: 
+[21:41:20] [Server thread/INFO]: /unloadchunks: 
+[21:41:20] [Server thread/INFO]: /unmute: 
+[21:41:20] [Server thread/INFO]: /unmutechat: 
+[21:41:20] [Server thread/INFO]: /unregister: Unregister your account
+[21:41:20] [Server thread/INFO]: /unstuck: Escape from being stuck inside a block
+[21:41:20] [Server thread/INFO]: /up: Go upwards some distance
+[21:41:20] [Server thread/INFO]: /usermeta: 
+[21:41:20] [Server thread/INFO]: /util: 
+[21:41:20] [Server thread/INFO]: /vanish: 
+[21:41:20] [Server thread/INFO]: /vanishedit: 
+[21:41:20] [Server thread/INFO]: /vault-convert: Converts all data in economy1 and dumps it into economy2
+[21:41:20] [Server thread/INFO]: /vault-info: Displays information about Vault
+[21:41:20] [Server thread/INFO]: /veinminer: The main command for VeinMiner
+[21:41:20] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[21:41:20] [Server thread/INFO]: /viewrange: 
+[21:41:20] [Server thread/INFO]: /voteedit: 
+[21:41:20] [Server thread/INFO]: /votes: 
+[21:41:20] [Server thread/INFO]: /votetop: 
+[21:41:20] [Server thread/INFO]: /w: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /walkspeed: 
+[21:41:20] [Server thread/INFO]: /warn: 
+[21:41:20] [Server thread/INFO]: /warnings: 
+[21:41:20] [Server thread/INFO]: /warp: 
+[21:41:20] [Server thread/INFO]: /warpgroups: 
+[21:41:20] [Server thread/INFO]: /weather: 
+[21:41:20] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /workbench: 
+[21:41:20] [Server thread/INFO]: /world: 
+[21:41:20] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[21:41:20] [Server thread/INFO]: /worldedit: WorldEdit commands
+[21:41:20] [Server thread/INFO]: /worldguard: WorldGuard commands
+[21:41:20] [Server thread/INFO]: /worth: 
+[21:41:20] [Server thread/INFO]: /worthlist: 
+[21:41:20] [Server thread/INFO]: /xp: A Mojang provided command.
+[21:42:25] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[21:42:27] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[21:42:27] [luckperms-command-executor/INFO]: https://luckperms.net/editor/3RCgvvbCKF
+[21:45:35] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[21:45:35] [luckperms-command-executor/INFO]: [LP] (4 additions and 0 deletions)
+[21:45:35] [luckperms-command-executor/INFO]: +  plhide.group.default (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  weight.1 (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  prefix.1.&c[Stranger]  (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  meta.default.true (true)
+[21:45:35] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group member successfully.
+[21:45:35] [luckperms-command-executor/INFO]: [LP] (154 additions and 0 deletions)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.groundclean (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.pay (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.afk (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.tpdeny (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.seen (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  weight.10 (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.info.deathlocation (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.info.back (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.afkcheck (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.homes (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.gm.survival (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.head.othersource (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.info (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.top (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.solve (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.sell.blocks (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  prefix.10.&a[Member]  (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.sethome.unlimited (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.list (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.broadcast.colors (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldedit.* (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.sit (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.elytra.superboost (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.note.remove (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.worthlist (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.donate.accept (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.msg.clean (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.sit.stairs (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.bedhome (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.removemember.* (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.home (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.rt (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.warp.showlist (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  floodgate.command.unlinkaccount (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.info.* (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.flag.* (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.dispose (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.load (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.lastonline (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.checkaccount.showip (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.afk.auto (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.teleport.* (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.removewarp (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.mail.read (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.afk.kickbypass (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.donate.send (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.mailall (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  chestsort.use (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.ride (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.mail.send (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.mail.sendtemp (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.tpa (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.warp.specificlocation (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  plhide.group.member (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.inv.location (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.note.add (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.redefine.* (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.playtime (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.claim (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.wand (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.select.* (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.addmember.* (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.elytra.boost (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  chestsort.hotkey.doubleclick (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.removehome (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.info.bed (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.info.ip (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.scrollpainting (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  nlogin.command.nlogin.changepass (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.sethome.iconpicker (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.mobhead (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.bbroadcast (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.near (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.sit.location (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.elytra.freeflight (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.sethome (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  chestsort.use.inventory (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.info.pos (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.chorusteleport (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  meta.default.false (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.playtimetop (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.donate (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.openshulker.shift (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.checkexp (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.fixchunk (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.setwarp (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.back.ondeath (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.list.own (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.money (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.remove.* (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.reply (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldedit.wand.toggle (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.tps (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.dback (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.msg (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.sit.persistent (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.worth (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.head (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.armorstand.hands (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.resetback (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  worldguard.region.save (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.sameip (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  chestsort.automatic (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.broadcast.clean (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.setworth (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  chestsort.hotkey.outside (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.mail (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.sell.all (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.setwarp.multiloc (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.mail.clear (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.chatfilter.capbypass (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.warp (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  floodgate.command.linkaccount (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.msg.noreply (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.balance (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  chestsort.reload (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.warp.diffdisplayname (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.checkaccount (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.sethome.overwrite (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.back (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.editwarp (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.stats (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.inv.information (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.command.note (true)
+[21:45:35] [luckperms-command-executor/INFO]: +  cmi.armorstand.offhand (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.servertime (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  nlogin.command.nlogin.register (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.setwarp.unlimited (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.elytra (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.homes.range (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.baltop (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.gm (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.ping (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.gm.spectator (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.chatfilter.spambypass (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.openshulker (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.sell (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  worldguard.region.define (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.armorstand (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.tpaccept (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.findbiome (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.suicide (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.elytra.speedometer (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.informDurability (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.sethome.customloc (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.inv (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  nlogin.command.nlogin (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.warp.redefine (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  worldguard.region (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.tpahere (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.elytralaunch (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.toast (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.status (true)
+[21:45:36] [luckperms-command-executor/INFO]: +  cmi.command.cplaytime (true)
+[21:46:21] [User Authenticator #0/INFO]: UUID of player KevinTaswin2 is 1e1cb298-97d6-3983-a350-a13372121972
+[21:46:22] [Server thread/INFO]: KevinTaswin2[/192.168.1.5:3266] logged in with entity id 61 at ([world]9.5, 71.0, -6.5)
+[21:46:30] [Server thread/INFO]: Made KevinTaswin2 a server operator
+[21:46:34] [Server thread/INFO]: KevinTaswin2 lost connection: nLogin was successfully installed. We are restarting the server to apply the changes.
+[21:46:34] [Server thread/INFO]: KevinTaswin2 left the game
+[21:46:35] [Server thread/INFO]: Stopping server
+[21:46:35] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.0.0
+[21:46:35] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.1.1
+[21:46:35] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[21:46:35] [Server thread/INFO]: [Pl-Hide-Pro] Disabling Pl-Hide-Pro v2.8.2
+[21:46:35] [Server thread/INFO]: [GeyserSkinManager] Disabling GeyserSkinManager v1.7
+[21:46:35] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[21:46:35] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[21:46:35] [Server thread/INFO]: [CMIEInjector] Disabling CMIEInjector v1.0.2.3
+[21:46:35] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v7.3
+[21:46:35] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[21:46:35] [Server thread/INFO]: [OpeNLogin] Disabling OpeNLogin v1.6.5
+[21:46:35] [Server thread/INFO]: [CMI] Disabling CMI v9.6.9.8
+[21:46:35] [Server thread/INFO]: [CMI] Closed db connections
+[21:46:35] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.2-SNAPSHOT
+[21:46:35] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[21:46:35] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[21:46:35] [Server thread/INFO]: [CMILib] Disabling CMILib v1.4.5.0
+[21:46:35] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[21:46:35] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:46:35] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[21:46:35] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b90-2886a71)
+[21:46:35] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.5
+[21:46:35] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.19+6642-415ef95
+[21:46:35] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:46:35] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[21:46:35] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.117
+[21:46:35] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:46:35] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:46:35] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:46:35] [Server thread/INFO]: Saving players
+[21:46:35] [WebSocketConnectReadThread-130/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[21:46:35] [Server thread/INFO]: Saving worlds
+[21:46:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:46:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:46:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:46:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:46:37] [Server thread/INFO]: [ChunkHolderManager] Saved 1011 block chunks, 62 entity chunks, 1 poi chunks in world 'world' in 2.18s
+[21:46:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:46:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:46:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:46:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:46:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:46:38] [Server thread/INFO]: [ChunkHolderManager] Saved 880 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.72s
+[21:46:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:46:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:46:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:46:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:46:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:46:39] [Server thread/INFO]: [ChunkHolderManager] Saved 880 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.55s
+[21:46:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:46:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:46:39] [Server thread/INFO]: Flushing Chunk IO
+[21:46:39] [Server thread/INFO]: Closing Thread Pool
+[21:46:39] [Server thread/INFO]: Closing Server
