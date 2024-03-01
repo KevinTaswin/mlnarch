@@ -1,0 +1,110 @@
+[01:19:25] [Server thread/INFO]: [Member] molenaise04 is no longer AFK
+[01:24:33] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:24:34] [Server thread/WARN]: molenaise04 moved too quickly! 42.24999998807907,7.0,-386.65735572730273
+[01:24:42] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:25:07] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:25:15] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:25:16] [Server thread/WARN]: molenaise04 moved too quickly! -43.048127854229435,-7.0,394.0866201479081
+[01:25:27] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:25:28] [Server thread/WARN]: molenaise04 moved too quickly! 42.239999999999995,7.0,-386.4
+[01:26:11] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:26:45] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:26:54] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:26:55] [Server thread/WARN]: molenaise04 moved too quickly! -43.84144109020843,-7.0,392.9467072448886
+[01:27:09] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:27:11] [Server thread/WARN]: molenaise04 moved too quickly! 42.24999998807907,7.0,-386.0437058709826
+[01:35:52] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:35:54] [Server thread/WARN]: molenaise04 moved too quickly! 58.834858521391325,0.0,48.51798182372787
+[01:41:08] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:41:43] [Server thread/INFO]: molenaise04 issued server command: /sell all
+[01:41:48] [Server thread/INFO]: molenaise04 issued server command: /sell all
+[01:42:03] [Server thread/INFO]: molenaise04 issued server command: /sell all
+[01:42:28] [Server thread/INFO]: molenaise04 issued server command: /sell all
+[01:43:16] [Server thread/INFO]: molenaise04 issued server command: /sell all
+[01:44:33] [Server thread/INFO]: molenaise04 issued server command: /sell all
+[01:44:39] [Server thread/INFO]: molenaise04 issued server command: /sell all
+[01:45:17] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:45:56] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:46:59] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:47:01] [Server thread/WARN]: molenaise04 moved too quickly! -4.2435464004096275,0.0,48.91505774297737
+[01:47:38] [Server thread/INFO]: molenaise04 issued server command: /cmi tpaccept .BijiGwGede tpa
+[01:51:14] [Server thread/INFO]: molenaise04 issued server command: /home
+[01:52:42] [Server thread/INFO]: molenaise04 issued server command: /gm spectator
+[01:52:53] [Server thread/INFO]: molenaise04 issued server command: /gm survival
+[01:53:07] [Server thread/INFO]: molenaise04 issued server command: /gm spectator
+[01:53:18] [Server thread/INFO]: molenaise04 issued server command: /gm survival
+[01:54:56] [Server thread/INFO]: molenaise04 issued server command: /home
+[02:00:39] [Server thread/INFO]: [Member] molenaise04 is now AFK
+[02:58:32] [Server thread/INFO]: [Member] molenaise04 is no longer AFK
+[03:03:59] [Server thread/INFO]: [Member] molenaise04 is now AFK
+[05:12:29] [Server thread/INFO]: ========================
+[05:12:29] [Server thread/INFO]: Players online 1/50000
+[05:12:29] [Server thread/INFO]: member: [Afk]molenaise04
+[05:12:29] [Server thread/INFO]: ========================
+[05:37:10] [Craft Scheduler Thread - 6456 - Vault/INFO]: [Vault] Checking for Updates ... 
+[05:37:10] [Craft Scheduler Thread - 6456 - Vault/INFO]: [Vault] No new version available
+[05:49:36] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[05:49:37] [Server thread/INFO]: ========================
+[05:49:37] [Server thread/INFO]: Players online 1/50000
+[05:49:37] [Server thread/INFO]: member: [Afk]molenaise04
+[05:49:37] [Server thread/INFO]: ========================
+[05:50:26] [Server thread/INFO]: Stopping the server
+[05:50:26] [Server thread/INFO]: Stopping server
+[05:50:26] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.0.0
+[05:50:26] [Server thread/INFO]: [nLogin] Disabling nLogin v10.2.49
+[05:50:26] [Server thread/INFO]: [nLogin] Could not update: update was not confirmed by the user.
+[05:50:26] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.02s)
+[05:50:26] [Server thread/INFO]: [CMIEInjector] Disabling CMIEInjector v1.0.2.3
+[05:50:26] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.1.1
+[05:50:26] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[05:50:26] [Server thread/INFO]: [GeyserSkinManager] Disabling GeyserSkinManager v1.7
+[05:50:26] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v7.3
+[05:50:26] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[05:50:26] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[05:50:26] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[05:50:26] [Server thread/INFO]: [Pl-Hide-Pro] Disabling Pl-Hide-Pro v2.8.2
+[05:50:26] [Server thread/INFO]: [CMI] Disabling CMI v9.6.9.8
+[05:50:26] [Server thread/INFO]: [CMI] Closed db connections
+[05:50:26] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.2-SNAPSHOT
+[05:50:26] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[05:50:26] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[05:50:26] [Server thread/INFO]: [CMILib] Disabling CMILib v1.4.5.0
+[05:50:26] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[05:50:26] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[05:50:26] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[05:50:26] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b90-2886a71)
+[05:50:26] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.5
+[05:50:26] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.19+6642-415ef95
+[05:50:26] [WebSocketConnectReadThread-3816/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[05:50:26] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[05:50:26] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[05:50:26] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.117
+[05:50:26] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:50:26] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:50:26] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:50:26] [Server thread/INFO]: Saving players
+[05:50:26] [Server thread/INFO]: molenaise04 lost connection: Server closed
+[05:50:26] [Server thread/INFO]: molenaise04 left the game
+[05:50:27] [Server thread/INFO]: Saving worlds
+[05:50:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:50:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:50:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:50:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:50:28] [Server thread/INFO]: [ChunkHolderManager] Saved 660 block chunks, 154 entity chunks, 1 poi chunks in world 'world' in 1.37s
+[05:50:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:50:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:50:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:50:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:50:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:50:31] [Server thread/INFO]: [ChunkHolderManager] Saved 28 block chunks, 683 entity chunks, 0 poi chunks in world 'world_nether' in 0.89s
+[05:50:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:50:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:50:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:50:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:50:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:50:32] [Server thread/INFO]: [ChunkHolderManager] Saved 343 block chunks, 38 entity chunks, 0 poi chunks in world 'world_the_end' in 0.38s
+[05:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:50:34] [Server thread/INFO]: Flushing Chunk IO
+[05:50:34] [Server thread/INFO]: Closing Thread Pool
+[05:50:34] [Server thread/INFO]: Closing Server
