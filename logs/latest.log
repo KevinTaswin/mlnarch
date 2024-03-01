@@ -1,0 +1,360 @@
+[00:05:25] [Server thread/INFO]: There are 0 of a max of 50000 players online: 
+[00:09:08] [User Authenticator #0/INFO]: UUID of player molenaise04 is e74a4b6b-c941-331b-a6fb-668d2f8ee309
+[00:09:12] [Server thread/INFO]: molenaise04 joined the game
+[00:09:12] [Server thread/INFO]: molenaise04[/182.253.55.220:6708] logged in with entity id 5271 at ([world_the_end]253.4050247912389, 0.875, 12.604598588672385)
+[00:09:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4863ms or 97 ticks behind
+[00:09:27] [Server thread/INFO]: molenaise04 issued server command: /home EndPortal
+[00:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8078ms or 161 ticks behind
+[00:10:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7535ms or 150 ticks behind
+[00:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[00:27:15] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[00:27:18] [Server thread/INFO]: There are 1 of a max of 50000 players online: molenaise04
+[00:27:20] [Server thread/INFO]: Server tick times (avg/min/max) from last 5s, 10s, 1m:
+[00:27:20] [Server thread/INFO]: ◴ 14.3/4.2/137.8, 13.2/3.8/137.8, 12.6/3.5/137.8
+[00:27:23] [Server thread/INFO]: Server tick times (avg/min/max) from last 5s, 10s, 1m:
+[00:27:23] [Server thread/INFO]: ◴ 12.6/4.4/88.0, 12.6/3.8/137.8, 12.5/3.5/137.8
+[00:36:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
+[00:37:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3756ms or 75 ticks behind
+[00:37:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2862ms or 57 ticks behind
+[00:41:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
+[00:42:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[00:44:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5284ms or 105 ticks behind
+[01:08:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2609ms or 52 ticks behind
+[01:09:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2929ms or 58 ticks behind
+[01:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3804ms or 76 ticks behind
+[01:10:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3463ms or 69 ticks behind
+[01:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15005ms or 300 ticks behind
+[01:12:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
+[01:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
+[01:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4921ms or 98 ticks behind
+[01:14:21] [Server thread/INFO]: molenaise04 was slain by Enderman
+[01:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5141ms or 102 ticks behind
+[01:14:33] [Server thread/INFO]: molenaise04 issued server command: /home EndPortal
+[01:15:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
+[01:15:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[01:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3631ms or 72 ticks behind
+[01:17:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[01:35:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2762ms or 55 ticks behind
+[01:36:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5476ms or 109 ticks behind
+[01:37:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[01:43:31] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /112.215.231.145:57104 tried to connect!
+[01:44:34] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /36.77.225.205:43000 tried to connect!
+[01:44:36] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username KrispiyChic
+[01:44:36] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KrispiyChic (logged in as: KrispiyChic) has connected to the Java server
+[01:44:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic joined (UUID: 00000000-0000-0000-0009-01f13a63e9a4)
+[01:44:43] [Server thread/INFO]: .KrispiyChic joined the game
+[01:44:44] [Server thread/INFO]: .KrispiyChic[/36.77.225.205:0] logged in with entity id 121775 at ([world]156.69917, 76.0, -197.53603)
+[01:44:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
+[01:45:22] [Server thread/WARN]: .KrispiyChic moved wrongly!
+[01:46:50] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] KrispiyChic has disconnected from the Java server because of Bedrock client timed out
+[01:46:50] [Server thread/INFO]: .KrispiyChic lost connection: Disconnected
+[01:46:50] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic disconnected
+[01:46:50] [Server thread/INFO]: .KrispiyChic left the game
+[01:48:08] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /112.215.252.106:11956 tried to connect!
+[01:49:37] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /112.215.252.106:11956 tried to connect!
+[01:55:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[02:01:53] [Server thread/INFO]: molenaise04 was slain by Enderman
+[02:04:54] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /120.188.94.97:56701 tried to connect!
+[02:04:54] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /120.188.94.97:56701 tried to connect!
+[02:04:59] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username BrainyHare26790
+[02:04:59] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] BrainyHare26790 (logged in as: BrainyHare26790) has connected to the Java server
+[02:05:00] [Server thread/INFO]: Disconnecting /120.188.94.97:0: You are not whitelisted on this server!
+[02:05:00] [Server thread/INFO]: Disconnecting /120.188.94.97:0: You are not whitelisted on this server!
+[02:05:00] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .BrainyHare26790 disconnected
+[02:05:00] [Server thread/INFO]: /120.188.94.97:0 lost connection: You are not whitelisted on this server!
+[02:05:01] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] BrainyHare26790 has disconnected from the Java server because of You are not whitelisted on this server!
+[02:09:56] [Server thread/INFO]: molenaise04 issued server command: /gamemode
+[02:46:07] [Server thread/INFO]: molenaise04 was slain by Iron Golem
+[02:47:47] [Server thread/INFO]: molenaise04 was slain by Iron Golem
+[02:47:57] [Server thread/INFO]: molenaise04 issued server command: /home Hitrosai
+[02:48:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[02:48:28] [Server thread/INFO]: molenaise04 was slain by Iron Golem
+[02:48:31] [Server thread/INFO]: molenaise04 issued server command: /home Hitrosai
+[02:49:40] [Server thread/INFO]: molenaise04 was slain by Iron Golem
+[02:49:44] [Server thread/INFO]: molenaise04 issued server command: /home Hitrosai
+[02:53:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
+[02:56:25] [Server thread/INFO]: molenaise04 issued server command: /home Hitrosai
+[03:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10642ms or 212 ticks behind
+[03:00:25] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-405 (MC: 1.20.4) ---
+[03:00:25] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[03:00:25] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:00:25] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[03:00:25] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:cod, entity class: net.minecraft.world.entity.animal.EntityCod
+[03:00:25] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[03:00:25] [Paper Watchdog Thread/ERROR]: Entity UUID: 00852a75-5fad-4524-9770-2f32c08f547a
+[03:00:29] [Paper Watchdog Thread/ERROR]: Position: world: 'world' at location (-53.184355239999455, 54.951647289810516, -25.81204041921374)
+[03:00:29] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.005000720362207039, 0.0) (in blocks per tick)
+[03:00:29] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-53.434355239999455, 54.951647289810516, -26.06204041921374] -> [-52.934355239999455, 55.251647301731445, -25.56204041921374]
+[03:00:29] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:00:29] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[03:00:30] [Paper Watchdog Thread/ERROR]: 	PID: 33 | Suspended: false | Native: false | State: RUNNABLE
+[03:00:30] [Paper Watchdog Thread/ERROR]: 	Stack:
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.phys.shapes.OffsetDoubleList.size(OffsetDoubleList.java:20)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.phys.shapes.ArrayVoxelShape.<init>(ArrayVoxelShape.java:23)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.phys.shapes.VoxelShape.move(VoxelShape.java:486)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.util.CollisionUtil.getCollisionsForBlocksOrWorldBorder(CollisionUtil.java:1722)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.util.CollisionUtil.getCollisions(CollisionUtil.java:1801)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.collide(Entity.java:1499)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.move(Entity.java:1119)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.handleRelativeFrictionAndCalculateMovement(LivingEntity.java:2936)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.travel(LivingEntity.java:2870)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3452)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:675)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:270)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3044)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:437)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:240)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1409)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer$$Lambda/0x0000782ee0796398.accept(Unknown Source)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1314)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$8(ServerLevel.java:916)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer$$Lambda/0x0000782ee07951e0.accept(Unknown Source)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:896)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1714)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1515)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1216)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000782edfb8e298.run(Unknown Source)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.lang.Thread.runWith(Unknown Source)
+[03:00:32] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.lang.Thread.run(Unknown Source)
+[03:00:32] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:00:32] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[03:00:32] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:02:46] [Server thread/INFO]: molenaise04 issued server command: /home Hitrosai
+[03:09:09] [Server thread/INFO]: molenaise04 fell from a high place
+[03:09:35] [Server thread/INFO]: molenaise04 issued server command: /home Hitrosai
+[03:10:09] [Server thread/INFO]: molenaise04 issued server command: /home molenaise04
+[03:10:14] [Server thread/INFO]: molenaise04 issued server command: /home Hitrosai
+[03:12:09] [Server thread/INFO]: molenaise04 issued server command: /home molenaise04
+[03:12:22] [Server thread/INFO]: molenaise04 issued server command: /home Hitrosai
+[03:27:40] [Server thread/INFO]: molenaise04 issued server command: /homelist
+[03:28:32] [Server thread/INFO]: molenaise04 issued server command: /home tempatmining1
+[03:28:59] [Server thread/INFO]: molenaise04 issued server command: /veinminer pattern veinminer:tunnel
+[03:30:05] [Server thread/INFO]: molenaise04 issued server command: /veinminer add
+[03:31:07] [Server thread/INFO]: molenaise04 issued server command: /delhome tempatmining1
+[03:31:13] [Server thread/INFO]: molenaise04 issued server command: /sethome tempatmining1
+[03:31:22] [Server thread/INFO]: molenaise04 issued server command: /homelist Hitrosai
+[03:31:29] [Server thread/INFO]: molenaise04 issued server command: /home Hitrosai
+[03:42:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5348ms or 106 ticks behind
+[04:20:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4060ms or 81 ticks behind
+[04:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2572ms or 51 ticks behind
+[05:40:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[05:58:22] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /180.242.70.62:22567 tried to connect!
+[05:58:23] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /180.242.70.62:22567 tried to connect!
+[05:58:25] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username Kitrosai
+[05:58:25] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] Kitrosai (logged in as: Kitrosai) has connected to the Java server
+[05:58:28] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kitrosai joined (UUID: 00000000-0000-0000-0009-01f34c290dbc)
+[05:58:33] [Server thread/INFO]: .Kitrosai joined the game
+[05:58:34] [Server thread/INFO]: .Kitrosai[/180.242.70.62:0] logged in with entity id 165799 at ([world]-45.149002, 63.0, -9.045066)
+[05:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4395ms or 87 ticks behind
+[05:58:49] [Server thread/INFO]: .Kitrosai issued server command: /homelist
+[05:58:55] [Server thread/INFO]: .Kitrosai issued server command: /iron
+[05:59:00] [Server thread/INFO]: .Kitrosai issued server command: /home iron
+[05:59:23] [Server thread/INFO]: .Kitrosai issued server command: /home base
+[06:00:50] [Server thread/INFO]: .Kitrosai issued server command: /tc toggle
+[06:00:59] [Server thread/INFO]: .Kitrosai issued server command: /tc toggle
+[06:02:14] [Server thread/INFO]: .Kitrosai issued server command: /home enderman
+[06:05:03] [Server thread/INFO]: .Kitrosai issued server command: /home base
+[06:05:18] [Server thread/INFO]: .Kitrosai issued server command: /home end
+[06:05:44] [Server thread/INFO]: .Kitrosai issued server command: /home base
+[06:05:58] [Server thread/INFO]: .Kitrosai issued server command: /home farm
+[06:06:47] [Server thread/INFO]: .Kitrosai was shot by Skeleton
+[06:06:53] [Server thread/INFO]: .Kitrosai issued server command: /home farm
+[06:07:25] [Server thread/INFO]: .Kitrosai was blown up by Creeper
+[06:07:44] [Server thread/INFO]: .Kitrosai issued server command: /home base
+[06:07:49] [Server thread/INFO]: .Kitrosai issued server command: /home farm
+[06:09:32] [Server thread/INFO]: .Kitrosai issued server command: /home base
+[06:09:55] [Server thread/INFO]: .Kitrosai issued server command: /home farm
+[06:11:21] [Server thread/INFO]: .Kitrosai issued server command: /home base
+[06:11:40] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] Kitrosai has disconnected from the Java server because of Bedrock client disconnected
+[06:11:40] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .Kitrosai disconnected
+[06:11:40] [Server thread/INFO]: .Kitrosai lost connection: Disconnected
+[06:11:41] [Server thread/INFO]: .Kitrosai left the game
+[06:18:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19751ms or 395 ticks behind
+[06:18:42] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-405 (MC: 1.20.4) ---
+[06:18:43] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[06:18:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:18:43] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[06:18:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:18:43] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[06:18:43] [Paper Watchdog Thread/ERROR]: 	PID: 33 | Suspended: false | Native: false | State: TIMED_WAITING
+[06:18:43] [Paper Watchdog Thread/ERROR]: 	Stack:
+[06:18:43] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+[06:18:43] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+[06:18:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:148)
+[06:18:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:137)
+[06:18:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1333)
+[06:18:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1222)
+[06:18:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
+[06:18:43] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000782edfb8e298.run(Unknown Source)
+[06:18:43] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.lang.Thread.runWith(Unknown Source)
+[06:18:43] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.lang.Thread.run(Unknown Source)
+[06:18:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:18:43] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[06:18:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[07:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3911ms or 78 ticks behind
+[07:07:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2720ms or 54 ticks behind
+[07:33:59] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /120.188.92.132:39661 tried to connect!
+[07:33:59] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /120.188.92.132:39661 tried to connect!
+[07:34:09] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username Dimit3117
+[07:34:09] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] Dimit3117 (logged in as: Dimit3117) has connected to the Java server
+[07:34:12] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Dimit3117 joined (UUID: 00000000-0000-0000-0009-01f4a61f515e)
+[07:34:18] [Server thread/INFO]: .Dimit3117 joined the game
+[07:34:19] [Server thread/INFO]: .Dimit3117[/120.188.92.132:0] logged in with entity id 178520 at ([world]-86.7166, 63.0, -43.460964)
+[07:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6158ms or 123 ticks behind
+[07:34:38] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] Dimit3117 has disconnected from the Java server because of Bedrock client disconnected
+[07:34:38] [Server thread/INFO]: .Dimit3117 lost connection: Disconnected
+[07:34:38] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .Dimit3117 disconnected
+[07:34:38] [Server thread/INFO]: .Dimit3117 left the game
+[07:34:57] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /120.188.92.132:39661 tried to connect!
+[07:34:58] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /120.188.92.132:39661 tried to connect!
+[07:35:03] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username Dimit3117
+[07:35:03] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] Dimit3117 (logged in as: Dimit3117) has connected to the Java server
+[07:35:05] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Dimit3117 joined (UUID: 00000000-0000-0000-0009-01f4a61f515e)
+[07:35:05] [Server thread/INFO]: .Dimit3117 joined the game
+[07:35:05] [Server thread/INFO]: .Dimit3117[/120.188.92.132:0] logged in with entity id 178644 at ([world]-86.7166, 63.0, -43.460964)
+[07:35:50] [Async Chat Thread - #1/INFO]: <.Dimit3117> napa di tebang
+[07:36:29] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .Dimit3117 disconnected
+[07:36:29] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] Dimit3117 has disconnected from the Java server because of Bedrock client disconnected
+[07:36:29] [Server thread/INFO]: .Dimit3117 lost connection: Disconnected
+[07:36:29] [Server thread/INFO]: .Dimit3117 left the game
+[07:37:00] [User Authenticator #1/INFO]: UUID of player Arlecchino is f6628db2-514a-3b88-a543-009896c21160
+[07:37:01] [Server thread/INFO]: Arlecchino joined the game
+[07:37:01] [Server thread/INFO]: Arlecchino[/202.80.215.56:8054] logged in with entity id 178899 at ([world]9.80769146142656, 63.0, -66.58307180245536)
+[07:42:34] [Server thread/INFO]: Arlecchino was burned to a crisp while fighting Zombie
+[07:45:11] [Server thread/INFO]: Arlecchino was blown up by Creeper
+[07:50:20] [Server thread/INFO]: Arlecchino has made the advancement [Stone Age]
+[07:53:16] [Server thread/INFO]: Arlecchino has made the advancement [Getting an Upgrade]
+[07:54:25] [Server thread/INFO]: Arlecchino has made the advancement [Monster Hunter]
+[07:55:24] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /120.188.92.132:39663 tried to connect!
+[07:55:25] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /120.188.92.132:39663 tried to connect!
+[07:55:31] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username Dimit3117
+[07:55:31] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] Dimit3117 (logged in as: Dimit3117) has connected to the Java server
+[07:55:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Dimit3117 joined (UUID: 00000000-0000-0000-0009-01f4a61f515e)
+[07:55:32] [Server thread/INFO]: .Dimit3117 joined the game
+[07:55:32] [Server thread/INFO]: .Dimit3117[/120.188.92.132:0] logged in with entity id 182843 at ([world]-81.08144, 63.0, -37.436916)
+[07:55:41] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .Dimit3117 disconnected
+[07:55:41] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] Dimit3117 has disconnected from the Java server because of Bedrock client disconnected
+[07:55:41] [Server thread/INFO]: .Dimit3117 lost connection: Disconnected
+[07:55:41] [Server thread/INFO]: .Dimit3117 left the game
+[08:04:57] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /120.188.92.132:39672 tried to connect!
+[08:04:58] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username Dimit3117
+[08:04:58] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] Dimit3117 (logged in as: Dimit3117) has connected to the Java server
+[08:04:59] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Dimit3117 joined (UUID: 00000000-0000-0000-0009-01f4a61f515e)
+[08:04:59] [Server thread/INFO]: .Dimit3117 joined the game
+[08:04:59] [Server thread/INFO]: .Dimit3117[/120.188.92.132:0] logged in with entity id 184871 at ([world]-81.08144, 63.0, -37.436916)
+[08:05:21] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] Dimit3117 has disconnected from the Java server because of Bedrock client disconnected
+[08:05:21] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .Dimit3117 disconnected
+[08:05:21] [Server thread/INFO]: .Dimit3117 lost connection: Disconnected
+[08:05:21] [Server thread/INFO]: .Dimit3117 left the game
+[08:05:56] [Server thread/INFO]: Arlecchino was shot by Skeleton
+[08:07:32] [Server thread/INFO]: Arlecchino was shot by Pillager
+[08:27:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2921ms or 58 ticks behind
+[08:27:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7521ms or 150 ticks behind
+[08:27:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3100ms or 62 ticks behind
+[08:28:40] [Server thread/INFO]: Arlecchino was blown up by Creeper
+[08:35:42] [Server thread/INFO]: There are 2 of a max of 50000 players online: molenaise04, Arlecchino
+[08:41:02] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /118.136.181.11:63703 tried to connect!
+[08:41:03] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Player connected with username afartrash
+[08:41:03] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] afartrash (logged in as: afartrash) has connected to the Java server
+[08:41:04] [Server thread/INFO]: [floodgate] Floodgate player logged in as .afartrash joined (UUID: 00000000-0000-0000-0009-01f28268e14f)
+[08:41:05] [Server thread/INFO]: .afartrash joined the game
+[08:41:05] [Server thread/INFO]: .afartrash[/118.136.181.11:0] logged in with entity id 192494 at ([world]92.76317, 63.0, -150.7103)
+[08:41:42] [defaultEventLoopGroup-6-1/INFO]: [Geyser-Spigot] afartrash has disconnected from the Java server because of Bedrock client timed out
+[08:41:42] [Geyser Spigot connection thread-5-2/INFO]: [floodgate] Floodgate player logged in as .afartrash disconnected
+[08:41:42] [Server thread/INFO]: .afartrash lost connection: Disconnected
+[08:41:42] [Server thread/INFO]: .afartrash left the game
+[08:42:28] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /118.136.181.11:56140 tried to connect!
+[08:42:29] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username afartrash
+[08:42:29] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] afartrash (logged in as: afartrash) has connected to the Java server
+[08:42:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .afartrash joined (UUID: 00000000-0000-0000-0009-01f28268e14f)
+[08:42:30] [Server thread/INFO]: .afartrash joined the game
+[08:42:30] [Server thread/INFO]: .afartrash[/118.136.181.11:0] logged in with entity id 192854 at ([world]91.1798, 65.0, -155.89624)
+[08:42:53] [Async Chat Thread - #3/INFO]: <.afartrash> clau
+[08:43:28] [Async Chat Thread - #2/INFO]: <.afartrash> lu ada koordinat ke endportal?
+[08:45:16] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /103.119.140.57:30972 tried to connect!
+[08:45:17] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username BijiGwGede
+[08:45:17] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] BijiGwGede (logged in as: BijiGwGede) has connected to the Java server
+[08:45:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BijiGwGede joined (UUID: 00000000-0000-0000-0009-01fbf68b8044)
+[08:45:18] [Server thread/INFO]: .BijiGwGede joined the game
+[08:45:18] [Server thread/INFO]: .BijiGwGede[/103.119.140.57:0] logged in with entity id 193578 at ([world]-125.308586, 63.0, -18.512724)
+[08:45:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[08:45:36] [Server thread/INFO]: .BijiGwGede issued server command: /home ender
+[08:45:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind
+[08:50:02] [Server thread/INFO]: .BijiGwGede issued server command: /home aris
+[08:51:39] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] afartrash has disconnected from the Java server because of Bedrock client timed out
+[08:51:39] [Geyser Spigot connection thread-5-3/INFO]: [floodgate] Floodgate player logged in as .afartrash disconnected
+[08:51:39] [Server thread/INFO]: .afartrash lost connection: Disconnected
+[08:51:40] [Server thread/INFO]: .afartrash left the game
+[08:51:42] [Server thread/INFO]: .BijiGwGede drowned
+[08:52:28] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /118.136.181.11:59513 tried to connect!
+[08:52:29] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username afartrash
+[08:52:29] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] afartrash (logged in as: afartrash) has connected to the Java server
+[08:52:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .afartrash joined (UUID: 00000000-0000-0000-0009-01f28268e14f)
+[08:52:30] [Server thread/INFO]: .afartrash joined the game
+[08:52:30] [Server thread/INFO]: .afartrash[/118.136.181.11:0] logged in with entity id 202182 at ([world]90.85726, 63.0, -150.82057)
+[08:52:53] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] afartrash has disconnected from the Java server because of Bedrock client timed out
+[08:52:53] [Geyser Spigot connection thread-5-1/INFO]: [floodgate] Floodgate player logged in as .afartrash disconnected
+[08:52:53] [Server thread/INFO]: .afartrash lost connection: Disconnected
+[08:52:53] [Server thread/INFO]: .afartrash left the game
+[08:53:06] [Server thread/INFO]: .BijiGwGede has made the advancement [What a Deal!]
+[08:53:25] [Server thread/INFO]: Arlecchino lost connection: Disconnected
+[08:53:25] [Server thread/INFO]: Arlecchino left the game
+[09:00:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3123ms or 62 ticks behind
+[09:01:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[09:02:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16882ms or 337 ticks behind
+[09:09:03] [Server thread/INFO]: There are 2 of a max of 50000 players online: molenaise04, .BijiGwGede
+[09:10:03] [Server thread/INFO]: Stopping the server
+[09:10:04] [Server thread/INFO]: Stopping server
+[09:10:04] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.1.1
+[09:10:04] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[09:10:04] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v7.3
+[09:10:04] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[09:10:04] [Server thread/INFO]: [Sethome-Yottaka] Disabling Sethome-Yottaka v1.20.1
+[09:10:05] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v22.2
+[09:10:05] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[09:10:06] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.2
+[09:10:06] [Server thread/INFO]: [GeyserSkinManager] Disabling GeyserSkinManager v1.7
+[09:10:06] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[09:10:06] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[09:10:06] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.0.0
+[09:10:06] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.2-SNAPSHOT
+[09:10:06] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[09:10:06] [Server thread/INFO]: [Geyser-Spigot] Kicking 1 player(s)
+[09:10:06] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] BijiGwGede has disconnected from the Java server because of Geyser Proxy shutting down.
+[09:10:06] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
+[09:10:06] [Geyser Spigot connection thread-5-4/INFO]: [floodgate] Floodgate player logged in as .BijiGwGede disconnected
+[09:10:07] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[09:10:07] [WebSocketConnectReadThread-835/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[09:10:07] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b90-2886a71)
+[09:10:08] [Server thread/INFO]: Saving players
+[09:10:08] [Server thread/INFO]: molenaise04 lost connection: Terputus dari server Molen. Silahkan coba lagi.
+[09:10:08] [Server thread/INFO]: molenaise04 left the game
+[09:10:08] [Server thread/INFO]: .BijiGwGede lost connection: Terputus dari server Molen. Silahkan coba lagi.
+[09:10:08] [Server thread/INFO]: .BijiGwGede left the game
+[09:10:08] [Server thread/INFO]: Saving worlds
+[09:10:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:10:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[09:10:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[09:10:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[09:10:11] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 535 entity chunks, 0 poi chunks in world 'world' in 2.73s
+[09:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:10:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[09:10:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[09:10:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[09:10:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[09:10:11] [Server thread/INFO]: [ChunkHolderManager] Saved 5 block chunks, 56 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[09:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:10:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[09:10:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[09:10:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[09:10:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[09:10:12] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 24 entity chunks, 0 poi chunks in world 'world_the_end' in 0.52s
+[09:10:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:10:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:10:12] [Server thread/INFO]: Flushing Chunk IO
+[09:10:12] [Server thread/INFO]: Closing Thread Pool
+[09:10:12] [Server thread/INFO]: Closing Server

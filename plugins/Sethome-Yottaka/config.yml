@@ -1,0 +1,137 @@
+homes:
+  37308c21-362e-375d-806c-909d324ae449:
+    end:
+      x: 99.80882060212762
+      y: 59.0
+      z: 13.097141038549807
+      world: world_the_end
+    basesouw:
+      x: -44.1615950913404
+      y: 63.0
+      z: -3.9774544818176714
+      world: world
+    farm:
+      x: -111.27850379247761
+      y: 63.0
+      z: -19.403904766488807
+      world: world
+    enderman:
+      x: 251.54810594933105
+      y: 1.0
+      z: 12.414824686740154
+      world: world_the_end
+  00000000-0000-0000-0009-01fdd79c1f0e:
+    base:
+      x: 877.72504
+      y: 67.0
+      z: 1042.615
+      world: world
+    mine:
+      x: 1132.9867
+      y: -20.0
+      z: 1047.65
+      world: world
+  e74a4b6b-c941-331b-a6fb-668d2f8ee309:
+    Hitrosai:
+      x: -118.91067337297706
+      y: 63.0
+      z: -18.834813135593627
+      world: world
+    molenaise04:
+      x: -63.74890464647772
+      y: 63.5625
+      z: 28.854519188764126
+      world: world
+    EndPortal:
+      x: 255.27248244679842
+      y: 1.0
+      z: 15.455329077952488
+      world: world_the_end
+    Revin:
+      x: -352.30000001192093
+      y: -12.0
+      z: 114.30000001192093
+      world: world
+    tambangnether:
+      x: 140.32730625244554
+      y: 14.0
+      z: -113.60989235083804
+      world: world_nether
+    tempatmining1:
+      x: -24.219748436314703
+      y: 5.0
+      z: 48.69999998807907
+      world: world
+  00000000-0000-0000-0009-01f34c290dbc:
+    farm:
+      x: -109.06029
+      y: 63.0
+      z: -19.261688
+      world: world
+    base:
+      x: -44.55967
+      y: 63.0
+      z: -8.150005
+      world: world
+    end:
+      x: 98.08106
+      y: 60.0
+      z: 12.410994
+      world: world_the_end
+    enderman:
+      x: 253.22627
+      y: 1.0
+      z: 15.922924
+      world: world_the_end
+    v:
+      x: -120.08907
+      y: 75.0
+      z: -50.13082
+      world: world
+    dio:
+      x: -58.047787
+      y: 63.0
+      z: 30.422802
+      world: world
+    v2:
+      x: -58.024853
+      y: 63.0
+      z: -44.315952
+      world: world
+    iron:
+      x: -115.938965
+      y: 70.5
+      z: -47.875603
+      world: world
+  00000000-0000-0000-0009-01f28268e14f:
+    cave:
+      x: 118.79634
+      y: -27.0
+      z: -198.36357
+      world: world
+    mining:
+      x: 167.6609
+      y: -8.0
+      z: -173.69999
+      world: world
+    wailah:
+      x: 92.26504
+      y: 63.0
+      z: -150.14557
+      world: world
+    enchant:
+      x: -118.51753
+      y: 63.0
+      z: -22.541021
+      world: world
+  00000000-0000-0000-0009-01fbf68b8044:
+    aris:
+      x: 1328.30001
+      y: -42.0
+      z: 1809.30001
+      world: world
+    ender:
+      x: 257.50827
+      y: 1.0
+      z: 12.370799
+      world: world_the_end
