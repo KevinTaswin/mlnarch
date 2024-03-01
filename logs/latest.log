@@ -1,0 +1,303 @@
+[22:54:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:54:12] [ServerMain/INFO]: Loaded 1174 recipes
+[22:54:13] [ServerMain/INFO]: Loaded 1271 advancements
+[22:54:13] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[22:54:13] [Server thread/INFO]: Loading properties
+[22:54:13] [Server thread/INFO]: This server is running Paper version git-Paper-408 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: c5d168c)
+[22:54:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:54:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:54:16] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[22:54:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[22:54:17] [Server thread/INFO]: Default game type: SURVIVAL
+[22:54:17] [Server thread/INFO]: Generating keypair
+[22:54:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:54:18] [Server thread/INFO]: Using epoll channel type
+[22:54:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:54:18] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[22:54:20] [Server thread/INFO]: [STDOUT] [3E3H83A9QfFGAypP1Vqqa]  Downloaded from https://directleaks.net 
+[22:54:20] [Server thread/INFO]: [SpigotLibraryLoader] [AntiPopup] Loading 1 libraries... please wait
+[22:54:20] [Server thread/INFO]: [SpigotLibraryLoader] [AntiPopup] Loaded library /home/kevintaswin/papermc/libraries/dev/dejvokep/boosted-yaml-spigot/1.3/boosted-yaml-spigot-1.3.jar
+[22:54:21] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:54:27] [Server thread/WARN]: Legacy plugin CMIEInjector v1.0.2.3 does not specify an api-version.
+[22:54:28] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.117
+[22:54:28] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[22:54:28] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.19+6642-415ef95
+[22:54:29] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@199f9ac2]
+[22:54:29] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.5
+[22:54:29] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b90-2886a71)
+[22:54:31] [Server thread/INFO]: [floodgate] Took 1,645ms to boot Floodgate
+[22:54:31] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.0-SNAPSHOT-679
+[22:54:34] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[22:54:34] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.4.5.0
+[22:54:34] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.2-SNAPSHOT
+[22:54:35] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[22:54:35] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[22:54:35] [Server thread/INFO]: [CMI] Loading server plugin CMI v9.6.10.3
+[22:54:35] [Server thread/INFO]: [AntiPopup] Loading server plugin AntiPopup v7.3
+[22:54:36] [Server thread/INFO]: [AntiPopup] Loaded PacketEvents.
+[22:54:36] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.0.0
+[22:54:36] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.1.1
+[22:54:36] [Server thread/INFO]: [VeinMiner] Found WorldGuard. Registering custom region flag.
+[22:54:36] [Server thread/INFO]: [GeyserSkinManager] Loading server plugin GeyserSkinManager v1.7
+[22:54:36] [Server thread/INFO]: [Pl-Hide-Pro] Loading server plugin Pl-Hide-Pro v2.8.2
+[22:54:36] [Server thread/INFO]: [CrisTreeCapitator] Loading server plugin CrisTreeCapitator v6.4.4
+[22:54:36] [Server thread/INFO]: [CMIEInjector] Loading server plugin CMIEInjector v1.0.2.3
+[22:54:36] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.2.49
+[22:54:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:54:37] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.117
+[22:54:38] [Server thread/INFO]:         __    
+[22:54:38] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.117
+[22:54:38] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:54:38] [Server thread/INFO]: 
+[22:54:38] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:54:39] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:54:40] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:54:40] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:54:41] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3325ms)
+[22:54:41] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[22:54:41] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:54:41] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[22:54:41] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[22:54:41] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.19+6642-415ef95
+[22:54:41] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[22:54:41] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[22:54:42] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[22:54:44] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[22:54:44] [Server thread/INFO]: [CMIEInjector] Enabling CMIEInjector v1.0.2.3*
+[22:54:44] [Server thread/INFO]: [CMIEInjector] Injecting CMI Economy
+[22:54:44] [Server thread/INFO]: [CMIEInjector] [Economy] CMI Economy found: Waiting
+[22:54:44] [Server thread/INFO]: [nLogin] Enabling nLogin v10.2.49
+[22:54:45] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.51s)
+[22:54:45] [Server thread/INFO]:           __             _       
+[22:54:45] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[22:54:45] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[22:54:45] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[22:54:45] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[22:54:45] [Server thread/INFO]:                   |___/            
+[22:54:45] [Server thread/INFO]:  By: www.nickuc.com - V 10.2.49
+[22:54:45] [Server thread/INFO]:  
+[22:54:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:54:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:54:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:54:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:54:46] [Server thread/INFO]: Preparing level "world"
+[22:54:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:54:49] [Server thread/INFO]: Time elapsed: 291 ms
+[22:54:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:54:49] [Server thread/INFO]: Time elapsed: 86 ms
+[22:54:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:54:49] [Server thread/INFO]: Time elapsed: 81 ms
+[22:54:49] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.5
+[22:54:49] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:54:49] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b90-2886a71)
+[22:54:50] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[22:54:51] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[22:54:51] [Server thread/INFO]: [WorldGuard] Loading region data...
+[22:54:52] [Server thread/INFO]: [CMILib] Enabling CMILib v1.4.5.0
+[22:54:55] [Server thread/INFO]: Server version: v1_20_R3 - 1.20.4 - paper  git-Paper-408 (MC: 1.20.4)
+[22:54:56] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:54:56] [Server thread/INFO]: CMI hooked.
+[22:54:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmil [1.4.5.0]
+[22:54:56] [Server thread/INFO]: PlaceholderAPI hooked.
+[22:54:56] [Server thread/INFO]: Updated (EN) language file. Took 81ms
+[22:54:56] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.2-SNAPSHOT
+[22:54:56] [Server thread/INFO]: [CMI] Enabling CMI v9.6.10.3
+[22:54:56] [Server thread/INFO]: ┏━━━┓ ┏━┓┏━┓ ┏━━┓
+[22:54:56] [Server thread/INFO]: ┃┏━┓┃ ┃ ┗┛ ┃ ┗┫┣┛
+[22:54:56] [Server thread/INFO]: ┃┃ ┗┛ ┃┏┓┏┓┃  ┃┃ 
+[22:54:56] [Server thread/INFO]: ┃┃ ┏┓ ┃┃┃┃┃┃  ┃┃ 
+[22:54:56] [Server thread/INFO]: ┃┗━┛┃ ┃┃┃┃┃┃ ┏┫┣┓
+[22:54:56] [Server thread/INFO]: ┗━━━┛ ┗┛┗┛┗┛ ┗━━┛
+[22:54:56] [Server thread/INFO]: _______________________________________________________
+[22:54:57] [Server thread/INFO]:   Integrating PaperSpigot async methods
+[22:54:57] [Server thread/INFO]:   Vault found. (Loaded: true)
+[22:54:57] [Server thread/INFO]:   59 Enabled and 0 Disabled modules
+[22:54:57] [Server thread/INFO]:   ProtocolLib found. (Loaded: true)
+[22:54:57] [Server thread/INFO]:   Permission plugin: LuckPerms5.4.117
+[22:54:58] [Server thread/INFO]:   Initialized Cipher256 AES
+[22:54:58] [Server thread/INFO]:   Loaded (61) regular alias into memory. Took 198ms
+[22:54:58] [Server thread/INFO]:   Loaded (1) custom text's into memory. Took 12ms
+[22:54:59] [Server thread/INFO]:   3.42.0 data base type detected
+[22:54:59] [Server thread/INFO]:   Started SqLite data base. Took 420ms
+[22:54:59] [Server thread/INFO]:   Vault was found - Enabling capabilities. Economy: CMIEconomy
+[22:55:00] [Server thread/INFO]:   Loaded (5) warning categories into memory. Took 4ms
+[22:55:00] [Server thread/INFO]:   Loaded (3) warning commands into memory. Took 0ms
+[22:55:00] [Server thread/INFO]:   Loaded (144) custom mob heads into memory. Took 74ms
+[22:55:00] [Server thread/INFO]:   Loaded (0) cooldowns into memory. Took 121ms
+[22:55:00] [Server thread/INFO]:   Initializing BungeeCord
+[22:55:00] [Server thread/INFO]:   Loaded (5) kits into memory. Took 77ms
+[22:55:00] [Server thread/INFO]:   Loaded (7) ranks into memory. Took 44ms
+[22:55:00] [Server thread/INFO]:   Loaded (8) playtime rewards into memory. Took 8ms
+[22:55:01] [Server thread/INFO]:   Loaded (34) player data into memory. Took 79ms
+[22:55:01] [Server thread/INFO]:   Loaded (109) playtime records into memory. Took 17ms
+[22:55:01] [Server thread/INFO]:   Loaded (0) playtime reward records into memory. Took 1ms
+[22:55:01] [Server thread/INFO]:   Loaded (0) custom alias into memory. Took 5ms
+[22:55:01] [Server thread/INFO]:   Registered events. Took 339ms
+[22:55:01] [Server thread/INFO]:   Loaded (0) event action commands into memory. Took 14ms
+[22:55:01] [Server thread/INFO]:   Loaded (EN) language file into memory. Took 309ms
+[22:55:01] [Server thread/INFO]:   Loaded (245) worth values into memory. Took 129ms
+[22:55:02] [Server thread/INFO]:   Loaded (9) warps into memory. Took 12ms
+[22:55:02] [Server thread/INFO]:   VaultPermissions found. (Loaded: true)
+[22:55:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmi [9.6.10.3]
+[22:55:02] [Server thread/INFO]:   PlaceholderAPI hooked.
+[22:55:02] [Server thread/INFO]:   PlaceholderAPI found. (Loaded: true)
+[22:55:02] [Server thread/INFO]:   Starting world timer.
+[22:55:02] [Server thread/INFO]:   Initializing world manager.
+[22:55:02] [Server thread/INFO]:   Loaded (4) schedules into memory. Took 22ms
+[22:55:02] [Server thread/INFO]:   Loaded GeoIP
+[22:55:02] [Server thread/INFO]:   Loaded (0) skin cache entries into memory. Took 0ms
+[22:55:02] [Server thread/INFO]:   Loaded (0) ArmorStand templates into memory. Took 0ms
+[22:55:02] [Server thread/INFO]:   Version 9.6.10.3 has been enabled
+[22:55:02] [Server thread/INFO]: ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[22:55:02] [Server thread/INFO]: [CMIEInjector][Economy] CMI Economy hooked.
+[22:55:02] [Server thread/INFO]: [AntiPopup] Enabling AntiPopup v7.3
+[22:55:02] [Server thread/INFO]: [AntiPopup] Config enabled.
+[22:55:02] [Server thread/INFO]: [AntiPopup] Initiated PacketEvents.
+[22:55:02] [Server thread/INFO]: [AntiPopup] Hooked on 1.20.4
+[22:55:02] [Server thread/INFO]: [AntiPopup] Commands registered.
+[22:55:02] [Server thread/INFO]: [AntiPopup] Logger filter enabled.
+[22:55:02] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.0.0
+[22:55:02] [Server thread/INFO]: [ChestSort] Hooked into WorldGuard 7.0.9+5934e49
+[22:55:02] [Server thread/INFO]: [ChestSort] Use permissions: true
+[22:55:02] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
+[22:55:02] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
+[22:55:02] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
+[22:55:02] [Server thread/INFO]: [ChestSort]   |- Sort time: close
+[22:55:02] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
+[22:55:02] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
+[22:55:02] [Server thread/INFO]: [ChestSort] Auto generate category files: true
+[22:55:02] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
+[22:55:02] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
+[22:55:02] [Server thread/INFO]: [ChestSort]   |- Middle-Click: false
+[22:55:02] [Server thread/INFO]: [ChestSort]   |- Shift-Click: false
+[22:55:02] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
+[22:55:02] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: false
+[22:55:02] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
+[22:55:02] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
+[22:55:02] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
+[22:55:02] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
+[22:55:02] [Server thread/INFO]: [ChestSort] Check for updates: true
+[22:55:02] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
+[22:55:02] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
+[22:55:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chestsort [14.0.0]
+[22:55:02] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.1.1
+[22:55:02] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[22:55:02] [Thread-16/INFO]: [VeinMiner] Using SQLITE for persistent storage.
+[22:55:02] [Server thread/INFO]: [VeinMiner] Unknown or invalid block state string for input: "minecraft:grass". Is it an item?
+[22:55:02] [Server thread/INFO]: [VeinMiner] Added 13 aliases.
+[22:55:02] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 27 unique blocks.
+[22:55:02] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 10 unique blocks.
+[22:55:02] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 39 unique blocks.
+[22:55:02] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 27 unique blocks.
+[22:55:02] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 12 unique blocks.
+[22:55:02] [Server thread/INFO]: [VeinMiner] Registering commands
+[22:55:02] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[22:55:02] [Server thread/INFO]: [VeinMiner] Registering events
+[22:55:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: veinminer [2.1.1]
+[22:55:02] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[22:55:03] [Server thread/INFO]: [VeinMiner] Economy found! Hooked successfully.
+[22:55:03] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[22:55:03] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[22:55:03] [Server thread/INFO]: [GeyserSkinManager] Enabling GeyserSkinManager v1.7
+[22:55:03] [Thread-17/INFO]: [VeinMiner] You are on the latest version of VeinMiner.
+[22:55:04] [Server thread/WARN]: [GeyserSkinManager] ForceShowSkins active through config; Floodgate check is bypassed!
+[22:55:04] [Server thread/INFO]: [Pl-Hide-Pro] Enabling Pl-Hide-Pro v2.8.2
+[22:55:04] [Server thread/INFO]: [Pl-Hide-Pro] [STDOUT] [Spigotunlocked.com] - ZER.
+[22:55:04] [Server thread/WARN]: Nag author(s): '[Nononitas]' of 'Pl-Hide-Pro v2.8.2' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[22:55:05] [Server thread/INFO]: [CrisTreeCapitator] Enabling CrisTreeCapitator v6.4.4
+[22:55:05] [Server thread/INFO]: [CrisTreeCapitator] WorldGuard found, extra protection enabled.
+[22:55:05] [Server thread/INFO]: [CrisTreeCapitator] Logs from JSON: [OAK_LOG, OAK_LOG, OAK_LOG, OAK_LOG]
+[22:55:05] [Server thread/INFO]: [CrisTreeCapitator] Leaves from JSON: [OAK_LEAVES, OAK_LEAVES, OAK_LEAVES, OAK_LEAVES]
+[22:55:05] [Server thread/INFO]: [CrisTreeCapitator] Enabled
+[22:55:05] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:55:05] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[22:55:05] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:55:05] [Server thread/INFO]: [Geyser-Spigot] 
+[22:55:05] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.2-SNAPSHOT (git-master-19c6648)
+[22:55:05] [Server thread/INFO]: [Geyser-Spigot] 
+[22:55:05] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:55:15] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[22:55:15] [Server thread/INFO]: [Geyser-Spigot] Done (9.244s)! Run /geyser help for help!
+[22:55:15] [Server thread/INFO]: Running delayed init tasks
+[22:55:15] [Server thread/INFO]: Done (61.881s)! For help, type "help"
+[22:55:15] [Server thread/INFO]: Timings Reset
+[22:55:15] [Craft Scheduler Thread - 10 - Vault/INFO]: [Vault] Checking for Updates ... 
+[22:55:15] [Craft Scheduler Thread - 10 - Vault/INFO]: [Vault] No new version available
+[22:56:11] [Folia Async Scheduler Thread #2/INFO]: This nickname has not yet been registered.
+[22:56:13] [Folia Async Scheduler Thread #2/INFO]: ✔ You have successfully unregistered the player .zVxgn001.
+[22:56:13] [Folia Async Scheduler Thread #2/INFO]: 
+[22:56:13] [Folia Async Scheduler Thread #2/INFO]: ⚑ This operation took 66.48ms.
+[22:57:00] [Server thread/INFO]: Stopping the server
+[22:57:00] [Server thread/INFO]: Stopping server
+[22:57:00] [Server thread/INFO]: [nLogin] Disabling nLogin v10.2.49
+[22:57:00] [Server thread/INFO]: [nLogin] Could not update: update was not confirmed by the user.
+[22:57:00] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.01s)
+[22:57:00] [Server thread/INFO]: [CMIEInjector] Disabling CMIEInjector v1.0.2.3
+[22:57:00] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[22:57:00] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[22:57:00] [Server thread/INFO]: [Pl-Hide-Pro] Disabling Pl-Hide-Pro v2.8.2
+[22:57:00] [Server thread/INFO]: [GeyserSkinManager] Disabling GeyserSkinManager v1.7
+[22:57:00] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.1.1
+[22:57:00] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[22:57:00] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.0.0
+[22:57:00] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v7.3
+[22:57:00] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[22:57:00] [Server thread/INFO]: [CMI] Disabling CMI v9.6.10.3
+[22:57:00] [Server thread/INFO]: [CMI] Closed db connections
+[22:57:00] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.2-SNAPSHOT
+[22:57:00] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[22:57:00] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[22:57:00] [Server thread/INFO]: [CMILib] Disabling CMILib v1.4.5.0
+[22:57:00] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[22:57:00] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[22:57:00] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[22:57:00] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b90-2886a71)
+[22:57:00] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.5
+[22:57:00] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.19+6642-415ef95
+[22:57:00] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:57:00] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[22:57:00] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.117
+[22:57:00] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:57:00] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:57:00] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:57:00] [Server thread/INFO]: Saving players
+[22:57:00] [WebSocketConnectReadThread-107/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[22:57:00] [Server thread/INFO]: Saving worlds
+[22:57:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:57:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:57:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:57:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:57:01] [Server thread/INFO]: [ChunkHolderManager] Saved 81 block chunks, 81 entity chunks, 0 poi chunks in world 'world' in 0.74s
+[22:57:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:57:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:57:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:57:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:57:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:57:02] [Server thread/INFO]: [ChunkHolderManager] Saved 81 block chunks, 81 entity chunks, 0 poi chunks in world 'world_nether' in 0.32s
+[22:57:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:57:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:57:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:57:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:57:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:57:02] [Server thread/INFO]: [ChunkHolderManager] Saved 81 block chunks, 81 entity chunks, 0 poi chunks in world 'world_the_end' in 0.11s
+[22:57:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:57:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:57:02] [Server thread/INFO]: Flushing Chunk IO
+[22:57:02] [Server thread/INFO]: Closing Thread Pool
+[22:57:02] [Server thread/INFO]: Closing Server
