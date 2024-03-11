@@ -1,0 +1,195 @@
+[00:18:15] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] /36.70.140.201:45412 tried to connect!
+[00:18:16] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username KevinTaswin
+[00:18:16] [defaultEventLoopGroup-7-1/INFO]: [Geyser-Spigot] KevinTaswin (logged in as: KevinTaswin) has connected to the Java server
+[00:18:17] [User Authenticator #13/INFO]: UUID of player .KevinTaswin is 00000000-0000-0000-0009-01fdd79c1f0e
+[00:18:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin joined (UUID: 00000000-0000-0000-0009-01fdd79c1f0e)
+[00:18:18] [Server thread/INFO]: .KevinTaswin joined the game
+[00:18:18] [Server thread/INFO]: .KevinTaswin[/36.70.140.201:0] logged in with entity id 158551 at ([world]834.79974, 77.0, 1043.4762)
+[00:18:39] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user .KevinTaswin has successfully logged in.
+[00:20:08] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .KevinTaswin disconnected
+[00:20:08] [defaultEventLoopGroup-7-1/INFO]: [Geyser-Spigot] KevinTaswin has disconnected from the Java server because of Bedrock client disconnected
+[00:20:08] [Server thread/INFO]: .KevinTaswin lost connection: Disconnected
+[00:20:08] [Server thread/INFO]: .KevinTaswin left the game
+[00:33:58] [Folia Async Scheduler Thread #2/INFO]: [nLogin] Connection re-established with remote server
+[01:22:18] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] /118.136.58.11:64554 tried to connect!
+[01:22:19] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username afartrash
+[01:22:19] [defaultEventLoopGroup-7-2/INFO]: [Geyser-Spigot] afartrash (logged in as: afartrash) has connected to the Java server
+[01:22:20] [User Authenticator #14/INFO]: UUID of player .afartrash is 00000000-0000-0000-0009-01f28268e14f
+[01:22:20] [Server thread/INFO]: [floodgate] Floodgate player logged in as .afartrash joined (UUID: 00000000-0000-0000-0009-01f28268e14f)
+[01:22:20] [Server thread/INFO]: .afartrash joined the game
+[01:22:20] [Server thread/INFO]: .afartrash[/118.136.58.11:0] logged in with entity id 159944 at ([world]-47.3, 87.0, -311.9089)
+[01:22:35] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user .afartrash has successfully logged in.
+[01:23:34] [Server thread/INFO]: .afartrash issued server command: /HOME MINIG
+[01:24:17] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] /112.215.45.180:54218 tried to connect!
+[01:24:19] [Server thread/INFO]: .afartrash issued server command: /home crep
+[01:24:19] [Server thread/WARN]: .afartrash moved too quickly! -28.7812384,154.125,-251.88926000000004
+[01:24:19] [Server thread/WARN]: .afartrash moved too quickly! -28.7812384,154.125,-251.88926000000004
+[01:29:29] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] /36.77.239.134:43303 tried to connect!
+[01:29:30] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username KrispiyChic
+[01:29:30] [defaultEventLoopGroup-7-3/INFO]: [Geyser-Spigot] KrispiyChic (logged in as: KrispiyChic) has connected to the Java server
+[01:29:32] [User Authenticator #15/INFO]: UUID of player .KrispiyChic is 00000000-0000-0000-0009-01f13a63e9a4
+[01:29:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic joined (UUID: 00000000-0000-0000-0009-01f13a63e9a4)
+[01:29:32] [Server thread/INFO]: .KrispiyChic joined the game
+[01:29:32] [Server thread/INFO]: .KrispiyChic[/36.77.239.134:0] logged in with entity id 162790 at ([world]151.1123, 76.0, -198.37105)
+[01:29:36] [Server thread/INFO]: .afartrash issued server command: /home minig
+[01:29:36] [Server thread/WARN]: .afartrash moved too quickly! 68.59017899999999,-138.0,245.4919
+[01:29:36] [Server thread/WARN]: .afartrash moved too quickly! 68.59017899999999,-138.0,245.4919
+[01:29:36] [Server thread/WARN]: .afartrash moved too quickly! 68.59017899999999,-138.0,245.4919
+[01:29:36] [Server thread/WARN]: .afartrash moved too quickly! 68.59017899999999,-138.0,245.4919
+[01:29:36] [Server thread/WARN]: .afartrash moved too quickly! 68.59017899999999,-138.0,245.4919
+[01:30:09] [Folia Async Scheduler Thread #1/INFO]: [nLogin] The user .KrispiyChic has successfully logged in.
+[01:30:40] [Server thread/INFO]: .afartrash issued server command: /home crep
+[01:30:40] [Server thread/WARN]: .afartrash moved too quickly! 14.445781,153.125,-289.08835
+[01:36:09] [Server thread/WARN]: .KrispiyChic moved too quickly! 9.17288000000002,-3.421599999999998,-2.3407100000000014
+[01:39:05] [defaultEventLoopGroup-7-3/INFO]: [Geyser-Spigot] KrispiyChic has disconnected from the Java server because of Bedrock client timed out
+[01:39:05] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .KrispiyChic disconnected
+[01:39:05] [Server thread/INFO]: .KrispiyChic lost connection: Disconnected
+[01:39:05] [Server thread/INFO]: .KrispiyChic left the game
+[01:39:13] [Async Chat Thread - #1/INFO]: [Member] .afartrash: bruh help me
+[01:39:21] [Async Chat Thread - #0/INFO]: [Member] .afartrash: tired of dis shi
+[01:49:13] [Server thread/INFO]: .afartrash issued server command: /gm sp
+[01:49:28] [Server thread/INFO]: .afartrash issued server command: /home base
+[01:49:28] [Server thread/WARN]: .afartrash moved too quickly! 77.26691600000001,-16.275000000000006,164.38893000000002
+[01:49:29] [Server thread/WARN]: .afartrash moved too quickly! 77.26691600000001,-16.275000000000006,164.38893000000002
+[01:49:29] [Server thread/WARN]: .afartrash moved too quickly! 77.26691600000001,-16.275000000000006,164.38893000000002
+[01:49:29] [Server thread/WARN]: .afartrash moved too quickly! 77.26691600000001,-16.275000000000006,164.38893000000002
+[01:49:29] [Server thread/WARN]: .afartrash moved too quickly! 77.26691600000001,-16.275000000000006,164.38893000000002
+[01:49:29] [Server thread/WARN]: .afartrash moved too quickly! 77.26691600000001,-16.275000000000006,164.38893000000002
+[01:49:29] [Server thread/WARN]: .afartrash moved too quickly! 77.26691600000001,-16.275000000000006,164.38893000000002
+[01:49:29] [Server thread/WARN]: .afartrash moved too quickly! 77.26691600000001,-16.275000000000006,164.38893000000002
+[01:49:29] [Server thread/WARN]: .afartrash moved too quickly! 77.26691600000001,-16.275000000000006,164.38893000000002
+[01:49:35] [Server thread/INFO]: .afartrash issued server command: /home minig
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:35] [Server thread/WARN]: .afartrash moved too quickly! -8.035605000000004,-123.0,84.52105000000002
+[01:49:38] [Server thread/INFO]: .afartrash issued server command: /gm s
+[01:50:24] [Server thread/INFO]: .afartrash issued server command: /home base
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:50:24] [Server thread/WARN]: .afartrash moved too quickly! -3.4498259999999874,131.0,-7.598349999999982
+[01:51:33] [Server thread/INFO]: .afartrash issued server command: /home cre
+[01:51:36] [Server thread/INFO]: .afartrash issued server command: /home crep
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[01:51:36] [Server thread/WARN]: .afartrash moved too quickly! -92.36937900000001,22.125,-155.84366000000003
+[02:09:03] [Server thread/INFO]: [Member] .afartrash is now AFK
+[02:10:29] [Server thread/INFO]: [Member] .afartrash is no longer AFK
+[02:10:34] [Server thread/INFO]: .afartrash issued server command: /gm sp
+[02:11:10] [Server thread/INFO]: .afartrash issued server command: /gm s
+[02:11:30] [Server thread/INFO]: .afartrash issued server command: /gm sp
+[02:11:40] [Server thread/INFO]: .afartrash issued server command: /gm s
+[02:12:31] [Server thread/INFO]: .afartrash issued server command: /gm sp
+[02:12:51] [Server thread/INFO]: .afartrash issued server command: /gm s
+[02:13:30] [Server thread/INFO]: .afartrash issued server command: /home base
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:13:30] [Server thread/WARN]: .afartrash moved too quickly! 68.1786953,20.0,115.71493000000004
+[02:14:28] [defaultEventLoopGroup-7-2/INFO]: [Geyser-Spigot] afartrash has disconnected from the Java server because of Bedrock client disconnected
+[02:14:28] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .afartrash disconnected
+[02:14:28] [Server thread/INFO]: .afartrash lost connection: Disconnected
+[02:14:28] [Server thread/INFO]: .afartrash left the game
+[09:39:47] [Server thread/INFO]: Stopping the server
+[09:39:47] [Server thread/INFO]: Stopping server
+[09:39:47] [Server thread/INFO]: [Pl-Hide-Pro] Disabling Pl-Hide-Pro v2.8.3
+[09:39:47] [Server thread/INFO]: [GeyserSkinManager] Disabling GeyserSkinManager v1.7
+[09:39:47] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v7.3
+[09:39:47] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[09:39:47] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.2.4
+[09:39:47] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[09:39:47] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.0.0
+[09:39:47] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[09:39:47] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[09:39:47] [Server thread/INFO]: [nLogin] Disabling nLogin v10.2.53
+[09:39:47] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.01s)
+[09:39:47] [Server thread/INFO]: [CMIEInjector] Disabling CMIEInjector v1.0.2.3
+[09:39:47] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.2-SNAPSHOT
+[09:39:47] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[09:39:47] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[09:39:47] [Server thread/INFO]: [CMI] Disabling CMI v9.6.10.7
+[09:39:47] [Server thread/INFO]: [CMI] Closed db connections
+[09:39:47] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[09:39:47] [Server thread/INFO]: [CMILib] Disabling CMILib v1.4.5.2
+[09:39:47] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[09:39:47] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[09:39:47] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[09:39:47] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.5
+[09:39:47] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
+[09:39:47] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[09:39:47] [Server thread/INFO]: [ThrowableFireballs] Disabling ThrowableFireballs v1.9.4
+[09:39:47] [Server thread/INFO]: [ThrowableFireballs] Farewell!
+[09:39:47] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[09:39:47] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.120
+[09:39:47] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[09:39:47] [Server thread/INFO]: [LuckPerms] Closing storage...
+[09:39:47] [Server thread/INFO]: [LuckPerms] Goodbye!
+[09:39:47] [Server thread/INFO]: Saving players
+[09:39:47] [WebSocketConnectReadThread-100/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[09:39:48] [Server thread/INFO]: Saving worlds
+[09:39:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 63 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[09:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:39:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Saved 28 block chunks, 381 entity chunks, 0 poi chunks in world 'world_nether' in 0.17s
+[09:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:39:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[09:39:48] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 55 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[09:39:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:39:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:39:49] [Server thread/INFO]: Flushing Chunk IO
+[09:39:49] [Server thread/INFO]: Closing Thread Pool
+[09:39:49] [Server thread/INFO]: Closing Server
