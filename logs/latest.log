@@ -1,0 +1,46 @@
+[08:42:21] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /118.136.58.11:64692 tried to connect!
+[08:42:22] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username afartrash
+[08:42:22] [defaultEventLoopGroup-7-2/INFO]: [Geyser-Spigot] afartrash (logged in as: afartrash) has connected to the Java server
+[08:42:24] [User Authenticator #4/INFO]: UUID of player .afartrash is 00000000-0000-0000-0009-01f28268e14f
+[08:42:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as .afartrash joined (UUID: 00000000-0000-0000-0009-01f28268e14f)
+[08:42:24] [Server thread/INFO]: .afartrash joined the game
+[08:42:25] [Server thread/INFO]: .afartrash[/118.136.58.11:0] logged in with entity id 13990 at ([world]45.69999, 66.0, -124.57045)
+[08:42:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
+[08:42:46] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user .afartrash has successfully logged in.
+[08:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16117ms or 322 ticks behind
+[08:43:04] [Server thread/INFO]: .afartrash issued server command: /gm sp
+[08:43:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7231ms or 144 ticks behind
+[08:43:47] [Server thread/INFO]: .afartrash issued server command: /gm s
+[08:44:34] [Server thread/INFO]: .afartrash issued server command: /home neraka
+[08:44:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[08:45:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4508ms or 90 ticks behind
+[08:45:22] [Server thread/INFO]: .afartrash has made the advancement [Those Were the Days]
+[08:49:18] [Server thread/INFO]: .afartrash issued server command: /gm sp
+[08:49:47] [Server thread/INFO]: .afartrash has made the advancement [A Terrible Fortress]
+[08:50:01] [Server thread/INFO]: .afartrash issued server command: /gm s
+[08:57:40] [Server thread/INFO]: [Member] .afartrash is now AFK
+[08:58:41] [Server thread/INFO]: [Member] .afartrash is no longer AFK
+[09:05:08] [Server thread/INFO]: .afartrash issued server command: /sethome fortress
+[09:05:15] [Server thread/INFO]: .afartrash issued server command: /gm sp
+[09:05:29] [Server thread/INFO]: .afartrash has completed the challenge [Hot Tourist Destinations]
+[09:06:24] [Server thread/WARN]: .afartrash moved too quickly! -10.297907542988696,0.6839999999999975,0.2740417199968874
+[09:06:27] [Server thread/INFO]: .afartrash issued server command: /gm s
+[09:08:25] [Server thread/INFO]: .afartrash has made the advancement [Spooky Scary Skeleton]
+[09:24:46] [Server thread/INFO]: .afartrash withered away
+[09:26:04] [Server thread/WARN]: .afartrash moved wrongly!
+[09:31:20] [Server thread/INFO]: [Member] .afartrash is now AFK
+[09:37:57] [Server thread/INFO]: [Member] .afartrash is no longer AFK
+[09:38:11] [Server thread/INFO]: .afartrash issued server command: /home fortress
+[09:57:05] [Server thread/INFO]: .afartrash withered away
+[09:57:15] [Server thread/INFO]: .afartrash issued server command: /home fortress
+[09:58:04] [Server thread/INFO]: .afartrash issued server command: /home base
+[09:58:10] [Server thread/INFO]: .afartrash issued server command: /home minig
+[09:58:10] [Server thread/WARN]: .afartrash moved too quickly! -8.660000000000004,-123.0,83.24
+[09:58:10] [Server thread/WARN]: .afartrash moved too quickly! -8.660000000000004,-123.0,83.24
+[09:58:10] [Server thread/WARN]: .afartrash moved too quickly! -8.660000000000004,-123.0,83.24
+[09:58:10] [Server thread/WARN]: .afartrash moved too quickly! -8.660000000000004,-123.0,83.24
+[09:58:10] [Server thread/WARN]: .afartrash moved too quickly! -8.660000000000004,-123.0,83.24
+[09:58:10] [Server thread/WARN]: .afartrash moved too quickly! -8.660000000000004,-123.0,83.24
+[09:58:10] [Server thread/WARN]: .afartrash moved too quickly! -8.660000000000004,-123.0,83.24
+[09:58:10] [Server thread/WARN]: .afartrash moved too quickly! -8.660000000000004,-123.0,83.24
+[09:58:10] [Server thread/WARN]: .afartrash moved too quickly! -8.660000000000004,-123.0,83.24
