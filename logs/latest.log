@@ -1,0 +1,429 @@
+[20:19:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:19:12] [ServerMain/INFO]: Loaded 1174 recipes
+[20:19:12] [ServerMain/INFO]: Loaded 1271 advancements
+[20:19:13] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[20:19:13] [Server thread/INFO]: Loading properties
+[20:19:13] [Server thread/INFO]: This server is running Paper version git-Paper-462 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 00fd87a)
+[20:19:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:19:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:19:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[20:19:16] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[20:19:17] [Server thread/INFO]: Default game type: SURVIVAL
+[20:19:17] [Server thread/INFO]: Generating keypair
+[20:19:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:19:17] [Server thread/INFO]: Using epoll channel type
+[20:19:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:19:17] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[20:19:18] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:19:26] [Server thread/WARN]: Legacy plugin CMIEInjector v1.0.2.3 does not specify an api-version.
+[20:19:26] [Server thread/INFO]: [SpigotLibraryLoader] [AntiPopup] Loading 1 libraries... please wait
+[20:19:27] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/dev/dejvokep/boosted-yaml-spigot/1.3/boosted-yaml-spigot-1.3.pom
+[20:19:28] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/dev/dejvokep/boosted-yaml-spigot/1.3/boosted-yaml-spigot-1.3.jar
+[20:19:28] [Server thread/INFO]: [SpigotLibraryLoader] [AntiPopup] Loaded library /home/kevintaswin/newpapermc/libraries/dev/dejvokep/boosted-yaml-spigot/1.3/boosted-yaml-spigot-1.3.jar
+[20:19:28] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.121
+[20:19:28] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[20:19:28] [Server thread/INFO]: [ThrowableFireballs] Loading server plugin ThrowableFireballs v1.9.4
+[20:19:28] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.0+6678-55745ad
+[20:19:30] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@45470b5]
+[20:19:30] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.5
+[20:19:30] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.0-SNAPSHOT-679
+[20:19:33] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[20:19:33] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.4.5.2
+[20:19:33] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[20:19:34] [Server thread/INFO]: [floodgate] Took 1,185ms to boot Floodgate
+[20:19:34] [Server thread/INFO]: [CMI] Loading server plugin CMI v9.6.11.2
+[20:19:34] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.2-SNAPSHOT
+[20:19:35] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[20:19:35] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[20:19:35] [Server thread/INFO]: [CMIEInjector] Loading server plugin CMIEInjector v1.0.2.3
+[20:19:35] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.2.53
+[20:19:37] [Server thread/INFO]: [CrisTreeCapitator] Loading server plugin CrisTreeCapitator v6.4.4
+[20:19:37] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.0.0
+[20:19:37] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.2.4
+[20:19:37] [Server thread/INFO]: [VeinMiner] Found WorldGuard. Registering custom region flag.
+[20:19:37] [Server thread/INFO]: [AntiPopup] Loading server plugin AntiPopup v7.3
+[20:19:38] [Server thread/INFO]: [AntiPopup] Loaded PacketEvents.
+[20:19:38] [Server thread/INFO]: [GeyserSkinManager] Loading server plugin GeyserSkinManager v1.7
+[20:19:38] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.136
+[20:19:38] [Server thread/INFO]: [Pl-Hide-Pro] Loading server plugin Pl-Hide-Pro v2.8.3
+[20:19:38] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.121
+[20:19:39] [Server thread/INFO]:         __    
+[20:19:39] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.121
+[20:19:39] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:19:39] [Server thread/INFO]: 
+[20:19:39] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:19:39] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:19:41] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:19:41] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:19:41] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3530ms)
+[20:19:41] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[20:19:42] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[20:19:42] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[20:19:42] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[20:19:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.0+6678-55745ad
+[20:19:42] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:19:42] [Server thread/INFO]: WEPIF: Updated config file
+[20:19:42] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[20:19:43] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[20:19:45] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[20:19:45] [Server thread/INFO]: [CMIEInjector] Enabling CMIEInjector v1.0.2.3*
+[20:19:45] [Server thread/INFO]: [CMIEInjector] Injecting CMI Economy
+[20:19:45] [Server thread/INFO]: [CMIEInjector] [Economy] CMI Economy found: Waiting
+[20:19:45] [Server thread/INFO]: [nLogin] Enabling nLogin v10.2.53
+[20:19:45] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.53s)
+[20:19:45] [Server thread/INFO]:           __             _       
+[20:19:45] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[20:19:45] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[20:19:45] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[20:19:45] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[20:19:45] [Server thread/INFO]:                   |___/            
+[20:19:45] [Server thread/INFO]:  By: www.nickuc.com - V 10.2.53
+[20:19:45] [Server thread/INFO]:  
+[20:19:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:19:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:19:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:19:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:19:47] [Server thread/INFO]: Preparing level "world"
+[20:19:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:19:49] [Server thread/INFO]: Time elapsed: 568 ms
+[20:19:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:19:53] [Server thread/INFO]: Time elapsed: 3311 ms
+[20:19:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:19:53] [Server thread/INFO]: Time elapsed: 153 ms
+[20:19:53] [Server thread/INFO]: [ThrowableFireballs] Enabling ThrowableFireballs v1.9.4
+[20:19:53] [Server thread/INFO]: [ThrowableFireballs] Fireball Recipe has been updated!
+[20:19:53] [Server thread/INFO]: [ThrowableFireballs]  
+[20:19:53] [Server thread/INFO]: [ThrowableFireballs] ThrowableFireballs v1.9.4
+[20:19:53] [Server thread/INFO]: [ThrowableFireballs]   by FlailoftheLord
+[20:19:53] [Server thread/INFO]: [ThrowableFireballs]  NANI KORE~!?!?
+[20:19:53] [Server thread/INFO]: [ThrowableFireballs]  
+[20:19:53] [Server thread/INFO]: [ThrowableFireballs] WorldGuard found, registering region flags...
+[20:19:53] [Server thread/INFO]: [ThrowableFireballs] Registered custom WorldGuard flag  FIREBALLS-BLOCK-DAMAGE
+[20:19:53] [Server thread/INFO]: [ThrowableFireballs] Registered custom WorldGuard flag  FIREBALLS-ENTITY-DAMAGE
+[20:19:53] [Server thread/INFO]: [ThrowableFireballs]  
+[20:19:53] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.5
+[20:19:54] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:19:54] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[20:19:54] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[20:19:54] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[20:19:54] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[20:19:54] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[20:19:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[20:19:55] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[20:19:55] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[20:19:55] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[20:19:55] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[20:19:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[20:19:55] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[20:19:55] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[20:19:55] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[20:19:55] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[20:19:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[20:19:55] [Server thread/INFO]: [WorldGuard] Loading region data...
+[20:19:55] [Server thread/INFO]: [CMILib] Enabling CMILib v1.4.5.2
+[20:19:59] [Server thread/INFO]: Server version: v1_20_R3 - 1.20.4 - paper  git-Paper-462 (MC: 1.20.4)
+[20:20:01] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:20:01] [Server thread/INFO]: CMI hooked.
+[20:20:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmil [1.4.5.2]
+[20:20:01] [Server thread/INFO]: PlaceholderAPI hooked.
+[20:20:01] [Server thread/INFO]: Updated (EN) language file. Took 112ms
+[20:20:01] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[20:20:02] [Server thread/INFO]: [CMI] Enabling CMI v9.6.11.2
+[20:20:02] [Server thread/INFO]: [CMI] [STDOUT] [Spigotunlocked.com] - COSMO
+[20:20:02] [Server thread/WARN]: Nag author(s): '[Zrips]' of 'CMI v9.6.11.2' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[20:20:02] [Server thread/INFO]: _______________________________________________________
+[20:20:02] [Server thread/INFO]: ┏━━━┓ ┏━┓┏━┓ ┏━━┓
+[20:20:02] [Server thread/INFO]: ┃┏━┓┃ ┃ ┗┛ ┃ ┗┫┣┛
+[20:20:02] [Server thread/INFO]: ┃┃ ┗┛ ┃┏┓┏┓┃  ┃┃ 
+[20:20:02] [Server thread/INFO]: ┃┃ ┏┓ ┃┃┃┃┃┃  ┃┃ 
+[20:20:02] [Server thread/INFO]: ┃┗━┛┃ ┃┃┃┃┃┃ ┏┫┣┓
+[20:20:02] [Server thread/INFO]: ┗━━━┛ ┗┛┗┛┗┛ ┗━━┛
+[20:20:02] [Server thread/INFO]: _______________________________________________________
+[20:20:02] [Server thread/INFO]: Integrating PaperSpigot async methods
+[20:20:02] [Server thread/INFO]: Vault found. (Loaded: true)
+[20:20:02] [Server thread/INFO]: 59 Enabled and 0 Disabled modules
+[20:20:03] [Server thread/INFO]: ProtocolLib found. (Loaded: true)
+[20:20:03] [Server thread/INFO]: Permission plugin: LuckPerms5.4.121
+[20:20:03] [Server thread/INFO]: Initialized Cipher256 AES
+[20:20:04] [Server thread/INFO]: Loaded (61) regular alias into memory. Took 210ms
+[20:20:04] [Server thread/INFO]: Loaded (1) custom text's into memory. Took 11ms
+[20:20:04] [Server thread/INFO]: 3.42.0 data base type detected
+[20:20:05] [Server thread/INFO]: Started SqLite data base. Took 385ms
+[20:20:05] [Server thread/INFO]: Vault was found - Enabling capabilities. Economy: CMIEconomy
+[20:20:05] [Server thread/INFO]: Loaded (5) warning categories into memory. Took 1ms
+[20:20:05] [Server thread/INFO]: Loaded (3) warning commands into memory. Took 0ms
+[20:20:06] [Server thread/INFO]: Loaded (0) cooldowns into memory. Took 0ms
+[20:20:06] [Server thread/INFO]: Loaded (144) custom mob heads into memory. Took 62ms
+[20:20:06] [Server thread/INFO]: Initializing BungeeCord
+[20:20:06] [Server thread/INFO]: Loaded (5) kits into memory. Took 75ms
+[20:20:06] [Server thread/INFO]: Loaded (7) ranks into memory. Took 45ms
+[20:20:06] [Server thread/INFO]: Loaded (8) playtime rewards into memory. Took 10ms
+[20:20:06] [Server thread/INFO]: Loaded (37) player data into memory. Took 51ms
+[20:20:06] [Server thread/INFO]: Loaded (222) playtime records into memory. Took 42ms
+[20:20:06] [Server thread/INFO]: Loaded (0) playtime reward records into memory. Took 6ms
+[20:20:06] [Server thread/INFO]: Loaded (0) custom alias into memory. Took 7ms
+[20:20:07] [Server thread/INFO]: Registered events. Took 377ms
+[20:20:07] [Server thread/INFO]: Loaded (0) event action commands into memory. Took 18ms
+[20:20:07] [Server thread/INFO]: Loaded (EN) language file into memory. Took 360ms
+[20:20:07] [Server thread/INFO]: Loaded (245) worth values into memory. Took 190ms
+[20:20:08] [Server thread/INFO]: Loaded (10) warps into memory. Took 10ms
+[20:20:08] [Server thread/INFO]: VaultPermissions found. (Loaded: true)
+[20:20:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmi [9.6.11.2]
+[20:20:08] [Server thread/INFO]: PlaceholderAPI hooked.
+[20:20:08] [Server thread/INFO]: PlaceholderAPI found. (Loaded: true)
+[20:20:08] [Server thread/INFO]: Starting world timer.
+[20:20:08] [Server thread/INFO]: Initializing world manager.
+[20:20:08] [Server thread/INFO]: Loaded (4) schedules into memory. Took 16ms
+[20:20:08] [Server thread/INFO]: Loaded GeoIP
+[20:20:08] [Server thread/INFO]: Loaded (0) skin cache entries into memory. Took 1ms
+[20:20:08] [Server thread/INFO]: Loaded (0) ArmorStand templates into memory. Took 1ms
+[20:20:08] [Server thread/INFO]: Version 9.6.11.2 has been enabled
+[20:20:08] [Server thread/INFO]: _______________________________________________________
+[20:20:08] [Server thread/INFO]: [CMIEInjector][Economy] CMI Economy hooked.
+[20:20:08] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.2-SNAPSHOT
+[20:20:08] [Server thread/INFO]: [CrisTreeCapitator] Enabling CrisTreeCapitator v6.4.4
+[20:20:08] [Server thread/INFO]: [CrisTreeCapitator] WorldGuard found, extra protection enabled.
+[20:20:08] [Server thread/INFO]: [CrisTreeCapitator] Logs from JSON: [OAK_LOG, OAK_LOG, OAK_LOG, OAK_LOG]
+[20:20:08] [Server thread/INFO]: [CrisTreeCapitator] Leaves from JSON: [OAK_LEAVES, OAK_LEAVES, OAK_LEAVES, OAK_LEAVES]
+[20:20:08] [Server thread/INFO]: [CrisTreeCapitator] Enabled
+[20:20:08] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.0.0
+[20:20:08] [Server thread/INFO]: [ChestSort] Hooked into WorldGuard 7.0.9+5934e49
+[20:20:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chestsort [14.0.0]
+[20:20:08] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.2.4
+[20:20:08] [Server thread/INFO]: [VeinMiner] Using SQLITE for persistent storage.
+[20:20:08] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[20:20:08] [Server thread/WARN]: [VeinMiner] Unknown or invalid block state string for input: "minecraft:grass". Is it an item?
+[20:20:08] [Server thread/INFO]: [VeinMiner] Added 13 aliases.
+[20:20:08] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 27 unique blocks.
+[20:20:08] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 10 unique blocks.
+[20:20:08] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 39 unique blocks.
+[20:20:08] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 27 unique blocks.
+[20:20:08] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 12 unique blocks.
+[20:20:08] [Server thread/INFO]: [VeinMiner] Registered category with id "Hand" holding 0 unique items and 9 unique blocks.
+[20:20:08] [Server thread/INFO]: [VeinMiner] Registering commands
+[20:20:08] [Server thread/INFO]: [VeinMiner] Registering events
+[20:20:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: veinminer [2.2.4]
+[20:20:08] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[20:20:08] [Server thread/INFO]: [AntiPopup] Enabling AntiPopup v7.3
+[20:20:09] [Server thread/INFO]: [AntiPopup] Config enabled.
+[20:20:09] [Server thread/INFO]: [AntiPopup] Initiated PacketEvents.
+[20:20:09] [Server thread/INFO]: [AntiPopup] Hooked on 1.20.4
+[20:20:09] [Server thread/INFO]: [AntiPopup] Commands registered.
+[20:20:09] [Server thread/INFO]: [AntiPopup] Logger filter enabled.
+[20:20:09] [Server thread/INFO]: [GeyserSkinManager] Enabling GeyserSkinManager v1.7
+[20:20:10] [Server thread/WARN]: [GeyserSkinManager] ForceShowSkins active through config; Floodgate check is bypassed!
+[20:20:10] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.136
+[20:20:10] [Server thread/INFO]: [Pl-Hide-Pro] Enabling Pl-Hide-Pro v2.8.3
+[20:20:10] [Server thread/INFO]: [Pl-Hide-Pro] [STDOUT] [Spigotunlocked.com] - COSMO
+[20:20:10] [Server thread/WARN]: Nag author(s): '[Nononitas]' of 'Pl-Hide-Pro v2.8.3' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[20:20:12] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:20:12] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[20:20:12] [Server thread/INFO]: [Geyser-Spigot] 
+[20:20:12] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.2-SNAPSHOT (git-master-4ea94f8)
+[20:20:12] [Server thread/INFO]: [Geyser-Spigot] 
+[20:20:12] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[20:20:23] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[20:20:23] [Server thread/INFO]: [Geyser-Spigot] Done (11.154s)! Run /geyser help for help!
+[20:20:23] [Server thread/INFO]: Running delayed init tasks
+[20:20:23] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[20:20:23] [Server thread/INFO]: Done (70.351s)! For help, type "help"
+[20:20:23] [Server thread/INFO]: *************************************************************************************
+[20:20:23] [Server thread/INFO]: This is the first time you're starting this server.
+[20:20:23] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[20:20:23] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[20:20:23] [Server thread/INFO]: *************************************************************************************
+[20:20:23] [Server thread/INFO]: Timings Reset
+[20:20:24] [Craft Scheduler Thread - 10 - Pl-Hide-Pro/INFO]: [Pl-Hide-Pro] §3Pl§7-§3Hide§7-§6Pro §8▎ §r§aUpdate available: §l§b2.9.0§r§a! You are on §l§b2.8.3§r§a!
+[20:20:28] [User Authenticator #0/INFO]: UUID of player KevinTaswin is 5990d5ec-2c2c-355c-b46c-b65a2472c7c5
+[20:20:29] [Server thread/INFO]: KevinTaswin joined the game
+[20:20:29] [Server thread/INFO]: KevinTaswin[/192.168.1.3:50368] logged in with entity id 424 at ([world]888.76544, 69.0, 1016.49426)
+[20:20:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2753ms or 55 ticks behind
+[20:20:53] [Folia Async Scheduler Thread #1/INFO]: [nLogin] The user KevinTaswin has successfully logged in.
+[20:20:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13780ms or 275 ticks behind
+[20:20:58] [Server thread/INFO]: Chunky Commands
+chunky start - Start a new chunk generation task
+chunky pause - Pause current tasks and save progress
+chunky continue - Continue current or saved tasks
+chunky cancel - Stop and delete current or saved tasks
+chunky world <world> - Set the world target
+chunky worldborder - Use the world border center & radius
+chunky center <x> <z> - Set the center block location
+chunky spawn - Set the center to the spawn point
+chunky radius <radius> - Set the radius
+chunky corners <x1> <z1> <x2> <z2> - Set by corners
+chunky shape <shape> - Set the shape to generate
+chunky pattern <pattern> - Set the generation pattern
+chunky silent - Toggle displaying update messages
+chunky quiet <interval> - Set the quiet interval
+chunky trim - Delete chunks outside selection
+chunky selection - Display the current selection
+chunky progress - Displays current task progress
+chunky reload - Reload configuration
+[20:21:10] [Server thread/INFO]: [Chunky] Task started in world for the circle region centered at 0, 0 with radius 100.
+[20:21:10] [Thread-52/INFO]: [Chunky] Task running for world. Processed: 38 chunks (16.89%), ETA: 0:00:00, Rate: 229.4 cps, Current: 3, 0
+[20:21:10] [Thread-204/INFO]: [Chunky] Task finished for world. Processed: 225 chunks (100.00%), Total time: 0:00:00
+[20:21:17] [Server thread/INFO]: [Chunky] Task started in world for the circle region centered at 0, 0 with radius 1000.
+[20:21:17] [Thread-251/INFO]: [Chunky] Task running for world. Processed: 99 chunks (0.61%), ETA: 0:00:34, Rate: 470.0 cps, Current: 13, 5
+[20:21:18] [Thread-681/INFO]: [Chunky] Task running for world. Processed: 529 chunks (3.28%), ETA: 0:00:37, Rate: 413.7 cps, Current: 20, 16
+[20:21:19] [Thread-1341/INFO]: [Chunky] Task running for world. Processed: 1189 chunks (7.37%), ETA: 0:00:28, Rate: 527.9 cps, Current: 46, 12
+[20:21:20] [Thread-2063/INFO]: [Chunky] Task running for world. Processed: 1997 chunks (12.38%), ETA: 0:00:24, Rate: 588.3 cps, Current: 57, 2
+[20:21:21] [Thread-2646/INFO]: [Chunky] Task running for world. Processed: 2581 chunks (16.00%), ETA: 0:00:23, Rate: 586.5 cps, Current: 54, -16
+[20:21:22] [Thread-3398/INFO]: [Chunky] Task running for world. Processed: 3473 chunks (21.53%), ETA: 0:00:20, Rate: 618.4 cps, Current: 8, -4
+[20:21:23] [Thread-4096/INFO]: [Chunky] Task running for world. Processed: 4170 chunks (25.85%), ETA: 0:00:18, Rate: 630.2 cps, Current: -22, -29
+[20:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[20:21:24] [Thread-4752/INFO]: [Chunky] Task running for world. Processed: 4863 chunks (30.15%), ETA: 0:00:17, Rate: 633.6 cps, Current: -2, -16
+[20:21:26] [Thread-5308/INFO]: [Chunky] Task running for world. Processed: 5419 chunks (33.60%), ETA: 0:00:17, Rate: 622.2 cps, Current: -25, 23
+[20:21:27] [Thread-5940/INFO]: [Chunky] Task running for world. Processed: 6062 chunks (37.58%), ETA: 0:00:16, Rate: 623.2 cps, Current: -14, 2
+[20:21:28] [Thread-6658/INFO]: [Chunky] Task running for world. Processed: 6909 chunks (42.84%), ETA: 0:00:14, Rate: 632.4 cps, Current: -1, 49
+[20:21:29] [Thread-7415/INFO]: [Chunky] Task running for world. Processed: 7676 chunks (47.59%), ETA: 0:00:13, Rate: 639.2 cps, Current: 15, 50
+[20:21:30] [Chunky-world Thread/INFO]: [Chunky] Task running for world. Processed: 9113 chunks (56.50%), ETA: 0:00:10, Rate: 646.7 cps, Current: 53, 35
+[20:21:31] [Thread-8555/INFO]: [Chunky] Task running for world. Processed: 10278 chunks (63.72%), ETA: 0:00:09, Rate: 628.6 cps, Current: 2, -56
+[20:21:32] [Thread-8850/INFO]: [Chunky] Task running for world. Processed: 10579 chunks (65.59%), ETA: 0:00:09, Rate: 604.8 cps, Current: 11, -36
+[20:21:33] [Thread-9483/INFO]: [Chunky] Task running for world. Processed: 11344 chunks (70.33%), ETA: 0:00:07, Rate: 606.4 cps, Current: -28, -56
+[20:21:34] [Thread-10212/INFO]: [Chunky] Task running for world. Processed: 12118 chunks (75.13%), ETA: 0:00:06, Rate: 613.5 cps, Current: -3, -45
+[20:21:35] [Thread-11000/INFO]: [Chunky] Task running for world. Processed: 13681 chunks (84.82%), ETA: 0:00:03, Rate: 623.6 cps, Current: -47, -17
+[20:21:36] [Thread-11881/INFO]: [Chunky] Task running for world. Processed: 14649 chunks (90.82%), ETA: 0:00:02, Rate: 637.2 cps, Current: -48, 23
+[20:21:37] [Thread-12486/INFO]: [Chunky] Task running for world. Processed: 15863 chunks (98.35%), ETA: 0:00:00, Rate: 635.4 cps, Current: -42, 40
+[20:21:37] [Thread-12673/INFO]: [Chunky] Task finished for world. Processed: 16129 chunks (100.00%), Total time: 0:00:19
+[20:22:12] [Server thread/INFO]: KevinTaswin issued server command: /gm sp
+[20:22:42] [Server thread/INFO]: Made KevinTaswin a server operator
+[20:22:46] [Server thread/INFO]: KevinTaswin issued server command: /chunkinfo
+[20:23:02] [Server thread/INFO]: KevinTaswin issued server command: /chunky progress
+[20:23:15] [Server thread/INFO]: KevinTaswin issued server command: /chunky start world circle 0 0 10000
+[20:23:15] [Thread-12758/INFO]: [Chunky] Task running for world. Processed: 2965 chunks (0.19%), ETA: 0:33:41, Rate: 772.7 cps, Current: 63, 10
+[20:23:16] [Thread-14625/INFO]: [Chunky] Task running for world. Processed: 10105 chunks (0.65%), ETA: 0:15:38, Rate: 1657.0 cps, Current: 86, 42
+[20:23:17] [Thread-15545/INFO]: [Chunky] Task running for world. Processed: 10993 chunks (0.70%), ETA: 0:19:56, Rate: 1299.2 cps, Current: 95, 11
+[20:23:18] [Thread-15744/INFO]: [Chunky] Task running for world. Processed: 11193 chunks (0.72%), ETA: 0:27:11, Rate: 952.4 cps, Current: 89, 6
+[20:23:19] [Thread-16150/INFO]: [Chunky] Task running for world. Processed: 11602 chunks (0.74%), ETA: 0:31:28, Rate: 822.6 cps, Current: 70, -3
+[20:23:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11748 chunks (0.75%), ETA: 0:44:04, Rate: 587.4 cps, Current: 94, 19
+[20:23:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11749 chunks (0.75%), ETA: 0:59:38, Rate: 434.1 cps, Current: 93, 17
+[20:23:24] [Thread-16514/INFO]: [Chunky] Task running for world. Processed: 11969 chunks (0.76%), ETA: 1:05:55, Rate: 392.6 cps, Current: 88, -11
+[20:23:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2899ms or 57 ticks behind
+[20:23:25] [Thread-16749/INFO]: [Chunky] Task running for world. Processed: 12191 chunks (0.78%), ETA: 1:08:43, Rate: 376.6 cps, Current: 90, -32
+[20:23:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12335 chunks (0.79%), ETA: 1:13:02, Rate: 354.3 cps, Current: 88, -15
+[20:23:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12347 chunks (0.79%), ETA: 1:25:23, Rate: 303.0 cps, Current: 71, -62
+[20:23:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12358 chunks (0.79%), ETA: 1:31:45, Rate: 282.0 cps, Current: 72, -63
+[20:23:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12387 chunks (0.79%), ETA: 1:39:57, Rate: 258.9 cps, Current: 74, -60
+[20:23:32] [Thread-17092/INFO]: [Chunky] Task running for world. Processed: 12537 chunks (0.80%), ETA: 1:42:42, Rate: 251.9 cps, Current: 70, -45
+[20:23:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12687 chunks (0.81%), ETA: 2:17:58, Rate: 187.5 cps, Current: 78, -57
+[20:23:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12690 chunks (0.81%), ETA: 2:23:51, Rate: 179.8 cps, Current: 77, -59
+[20:23:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12693 chunks (0.81%), ETA: 4:43:03, Rate: 91.4 cps, Current: 79, -56
+[20:23:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12849 chunks (0.82%), ETA: 10:16:06, Rate: 42.0 cps, Current: 80, -44
+[20:23:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12957 chunks (0.83%), ETA: 10:34:08, Rate: 40.8 cps, Current: 86, -36
+[20:23:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12960 chunks (0.83%), ETA: 10:31:21, Rate: 41.0 cps, Current: 86, -37
+[20:23:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12963 chunks (0.83%), ETA: 12:42:36, Rate: 33.9 cps, Current: 88, -36
+[20:23:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12966 chunks (0.83%), ETA: 20:23:44, Rate: 21.1 cps, Current: 90, -39
+[20:23:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12973 chunks (0.83%), ETA: 19:57:31, Rate: 21.6 cps, Current: 93, -36
+[20:24:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13001 chunks (0.83%), ETA: 20:21:24, Rate: 21.2 cps, Current: 95, -37
+[20:24:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13018 chunks (0.83%), ETA: 31:46:33, Rate: 13.6 cps, Current: 94, -44
+[20:24:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13021 chunks (0.83%), ETA: 32:50:14, Rate: 13.1 cps, Current: 88, -44
+[20:24:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13025 chunks (0.83%), ETA: 35:07:36, Rate: 12.3 cps, Current: 89, -45
+[20:24:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13029 chunks (0.83%), ETA: 35:59:42, Rate: 12.0 cps, Current: 88, -46
+[20:24:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13032 chunks (0.83%), ETA: 36:24:26, Rate: 11.8 cps, Current: 90, -46
+[20:24:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13044 chunks (0.83%), ETA: 30:28:54, Rate: 14.1 cps, Current: 93, -46
+[20:24:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13048 chunks (0.83%), ETA: 31:36:25, Rate: 13.6 cps, Current: 89, -48
+[20:24:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13049 chunks (0.83%), ETA: 32:58:07, Rate: 13.1 cps, Current: 94, -47
+[20:24:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13062 chunks (0.83%), ETA: 33:03:11, Rate: 13.0 cps, Current: 92, -49
+[20:24:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13080 chunks (0.84%), ETA: 32:47:01, Rate: 13.1 cps, Current: 92, -53
+[20:24:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13145 chunks (0.84%), ETA: 39:22:37, Rate: 10.9 cps, Current: 86, -51
+[20:24:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13146 chunks (0.84%), ETA: 41:24:21, Rate: 10.4 cps, Current: 86, -52
+[20:24:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13147 chunks (0.84%), ETA: 63:39:30, Rate: 6.8 cps, Current: 84, -51
+[20:24:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13162 chunks (0.84%), ETA: 62:14:35, Rate: 6.9 cps, Current: 84, -54
+[20:24:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13178 chunks (0.84%), ETA: 56:26:29, Rate: 7.6 cps, Current: 87, -56
+[20:24:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13192 chunks (0.84%), ETA: 54:20:35, Rate: 7.9 cps, Current: 84, -57
+[20:24:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13203 chunks (0.84%), ETA: 50:46:06, Rate: 8.5 cps, Current: 87, -60
+[20:24:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13214 chunks (0.84%), ETA: 50:16:19, Rate: 8.6 cps, Current: 83, -60
+[20:24:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13223 chunks (0.84%), ETA: 51:23:52, Rate: 8.4 cps, Current: 83, -61
+[20:24:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13232 chunks (0.85%), ETA: 52:55:53, Rate: 8.1 cps, Current: 85, -61
+[20:24:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13249 chunks (0.85%), ETA: 51:35:11, Rate: 8.4 cps, Current: 89, -63
+[20:24:31] [Thread-17887/INFO]: [Chunky] Task running for world. Processed: 13322 chunks (0.85%), ETA: 38:56:40, Rate: 11.1 cps, Current: 36, -62
+[20:24:32] [Thread-18375/INFO]: [Chunky] Task running for world. Processed: 14115 chunks (0.90%), ETA: 15:29:46, Rate: 27.8 cps, Current: 53, -49
+[20:24:33] [Chunky-world Thread/INFO]: [Chunky] Task running for world. Processed: 15412 chunks (0.98%), ETA: 10:47:23, Rate: 39.9 cps, Current: -20, -60
+[20:24:34] [Thread-19183/INFO]: [Chunky] Task running for world. Processed: 16795 chunks (1.07%), ETA: 7:59:23, Rate: 53.8 cps, Current: -57, -40
+[20:24:35] [Thread-19740/INFO]: [Chunky] Task running for world. Processed: 19408 chunks (1.24%), ETA: 5:33:31, Rate: 77.2 cps, Current: -62, 27
+[20:24:36] [Thread-19961/INFO]: [Chunky] Task running for world. Processed: 19662 chunks (1.26%), ETA: 5:13:42, Rate: 82.1 cps, Current: -58, 45
+[20:24:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[20:24:37] [Thread-20028/INFO]: [Chunky] Task running for world. Processed: 19729 chunks (1.26%), ETA: 5:05:43, Rate: 84.2 cps, Current: -60, 48
+[20:24:38] [Thread-20596/INFO]: [Chunky] Task running for world. Processed: 20568 chunks (1.31%), ETA: 4:05:41, Rate: 104.8 cps, Current: -50, 65
+[20:24:39] [Thread-21541/INFO]: [Chunky] Task running for world. Processed: 21513 chunks (1.37%), ETA: 3:06:43, Rate: 137.8 cps, Current: -30, 66
+[20:24:40] [Thread-22227/INFO]: [Chunky] Task running for world. Processed: 22199 chunks (1.42%), ETA: 2:44:46, Rate: 156.0 cps, Current: -4, 90
+[20:24:41] [Thread-23008/INFO]: [Chunky] Task running for world. Processed: 22980 chunks (1.47%), ETA: 2:20:14, Rate: 183.3 cps, Current: 15, 86
+[20:24:42] [Thread-25044/INFO]: [Chunky] Task running for world. Processed: 25015 chunks (1.60%), ETA: 1:41:15, Rate: 253.5 cps, Current: 76, 90
+[20:24:43] [Thread-26218/INFO]: [Chunky] Task running for world. Processed: 26189 chunks (1.67%), ETA: 1:27:23, Rate: 293.5 cps, Current: 113, 91
+[20:24:44] [Server thread/INFO]: [Chunky] Cancelled tasks cannot be continued. If you are sure you want to cancel, type '/chunky confirm'.
+[20:24:44] [Thread-27271/INFO]: [Chunky] Task running for world. Processed: 27242 chunks (1.74%), ETA: 1:17:37, Rate: 330.2 cps, Current: 118, 63
+[20:24:45] [Thread-27717/INFO]: [Chunky] Task running for world. Processed: 27680 chunks (1.77%), ETA: 1:14:36, Rate: 343.4 cps, Current: 101, 6
+[20:24:46] [Thread-27967/INFO]: [Chunky] Task running for world. Processed: 27894 chunks (1.78%), ETA: 1:11:51, Rate: 356.5 cps, Current: 100, 21
+[20:24:47] [Thread-28116/INFO]: [Chunky] Task running for world. Processed: 28055 chunks (1.79%), ETA: 1:13:13, Rate: 349.8 cps, Current: 108, 26
+[20:24:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 28103 chunks (1.80%), ETA: 1:11:54, Rate: 356.2 cps, Current: 97, 17
+[20:24:48] [Server thread/INFO]: [Chunky] Cancelling all tasks.
+[20:24:48] [Chunky-world Thread/INFO]: [Chunky] Task stopped for world.
+[20:25:06] [Server thread/INFO]: Made KevinTaswin no longer a server operator
+[20:25:15] [Server thread/INFO]: Made KevinTaswin a server operator
+[20:25:34] [Folia Async Scheduler Thread #3/INFO]: The plugin is updated
+[20:25:38] [Server thread/INFO]: Made KevinTaswin no longer a server operator
+[20:25:43] [Server thread/INFO]: Stopping the server
+[20:25:43] [Server thread/INFO]: Stopping server
+[20:25:43] [Server thread/INFO]: [Pl-Hide-Pro] Disabling Pl-Hide-Pro v2.8.3
+[20:25:43] [Server thread/INFO]: [Chunky] Disabling Chunky v1.3.136
+[20:25:43] [Server thread/INFO]: [GeyserSkinManager] Disabling GeyserSkinManager v1.7
+[20:25:43] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v7.3
+[20:25:43] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[20:25:43] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.2.4
+[20:25:43] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[20:25:43] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.0.0
+[20:25:43] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[20:25:43] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[20:25:43] [Server thread/INFO]: [nLogin] Disabling nLogin v10.2.53
+[20:25:43] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.01s)
+[20:25:43] [Server thread/INFO]: [CMIEInjector] Disabling CMIEInjector v1.0.2.3
+[20:25:43] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.2-SNAPSHOT
+[20:25:43] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[20:25:43] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[20:25:43] [Server thread/INFO]: [CMI] Disabling CMI v9.6.11.2
+[20:25:43] [Server thread/INFO]: [CMI] Closed db connections
+[20:25:43] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[20:25:43] [Server thread/INFO]: [CMILib] Disabling CMILib v1.4.5.2
+[20:25:43] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[20:25:43] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[20:25:43] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[20:25:43] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.5
+[20:25:43] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.0+6678-55745ad
+[20:25:43] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20:25:43] [WebSocketConnectReadThread-115/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[20:25:43] [Server thread/INFO]: [ThrowableFireballs] Disabling ThrowableFireballs v1.9.4
+[20:25:43] [Server thread/INFO]: [ThrowableFireballs] Farewell!
+[20:25:44] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[20:25:44] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.121
+[20:25:44] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:25:44] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:25:44] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:25:44] [Server thread/INFO]: Saving players
+[20:25:44] [Server thread/INFO]: KevinTaswin lost connection: Server closed
+[20:25:44] [Server thread/INFO]: KevinTaswin left the game
+[20:25:44] [Server thread/INFO]: Saving worlds
+[20:25:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:25:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:25:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:25:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:25:54] [Server thread/INFO]: [ChunkHolderManager] Saved 3092 chunks (54.68%) in world 'world'
+[20:26:00] [Server thread/INFO]: [ChunkHolderManager] Saved 5703 block chunks, 5703 entity chunks, 1 poi chunks in world 'world' in 16.51s
+[20:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:26:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:26:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:26:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:26:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:26:02] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 1.09s
+[20:26:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:26:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:26:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:26:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:26:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:26:02] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.42s
+[20:26:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:26:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:26:03] [Server thread/INFO]: Flushing Chunk IO
+[20:26:03] [Server thread/INFO]: Closing Thread Pool
+[20:26:03] [Server thread/INFO]: Closing Server
