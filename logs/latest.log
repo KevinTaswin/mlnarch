@@ -1,0 +1,62 @@
+[11:03:38] [Folia Async Scheduler Thread #2/INFO]: [nLogin] Download finished (took 4885ms, hash = a938b442ab79edb00793d6029a0ef890115f7d63bb348504d7245c83f87be931)
+[23:44:35] [Server thread/INFO]: Stopping the server
+[23:44:35] [Server thread/INFO]: Stopping server
+[23:44:35] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[23:44:35] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[23:44:35] [Server thread/INFO]: [Chunky] Disabling Chunky v1.3.136
+[23:44:35] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.0.0
+[23:44:35] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v7.3
+[23:44:35] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[23:44:35] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.2.4
+[23:44:35] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[23:44:35] [Server thread/INFO]: [GeyserSkinManager] Disabling GeyserSkinManager v1.7
+[23:44:35] [Server thread/INFO]: [nLogin] Disabling nLogin v10.2.53
+[23:44:35] [Server thread/INFO]: [nLogin] Could not update: update was not confirmed by the user.
+[23:44:35] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.01s)
+[23:44:35] [Server thread/INFO]: [Pl-Hide-Pro] Disabling Pl-Hide-Pro v2.8.3
+[23:44:35] [Server thread/INFO]: [CMIEInjector] Disabling CMIEInjector v1.0.2.3
+[23:44:35] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.3-SNAPSHOT
+[23:44:35] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[23:44:35] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[23:44:35] [Server thread/INFO]: [CMI] Disabling CMI v9.7.0.2
+[23:44:35] [Server thread/INFO]: [CMI] Closed db connections
+[23:44:35] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[23:44:35] [Server thread/INFO]: [CMILib] Disabling CMILib v1.4.6.1
+[23:44:35] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[23:44:35] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[23:44:35] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[23:44:35] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.5
+[23:44:35] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.0+6678-55745ad
+[23:44:35] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[23:44:35] [Server thread/INFO]: [ThrowableFireballs] Disabling ThrowableFireballs v1.9.4
+[23:44:35] [Server thread/INFO]: [ThrowableFireballs] Farewell!
+[23:44:35] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[23:44:35] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.121
+[23:44:35] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[23:44:35] [Server thread/INFO]: [LuckPerms] Closing storage...
+[23:44:35] [Server thread/INFO]: [LuckPerms] Goodbye!
+[23:44:35] [Server thread/INFO]: Saving players
+[23:44:35] [Server thread/INFO]: Saving worlds
+[23:44:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:44:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:44:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:44:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:44:35] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 61 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[23:44:36] [WebSocketConnectReadThread-965098/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[23:44:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:44:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:44:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:44:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:44:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:44:36] [Server thread/INFO]: [ChunkHolderManager] Saved 16 block chunks, 170 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
+[23:44:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:44:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:44:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:44:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:44:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:44:36] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[23:44:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:44:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:44:37] [Server thread/INFO]: Flushing Chunk IO
+[23:44:37] [Server thread/INFO]: Closing Thread Pool
+[23:44:37] [Server thread/INFO]: Closing Server
