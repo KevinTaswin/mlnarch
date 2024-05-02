@@ -1,0 +1,37 @@
+[2024/04/02 15:31:09]: §9          __             _       
+[2024/04/02 15:31:09]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/04/02 15:31:09]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/04/02 15:31:09]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/04/02 15:31:09]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/04/02 15:31:09]: §9                  |___/            
+[2024/04/02 15:31:09]: §9 By: www.nickuc.com - V 10.2.53
+[2024/04/02 15:31:09]: §9 
+[2024/04/02 15:31:10]: §3[nLogin] [DEBUG] All settings were loaded in 335 ms.
+[2024/04/02 15:31:10]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2024/04/02 15:31:10]: §3[nLogin] [DEBUG] All plugin messages were loaded in 246 ms (languageByClient=false).
+[2024/04/02 15:31:10]: §3[nLogin] [DEBUG] All proxy settings were loaded in 2 ms.
+[2024/04/02 15:31:10]: §3[nLogin] [DEBUG] Loading database...
+[2024/04/02 15:31:11]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/04/04 07:10:13]: [nLogin] Connection re-established with remote server
+[2024/04/04 07:16:04]: [nLogin] Connection re-established with remote server
+[2024/04/04 07:32:08]: [nLogin] Connection re-established with remote server
+[2024/04/04 07:52:17]: [nLogin] Connection re-established with remote server
+[2024/04/04 08:00:13]: [nLogin] Connection re-established with remote server
+[2024/04/04 08:04:22]: [nLogin] Connection re-established with remote server
+[2024/04/04 08:10:23]: §4[nLogin] [ERROR] §cCould not connect to the api - remote server is unavailable (code = 0)
+[2024/04/04 08:12:26]: [nLogin] Connection re-established with remote server
+[2024/04/04 08:22:21]: [nLogin] Connection re-established with remote server
+[2024/04/04 08:46:43]: [nLogin] Connection re-established with remote server
+[2024/04/04 08:54:37]: [nLogin] Connection re-established with remote server
+[2024/04/04 09:00:30]: [nLogin] Connection re-established with remote server
+[2024/04/04 09:20:57]: §4[nLogin] [ERROR] §cCould not connect to the api - remote server is unavailable (code = 0)
+[2024/04/04 09:22:42]: [nLogin] Connection re-established with remote server
+[2024/04/05 07:16:55]: §4[nLogin] [ERROR] §cCould not connect to the api - internet unavailable or HTTPS port closed (this likely is a hosting error!)
+[2024/04/05 07:18:51]: [nLogin] Connection re-established with remote server
+[2024/04/05 21:37:00]: §4[nLogin] [ERROR] §cThe remote server sent an invalid response code (code = 520)
+[2024/04/05 21:39:01]: [nLogin] Connection re-established with remote server
+[2024/04/06 13:27:17]: §4[nLogin] [ERROR] §cCould not connect to the api - internet unavailable or HTTPS port closed (this likely is a hosting error!)
+[2024/04/06 13:29:18]: [nLogin] Connection re-established with remote server
+[2024/04/06 14:03:17]: §4[nLogin] [ERROR] §cCould not connect to the api - internet unavailable or HTTPS port closed (this likely is a hosting error!)
+[2024/04/06 14:09:18]: [nLogin] Connection re-established with remote server
+[2024/04/06 14:11:02]: [nLogin] Successful plugin core shutdown (took 0.01s)
